@@ -32,7 +32,7 @@ def train_model(batch_size_classifier):
         for embedding_dim in embedding_dims:
             for batch_size_word2vec in batch_size_word2vecs:
                 
-                file_to_save_classified_data = 'results/ANN_ver10/ws-' + '-embed-' + str(embedding_dim) + 'batch_size_cl' + str(batch_size_classifier)
+                file_to_save_classified_data = 'results/ANN_ver2/ws-' + '-embed-' + str(embedding_dim) + 'batch_size_cl' + str(batch_size_classifier)
                 
                 classifier = Classifier(input_size, num_classes, 
                         epoch_classifier ,embedding_dim,batch_size_classifier, optimizer_method,
@@ -42,12 +42,12 @@ def train_model(batch_size_classifier):
                 summary.write(str(window_size)+","+str(embedding_dim)+","+str(batch_size_word2vec)+","+str(batch_size_classifier)+","+str(accuracy)+"\n")
                 # print (int2intent)
 window_sizes = [2]
-embedding_dims = [50]
+embedding_dims = [100]
 batch_size_word2vecs = [4]
 file_to_save_word2vec_datas = []
 input_size = 32
 num_classes = 8
-epoch_classifier = 2000
+epoch_classifier = 1000
 
 file_data_classifier = '../data/text_classifier_ver7.txt'
 optimizer_method = OPTIMIZER_BY_GRADIENT

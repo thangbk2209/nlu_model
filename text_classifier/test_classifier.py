@@ -8,6 +8,7 @@ from pyvi import ViTokenizer, ViPosTagger
 from gensim import corpora, models, similarities
 from gensim.models import FastText
 from gensim.test.utils import get_tmpfile
+from tokenizer import *
 def read_trained_data(file_trained_data):
     with open(file_trained_data,'rb') as input_file :
         vectors = pk.load(input_file)
@@ -18,7 +19,7 @@ def read_trained_data(file_trained_data):
 input_size = 32
 embedding_dim = 50
 
-fname = get_tmpfile("fasttext.model")
+fname = get_tmpfile("word2vec_ver1.model")
 model = FastText.load(fname)
 
 texts = []
@@ -28,7 +29,7 @@ sentences = {}
 intents_filter = intents_official
 intents = list(intents_data)
 intents_size = len(intents_filter)
-sentence = "thời tiết hôm nay thế nào nhỉ?"
+sentence = "Tài khoản tiền của tôi có đủ để đi chơi không?"
 def to_one_hot(index_of_intent,intent_size):
     temp = np.zeros(intent_size)
     temp[index_of_intent] = 1
@@ -42,8 +43,9 @@ for index,intent in enumerate(intents_official):
     intent2int[intent] = index
     int2intent[index] = intent 
     # print (i)
-all_words = ViPosTagger.postagging(ViTokenizer.tokenize(sentence))[0]
-
+# all_words = ViPosTagger.postagging(ViTokenizer.tokenize(sentence))[0]
+all_words = finTokenizer(sentence)[0]
+print (all_words)
 data_x_raw = []
 # print (i)
 # print (all_words)
@@ -54,16 +56,18 @@ for k in range(input_size - len(data_x_raw)):
     padding = np.zeros(embedding_dim)
     data_x_raw.append(padding)
 data_x_original = [data_x_raw]
+# print (data_x_original)
 data_x_original = np.asarray(data_x_original)
-print (data_x_original.shape)
+# print (data_x_original.shape)
 data_x_original = np.reshape(data_x_original,(data_x_original.shape[0],data_x_original.shape[1]*data_x_original.shape[2]))
-print (data_x_original.shape)
+# print (data_x_original.shape)
 # lol
+tf.reset_default_graph()
 with tf.Session() as sess:
     
     #First let's load meta graph and restore weights
-    saver = tf.train.import_meta_graph('results/ANN_ver9/ws--embed-50batch_size_cl8.meta')
-    saver.restore(sess,tf.train.latest_checkpoint('results//ANN_ver9/'))
+    saver = tf.train.import_meta_graph('results/ANN_ver1/ws--embed-50batch_size_cl8.meta')
+    saver.restore(sess,tf.train.latest_checkpoint('results/ANN_ver1/'))
     # Access and create placeholders variables and
     graph = tf.get_default_graph()
     # print ([n.name for n in tf.get_default_graph().as_graph_def().node])

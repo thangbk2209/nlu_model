@@ -20,7 +20,7 @@ class PreprocessingDataClassifier:
         self.file_data_classifier = file_data_classifier
     def preprocessing_data_fastText(self):
         # stop_words = StopWord()
-        fname = get_tmpfile("word2vec_ver1.model")
+        fname = get_tmpfile("word2vec_ver3.model")
         model = FastText.load(fname)
         texts = []
         intents_data = [] # danh sách intents trong bộ dữ liệu
@@ -28,7 +28,7 @@ class PreprocessingDataClassifier:
         sentences = {}
         with open(self.file_data_classifier, encoding="utf8") as input:
             for line in input :
-                # print (line)
+                print (line)
                 temp = line.split(",",1)
                 temp[1] = temp[1].lower()
                 texts.append(temp[1])  #list of train_word
@@ -56,18 +56,19 @@ class PreprocessingDataClassifier:
             int2intent[index] = intent 
         # print (int2intent)
         # lol
-        for i, sentence in enumerate(texts):
-            # print (i)
+        all_sentences_word = tokenize_corpus(texts)
+        for i, all_words in enumerate(all_sentences_word):
+            print (i)
+            print (all_words)
             # data_cleaner = DataCleaner(sentence)
             # all_words = data_cleaner.separate_sentence()
-            all_words = finTokenizer(sentence))
+            # all_words = finTokenizer(sentence)
             data_x_raw = []
             # print (i)
             # print (all_words)
             for word in all_words:
                 #print ("word",word)
                 # print(self.vectors[self.word2int[word]])
-                
                 data_x_raw.append(model.wv[word])
             for k in range(self.input_size - len(data_x_raw)):
                 padding = np.zeros(self.embedding_dim)
@@ -79,6 +80,8 @@ class PreprocessingDataClassifier:
             y_train.append(label)
             all_sentences.append(all_words)
         data_classifier_size = len(x_train)
+        print (len(x_train))
+        # lol
         train_size = int(data_classifier_size * 0.8)
         with open('../data/train.txt') as input:
             line = input.readline()

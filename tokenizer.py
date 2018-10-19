@@ -123,12 +123,10 @@ def finTokenizer(text):
         all_tokens.append(tokens)
         all_tokens = np.asarray(all_tokens)
         # print (all_tokens.shape)
+        sess.close()
     return all_tokens
-def tokenize_corpus():
-    with open(corpus_file, encoding = 'utf-8') as f:
-        text = f.read().lower()
-    sentences = sent_tokenize(text)
-    print (len(sentences))
+def tokenize_corpus(sentences):
+    # print (len(sentences))
     # lol
     # not_have = []
     all_tokens = []
@@ -138,11 +136,13 @@ def tokenize_corpus():
     # file_word = open('word.txt','w', encoding="utf8")
     number_replace = '1000'
     number_words = len(word2int)
+    num = 0
     for sentence in sentences:
         sentence = sentence[:-1]
         number_sentence+=1
         all_single_word = word_tokenize(sentence)
         if(len(all_single_word)>64):
+            num+=1
             continue
         else:
             real_word.append(all_single_word)
@@ -161,6 +161,7 @@ def tokenize_corpus():
         x_one_hot_vector.append(x_one_hot_vectori)
     x_data = np.asarray(x_one_hot_vector)
     print("preprocessing done")
+    print ("number of sentences that have length longer than 64:",num)
     real_word = np.asarray(real_word)
     with tf.Session() as sess:
         tf.saved_model.loader.load(sess, ["tag"] ,export_dir = file_to_save_model)
@@ -175,7 +176,7 @@ def tokenize_corpus():
         all_index = tf.argmax(pred, axis=2, name=None)
         all_index = sess.run(all_index)
         for i in range(real_word.shape[0]):
-            print (i)
+            # print (i)
             labelsi = []
             for j in range(len(real_word[i])):
                 if (all_index[i][j] == 0):

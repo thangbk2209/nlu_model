@@ -57,11 +57,13 @@ class Classifier:
         # preprocessing_data = PreprocessingDataClassifier(self.vectors, self.embedding_dim, self.input_size,file_data_classifier)
         print ('----------------------start training -----------------------')
         self.x_train, self.y_train, self.x_test, self.y_test, self.int2intent, self.test_label, self.all_sentences, self.texts = preprocessing_data.preprocessing_data_fastText()
-        
+        print("x_train",self.x_train.shape)
+        print ("y_train",self.y_train.shape)
+        print("x_test",self.x_test.shape)
+        print("y_test",self.y_test.shape)
         self.x_train = np.reshape(self.x_train,(self.x_train.shape[0],self.x_train.shape[1] * self.x_train.shape[2]))
         self.x_test = np.reshape(self.x_test,(self.x_test.shape[0],self.x_test.shape[1] * self.x_test.shape[2]))
-        print("x_train",self.x_train.shape)
-        print("x_test",self.x_test.shape)
+        
         # print("x_test: ",self.x_test[0])
         # print("int2intent",self.int2intent[0])
        # print("intent2int",self.int2intent[0])
@@ -77,11 +79,11 @@ class Classifier:
         
         #select optimizer method 
         if self.optimizer_method == self.OPTIMIZER_BY_GRADIENT:
-            optimizer = tf.train.GradientDescentOptimizer(0.02).minimize(cross_entropy_loss,name='training_step')
+            optimizer = tf.train.GradientDescentOptimizer(0.05).minimize(cross_entropy_loss,name='training_step')
         elif self.optimizer_method == self.OPTIMIZER_BY_SGD:
             a = 0
         elif self.optimizer_method == self.OPTIMIZER_BY_ADAM:
-            optimizer = tf.train.AdamOptimizer(0.05).minimize(cross_entropy_loss)
+            optimizer = tf.train.AdamOptimizer(0.05).minimize(cross_entropy_loss,name='training_step')
         sess = tf.Session()
         init = tf.global_variables_initializer()
         # Add ops to save and restore all the variables.
@@ -140,7 +142,7 @@ class Classifier:
             temp = line.split(" ")
             train_index = [int(i) for i in temp]
             y = []
-        for i in range(1445):
+        for i in range(1708):
             # print (i)
             if i not in train_index:
                 y.append(i)
