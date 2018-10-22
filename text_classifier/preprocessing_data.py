@@ -20,7 +20,7 @@ class PreprocessingDataClassifier:
         self.file_data_classifier = file_data_classifier
     def preprocessing_data_fastText(self):
         # stop_words = StopWord()
-        fname = get_tmpfile("word2vec_ver3.model")
+        fname = get_tmpfile("word2vec_ver4.model")
         model = FastText.load(fname)
         texts = []
         intents_data = [] # danh sách intents trong bộ dữ liệu

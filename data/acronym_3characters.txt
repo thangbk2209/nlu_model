@@ -1,0 +1,63 @@
+ttck,thị_trường chứng_khoán
+ubcknn,ủy_ban chứng_khoán nhà_nước
+tbtcvn,thời_báo tài_chính việt_nam
+sgdck,sở giao_dịch chứng_khoán
+gdck,giao_dịch chứng_khoán
+tp hn,thành_phố hà_nội
+tp hcm,thành_phố hồ_chí_minh
+tphcm,thành_phố hồ_chí_minh
+tphcm,thành_phố hồ_chí_minh
+tp.hcm,thành_phố hồ_chí_minh
+ttckvn,thị_trường chứng_khoán việt_nam
+dnnn,doanh_nghiệp nhà_nước
+tpcp,trái_phiếu chính_phủ
+ttgdck,trung_tâm giao_dịch chứng_khoán
+ttlkck,trung_tâm lưu_ký chứng_khoán
+ubnd,ủy_ban nhân_dân
+nđt,nhà_đầu_tư
+ctck,công_ty chứng_khoán
+nhnn,ngân_hàng nhà_nước
+hđqt,hội_đồng quản_trị
+ctcp,công_ty cổ_phần
+hđ,hợp_đồng
+ckps,chứng_khoán phái_sinh
+tphcm,thành_phố hồ_chí_minh
+gtgd,giá_trị giao_dịch
+bctc,báo_cáo tài_chính
+bđs,bất_động_sản
+ntn,như_thế_nào
+đk,được
+kqkd,kết_quả kinh_doanh
+tmcp,thương_mại cổ_phần
+hđtl,hợp_đồng tương_lai
+hđqc,hợp_đồng quyền_chọn
+tpdn,trái_phiếu doanh_nghiệp
+phtp,phát_hành trái_phiếu
+tctd,tổ_chức tín_dụng
+đhcđ,đại_hội cổ_đông
+bctc,ngân_hàng thương_mại
+cmcn,cách_mạng công_nghiệp
+cntt,công_nghệ thông_tin
+nhtmcp,ngân_hàng thương_mại cổ_phần
+cstt,chính_sách tiền_tệ
+đttc,đầu_tư tài_chính
+phó tgđ,phó tổng_giám_đốc
+lnst,lợi_nhuận sau thuế
+đhđcđ,đại_hội_đồng cổ_đông
+đhcđcđ,đại_hội_đồng cổ_đông 
+vn-index,vnindex
+pv,phóng_viên
+dn,doanh_nghiệp
+ck,chứng_khoán
+hn,hà_nội
+tp,thành_phố
+tk,tài_khoản
+tp,thành_phố
+bn,bao_nhiêu
+nwc,net_working_capital
+fia,futures_industry_association
+dk,được
+vn,việt_nam
+cty,công_ty
+tp,thành_phố
+cp,cổ_phiếu

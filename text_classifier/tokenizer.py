@@ -34,8 +34,8 @@ def compound_word(words):
                 else:
                     break
             tokens.append(token)
-        elif(word[1] == 'O'):
-            tokens.append(word[0])
+        # elif(word[1] == 'O'):
+        #     tokens.append(word[0])
         else:
             continue
     # print (tokens)
@@ -67,6 +67,7 @@ batch_size = 512
 learning_rate = 0.2
 
 def finTokenizer(text):
+    print '-----fin tokenizer-----'
     all_tokens = []
     x_one_hot_vector = []
     real_word = []

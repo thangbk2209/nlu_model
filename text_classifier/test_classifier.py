@@ -17,9 +17,9 @@ def read_trained_data(file_trained_data):
     return vectors, word2int, int2word
 
 input_size = 32
-embedding_dim = 50
+embedding_dim = 100
 
-fname = get_tmpfile("word2vec_ver1.model")
+fname = get_tmpfile("word2vec_ver4.model")
 model = FastText.load(fname)
 
 texts = []
@@ -29,7 +29,7 @@ sentences = {}
 intents_filter = intents_official
 intents = list(intents_data)
 intents_size = len(intents_filter)
-sentence = "Tài khoản tiền của tôi có đủ để đi chơi không?"
+sentence = "Đêm qua mơ các cụ bảo nên mua ssi, thị trường ssi hôm nay thế nào?"
 def to_one_hot(index_of_intent,intent_size):
     temp = np.zeros(intent_size)
     temp[index_of_intent] = 1
@@ -56,9 +56,8 @@ for k in range(input_size - len(data_x_raw)):
     padding = np.zeros(embedding_dim)
     data_x_raw.append(padding)
 data_x_original = [data_x_raw]
-# print (data_x_original)
 data_x_original = np.asarray(data_x_original)
-# print (data_x_original.shape)
+print (data_x_original.shape)
 data_x_original = np.reshape(data_x_original,(data_x_original.shape[0],data_x_original.shape[1]*data_x_original.shape[2]))
 # print (data_x_original.shape)
 # lol
@@ -66,8 +65,8 @@ tf.reset_default_graph()
 with tf.Session() as sess:
     
     #First let's load meta graph and restore weights
-    saver = tf.train.import_meta_graph('results/ANN_ver1/ws--embed-50batch_size_cl8.meta')
-    saver.restore(sess,tf.train.latest_checkpoint('results/ANN_ver1/'))
+    saver = tf.train.import_meta_graph('results/ANN_ver3/ws--embed-100batch_size_cl8.meta')
+    saver.restore(sess,tf.train.latest_checkpoint('results/ANN_ver3/'))
     # Access and create placeholders variables and
     graph = tf.get_default_graph()
     # print ([n.name for n in tf.get_default_graph().as_graph_def().node])

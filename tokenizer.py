@@ -124,7 +124,7 @@ def finTokenizer(text):
         all_tokens = np.asarray(all_tokens)
         # print (all_tokens.shape)
         sess.close()
-    return all_tokens
+    return all_tokens[0]
 def tokenize_corpus(sentences):
     # print (len(sentences))
     # lol
@@ -193,6 +193,6 @@ def tokenize_corpus(sentences):
 if __name__ == '__main__':
     # all_tokens = tokenize_corpus()
     # print (all_tokens)
-    sentences = ["tôi muốn mua 100 cổ phiếu ssi giá 12.4."]
+    sentences = ["Sàn ck tphcm hôm nay thế nào rồi nhỉ?"]
     all_tokens = finTokenizer(sentences[0])
     print (all_tokens)

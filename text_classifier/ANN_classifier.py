@@ -4,6 +4,7 @@ import tensorflow as tf
 from preprocessing_data import PreprocessingDataClassifier
 import pickle
 import matplotlib.pyplot as plt
+import time
 """
 this class training word2vec and receive a vector embedding and 
 use this vector to train text classification by africial neural network model
@@ -83,7 +84,7 @@ class Classifier:
         elif self.optimizer_method == self.OPTIMIZER_BY_SGD:
             a = 0
         elif self.optimizer_method == self.OPTIMIZER_BY_ADAM:
-            optimizer = tf.train.AdamOptimizer(0.05).minimize(cross_entropy_loss,name='training_step')
+            optimizer = tf.train.AdamOptimizer(0.1).minimize(cross_entropy_loss,name='training_step')
         sess = tf.Session()
         init = tf.global_variables_initializer()
         # Add ops to save and restore all the variables.
@@ -93,6 +94,7 @@ class Classifier:
         total_batch = int(len(self.x_train)/ self.batch_size_classifier)
         loss_set = []
         for _ in range(self.epoch_classifier):
+            start_time = time.time()
             avg_loss = 0
             for j in range(total_batch):
                 batch_x_train, batch_y_train = self.x_train[j*self.batch_size_classifier:(j+1)*self.batch_size_classifier], self.y_train[j*self.batch_size_classifier:(j+1)*self.batch_size_classifier]
@@ -111,6 +113,8 @@ class Classifier:
                     print ("early stopping training")
                     break
             print("finished training classification phrase!!!")
+            print ('time for epoch : ', _ + 1 , time.time()-start_time)
+
         # print(self.x_test)
 
         prediction = sess.run(prediction, feed_dict={x: self.x_test})

@@ -1,0 +1,15 @@
+pv,phóng viên
+dn,doanh nghiệp
+ck,chứng khoán
+hn,hà nội
+tp,thành phố
+tk,tài khoản
+tp,thành phố
+bn,bao nhiêu
+nwc,net working capital
+fia,futures industry association
+dk,được
+vn,việt nam
+cty,công ty
+tp,thành phố
+cp,cổ phiếu
