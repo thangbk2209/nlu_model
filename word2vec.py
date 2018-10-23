@@ -5,7 +5,9 @@ from gensim import corpora, models, similarities
 from gensim.models import FastText
 from gensim.test.utils import get_tmpfile
 from tokenizer import *
+import matplotlib.pyplot as plt
 import math
+import pickle as pk
 # sentences = ["tôi muốn mua 100 cổ phiếu ssi giá 12.4."]
 # all_tokens = finTokenizer(sentences[0])
 # print (all_tokens)
@@ -57,24 +59,29 @@ for num in number_times:
 tf_arr = np.asarray(tf_arr)
 min_tf = np.min(tf_arr)
 print (min_tf)
-for i,word in enumerate(my_dictionary):
-    if(DataCleaner.is_stop_word(word)):
-        tf_arr[i] = min_tf
-print (tf_arr)
-print ('create dictionary')
-dictionary = corpora.Dictionary(corpus)
+# for i,word in enumerate(my_dictionary):
+#     if(DataCleaner.is_stop_word(word)):
+#         tf_arr[i] = min_tf
+dicts = dict((key, value) for (key, value) in zip(my_dictionary, tf_arr))
+# plt.hist(tf_arr, bins='auto') 
+# plt.show()
+# print (dicts)
+with open('tf_dicts.pkl','wb') as output:
+    pk.dump(dicts,output,pk.HIGHEST_PROTOCOL)
+# print ('create dictionary')
+# dictionary = corpora.Dictionary(corpus)
 
-dictionary.save('texts.dict') # store the dictionary, for future
-print (len(dictionary.token2id))
-print ('finish preprocessing data')
-print ('start training word2vec model using fastText')
-model = FastText(corpus, size = 50, min_count = 1, window = 2, sg = 1, hs = 0, iter = 10)
-fname = get_tmpfile("word2vec_ver6.model")
-model.save(fname)
-print ('finish train word2vec model')
-print ('start test word2vec')
-model = FastText.load(fname)
-existent_word = "đầu_tiên"
-# existent_word in model.wv.vocab
-vec = model.wv[existent_word]
-print (vec)
+# dictionary.save('texts.dict') # store the dictionary, for future
+# print (len(dictionary.token2id))
+# print ('finish preprocessing data')
+# print ('start training word2vec model using fastText')
+# model = FastText(corpus, size = 50, min_count = 1, window = 2, sg = 1, hs = 0, iter = 10)
+# fname = get_tmpfile("word2vec_ver7.model")
+# model.save(fname)
+# print ('finish train word2vec model')
+# print ('start test word2vec')
+# model = FastText.load(fname)
+# existent_word = "đầu_tiên"
+# # existent_word in model.wv.vocab
+# vec = model.wv[existent_word]
+# print (vec)

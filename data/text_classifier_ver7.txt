@@ -6,6 +6,10 @@ trade,mua vào SSI
 trade,bán ra SSI
 trade,mua thêm mã SSI
 trade,mua thêm SSI
+trade,tôi muốn mua 20 cố phiếu ssi
+trade,tôi muốn mua 20 cổ phiếu ssi với giá 12.4
+trade,tôi muốn mua 20 cổ ssi với giá 13.5
+trade,tôi muốn mua mã ssi khối lượng 100 cổ giá 13.2
 trade,tôi muốn mua mã chứng khoán SSI với 100 cổ phiếu và giá 15.6
 trade,mua cho tôi mã chứng khoán SSI với giá 10.5 và khối lượng 100
 trade,mua cổ phiếu SSI với giá 10.6 và khối lượng 50
@@ -534,12 +538,18 @@ stock_balance,số cổ phiếu SSI của tôi trong tài khoản
 stock_balance,tổng mã SSI tôi đang có
 stock_balance,tổng cp SSI tôi sở hữu
 stock_balance,tôi đang sở hữu bn cp SSI
-stock_balance,kiểm tra số lượng mã SSI
-stock_balance,kiểm tra số lượng cp SSI
+stock_balance,kiểm tra số lượng mã SSI trong tài khoản đuôi 1
+stock_balance,kiểm tra số lượng mã SSI trong các tài khoản của tôi
+stock_balance,kiểm tra số lượng cp SSI trong tài khoản đuôi 1
 stock_balance,tổng số SSI tôi nắm giữ
 stock_balance,SSI có bao nhiêu cổ
 stock_balance,kiểm tra cổ phiếu SSI trong tài khoản
 stock_balance,số cổ phiếu SSI của tôi
+stock_balance,số cổ ACB tôi đang nắm giữ là bao nhiêu
+stock_balance,tài khoản của tôi còn bao nhiêu cổ SSI nay
+stock_balance,tôi đang nắm giữ những mã nào nhỉ?
+stock_balance,tài khoản của tôi đang có những mã nào, khối lượng bao nhiêu?
+stock_balance,khối lượng của từng mã trong tài khoản của tôi là bao nhiêu?
 stock_balance,số dư chứng khoán
 stock_balance,mã cố phiếu ssi còn bao nhiêu?
 stock_balance,mã cổ phiếu ssi trong tài khoản của tôi còn bao nhiêu?
@@ -750,6 +760,8 @@ stock_balance,tôi còn bao nhiêu cổ trong tài khoản
 stock_balance,tôi đang nắm giữ bao nhiêu cổ
 stock_balance,trong tài khoản còn bao nhiêu cổ
 stock_balance,số cổ trong tài khoản
+stock_balance,số cổ trong tài khoản đuôi 1 là bao nhiêu
+stock_balance,số cổ trong tài khoản của tôi là bao nhiêu
 stock_balance,số cổ còn lại trong tài khoản của tôi
 stock_balance,có bao nhiêu cổ trong tài khoản
 stock_balance,số cổ tôi đang nắm giữ
@@ -844,6 +856,8 @@ cash_balance,thông tin số dư tiền
 cash_balance,thông tin số tiền dư
 cash_balance,trạng thái tiền của tài khoản
 cash_balance,tiền còn lại
+cash_balance,tài khoản đuôi 1 còn lại bao nhiêu tiền
+cash_balance,tài khoản của tôi còn lại bao nhiêu tiền
 cash_balance,tài khoản còn lại bao nhiêu tiền
 cash_balance,số tiền dư
 cash_balance,số dư tiền còn lại
@@ -904,7 +918,8 @@ cash_balance,thông tin số dư tiền của tôi
 cash_balance,thông tin số tiền dư của tôi
 cash_balance,trạng thái tiền của tài khoản của tôi
 cash_balance,tiền còn lại của tôi
-cash_balance,tài khoản còn lại bao nhiêu tiền của tôi
+cash_balance,tài khoản còn dư bao nhiêu tiền
+cash_balance,tài khoản đuôi 3 còn dư bao nhiêu tiền
 cash_balance,số tiền dư của tôi
 cash_balance,số dư tiền còn lại của tôi
 cash_balance,dư tiền trong tài khoản của tôi
@@ -1087,6 +1102,11 @@ advice,có nên bán SSI không
 advice,bán SSI giá 12.5 liệu có ổn không nhỉ
 advice,có nên mua bán mã SSI không
 advice,mã SSI được không
+advice,mã SSI ok không
+advice,mã SSI được không nhỉ
+advice,mã SSI ok không nhỉ
+advice,mã ssi liệu có ổn không?
+advice,mã ssi liệu có ok không?
 advice,có nên bán mã SSI
 advice,khuyến nghị về cổ phiếu SSI
 advice,khuyên thế nào về SSI
@@ -1095,8 +1115,9 @@ advice,có đáng để đầu tư cho SSI không
 advice,giờ mua vào SSI ổn chứ
 advice,SSI có tiềm năng để đầu tư không
 advice,tiềm năng đầu tư của SSI
-advice,mua SSI giá bao nhiêu hợp lý
-advice,bán SSI giá bao nhiêu hợp lý
+advice,mua SSI giá bao nhiêu thì hợp lý
+advice,bán SSI giá bao nhiêu thì hợp lý
+advice,bán SSI giá bao nhiêu thì hợp lý nhỉ
 advice,vào mã SSI bây giờ có nên không
 advice,có nên mua vào SSI không
 advice,có nên bán ra SSI không
@@ -1342,6 +1363,7 @@ end,kết thúc
 end,gặp lại sau
 end,mai nói chuyện sau
 end,mai gặp lại
+end,mai gặp lại nhé
 end,hẹn lúc khác nhé
 end,hẹn gặp sau nhé
 end,chào tạm biệt
@@ -1374,7 +1396,10 @@ cancel,loại bỏ
 cancel,hủy lệnh
 cancel,dừng lệnh
 cancel,dừng lại
+cancel,tạm dừng giao dịch
 cancel,tạm dừng
+cancel,tạm dừng lệnh mua
+cancel,tạm dựng lệnh bán
 cancel,dừng ngay
 cancel,hủy ngay
 cancel,bỏ lệnh
@@ -1405,6 +1430,8 @@ cancel,bỏ đặt lệnh
 cancel,dừng làm
 cancel,đừng làm
 cancel,quay trở lại
+cancel,quay trở lại trang chủ
+cancel,quay trở lại tính năng trước
 cancel,làm lại
 cancel,không khớp lệnh
 cancel,bỏ khớp lệnh
@@ -1534,6 +1561,7 @@ trade,hôm qua thị trường chán nhỉ, bán cho tôi 1000 SSI giá 10
 trade,hôm qua thị trường chán ghê, bán 1000 SSI giá 10 đi
 trade,hôm qua thị trường chán thật, bán mã SSI với số lượng 100 giá 10.5
 trade,hôm qua thị trường tệ quá, bán hết SSI đi
+trade,hôm qua thị trường tệ quá, bán hết SSI giúp tôi
 trade,hôm qua thị trường sao thế nhỉ, bán 100 mã SSI giá 10.5
 trade,hôm qua thị trường xuống nhiều, bán toàn bộ mã SSI cho tôi
 trade,hôm qua thị trường đang giảm, bán 1000 mã SSI giá 10,5

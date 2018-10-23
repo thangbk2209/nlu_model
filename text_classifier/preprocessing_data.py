@@ -7,6 +7,7 @@ from tokenizer import *
 from gensim import corpora, models, similarities
 from gensim.models import FastText
 from gensim.test.utils import get_tmpfile
+from data_cleaner import DataCleaner
 class PreprocessingDataClassifier:
     """ This class prepare data for text_classification phrase.
     first, read the training data from text file: file_data_classifier.
@@ -20,7 +21,7 @@ class PreprocessingDataClassifier:
         self.file_data_classifier = file_data_classifier
     def preprocessing_data_fastText(self):
         # stop_words = StopWord()
-        fname = get_tmpfile("word2vec_ver4.model")
+        fname = get_tmpfile("word2vec_ver7.model")
         model = FastText.load(fname)
         texts = []
         intents_data = [] # danh sách intents trong bộ dữ liệu
@@ -57,17 +58,18 @@ class PreprocessingDataClassifier:
         # print (int2intent)
         # lol
         all_sentences_word = tokenize_corpus(texts)
+        data_cleaner = DataCleaner(all_sentences_word)
+        all_sentences_word = data_cleaner.clean()
         for i, all_words in enumerate(all_sentences_word):
             print (i)
             print (all_words)
-            # data_cleaner = DataCleaner(sentence)
-            # all_words = data_cleaner.separate_sentence()
+            
             # all_words = finTokenizer(sentence)
             data_x_raw = []
             # print (i)
             # print (all_words)
             for word in all_words:
-                #print ("word",word)
+                print ("word",word)
                 # print(self.vectors[self.word2int[word]])
                 data_x_raw.append(model.wv[word])
             for k in range(self.input_size - len(data_x_raw)):

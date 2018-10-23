@@ -446,6 +446,7 @@ dễ_đâu
 dở_chừng
 dữ
 dữ_cách
+đêm
 em
 em_em
 giảm_chính
@@ -1825,6 +1826,10 @@ xệp
                     for word in words:
                         fixed_sentence.append(word)
 
+                    continue
+                elif(self.data[i][j] in symbol_arr):
+                    fixed_sentence.append('ssi')
+                elif(self.data[i][j] in special_character):
                     continue
                 else:
                     fixed_sentence.append(self.data[i][j])

@@ -146,7 +146,7 @@ class Classifier:
             temp = line.split(" ")
             train_index = [int(i) for i in temp]
             y = []
-        for i in range(1708):
+        for i in range(1736):
             # print (i)
             if i not in train_index:
                 y.append(i)
@@ -154,7 +154,8 @@ class Classifier:
             
             if(predict[i] == self.test_label[i]):
                 correct +=1
-                # fail_file.write(self.test_label[i] + ',' + self.texts[y[i]])
+            else:
+                print(self.test_label[i] + ',' + self.texts[y[i]])
         accuracy = correct/len(self.test_label)
         print ('correct: ',correct)
         print ('test_label: ',len(self.test_label))
