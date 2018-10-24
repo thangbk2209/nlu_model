@@ -6,6 +6,7 @@ mua vào SSI .
 bán ra SSI .
 mua thêm mã SSI .
 mua thêm SSI .
+thoát khỏi chương trình.
 tôi muốn mua mã chứng khoán SSI với 100 cổ phiếu và giá 15.6 .
 mua cho tôi mã chứng khoán SSI với giá 10.5 và khối lượng 100 .
 mua cổ phiếu SSI với giá 10.6 và khối lượng 50 .

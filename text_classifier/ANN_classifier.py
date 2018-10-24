@@ -80,7 +80,7 @@ class Classifier:
         
         #select optimizer method 
         if self.optimizer_method == self.OPTIMIZER_BY_GRADIENT:
-            optimizer = tf.train.GradientDescentOptimizer(0.05).minimize(cross_entropy_loss,name='training_step')
+            optimizer = tf.train.GradientDescentOptimizer(0.1).minimize(cross_entropy_loss,name='training_step')
         elif self.optimizer_method == self.OPTIMIZER_BY_SGD:
             a = 0
         elif self.optimizer_method == self.OPTIMIZER_BY_ADAM:
@@ -116,8 +116,11 @@ class Classifier:
             print ('time for epoch : ', _ + 1 , time.time()-start_time)
 
         # print(self.x_test)
+        print (self.x_test.shape)
 
+        # print (x_data.shape)
         prediction = sess.run(prediction, feed_dict={x: self.x_test})
+        # prediction_train = sess.run(prediction, feed_dict={x: self.x_train})
         save_path = saver.save(sess, self.file_to_save_classified_data)
         plt.plot(loss_set)
         plt.title('model loss')
@@ -146,16 +149,20 @@ class Classifier:
             temp = line.split(" ")
             train_index = [int(i) for i in temp]
             y = []
-        for i in range(1736):
+        for i in range(1832):
             # print (i)
             if i not in train_index:
                 y.append(i)
+            # else:
+            #     y_train.append(i)
+        uncorrect = 0
         for i in range(len(predict)):
-            
             if(predict[i] == self.test_label[i]):
                 correct +=1
             else:
-                print(self.test_label[i] + ',' + self.texts[y[i]])
+                uncorrect+=1
+                print (uncorrect,i)
+                print(self.test_label[i]+ ',' + predict[i] + ',' + self.texts[y[i]])
         accuracy = correct/len(self.test_label)
         print ('correct: ',correct)
         print ('test_label: ',len(self.test_label))

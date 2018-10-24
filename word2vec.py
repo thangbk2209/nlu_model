@@ -66,22 +66,22 @@ dicts = dict((key, value) for (key, value) in zip(my_dictionary, tf_arr))
 # plt.hist(tf_arr, bins='auto') 
 # plt.show()
 # print (dicts)
-with open('tf_dicts.pkl','wb') as output:
+with open('tf_dicts_ver2.pkl','wb') as output:
     pk.dump(dicts,output,pk.HIGHEST_PROTOCOL)
-# print ('create dictionary')
-# dictionary = corpora.Dictionary(corpus)
+print ('create dictionary')
+dictionary = corpora.Dictionary(corpus)
 
-# dictionary.save('texts.dict') # store the dictionary, for future
-# print (len(dictionary.token2id))
-# print ('finish preprocessing data')
-# print ('start training word2vec model using fastText')
-# model = FastText(corpus, size = 50, min_count = 1, window = 2, sg = 1, hs = 0, iter = 10)
-# fname = get_tmpfile("word2vec_ver7.model")
-# model.save(fname)
-# print ('finish train word2vec model')
-# print ('start test word2vec')
-# model = FastText.load(fname)
-# existent_word = "đầu_tiên"
-# # existent_word in model.wv.vocab
-# vec = model.wv[existent_word]
-# print (vec)
+dictionary.save('texts.dict') # store the dictionary, for future
+print (len(dictionary.token2id))
+print ('finish preprocessing data')
+print ('start training word2vec model using fastText')
+model = FastText(corpus, size = 50, min_count = 1, window = 2, sg = 1, hs = 0, iter = 10)
+fname = get_tmpfile("word2vec_ver9.model")
+model.save(fname)
+print ('finish train word2vec model')
+print ('start test word2vec')
+model = FastText.load(fname)
+existent_word = "đầu_tiên"
+# existent_word in model.wv.vocab
+vec = model.wv[existent_word]
+print (vec)

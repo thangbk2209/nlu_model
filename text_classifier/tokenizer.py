@@ -98,6 +98,7 @@ def finTokenizer(text):
     # print("preprocessing done")
     real_word = np.asarray(real_word)
     # print (real_word)
+    tf.reset_default_graph()
     with tf.Session() as sess:
         tf.saved_model.loader.load(sess, ["tag"] ,export_dir = file_to_save_model)
         # Access and create placeholders variables and

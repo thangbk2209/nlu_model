@@ -53,9 +53,7 @@ biết_mấy
 biết_thế
 biết_trước
 biết_việc
-biết_đâu
 biết_đâu_chừng
-biết_đâu_đấy
 biết_được
 buổi
 buổi_làm
@@ -166,8 +164,8 @@ cao_ráo
 cao_răng
 cao_sang
 cao_số
-cao_thấp
 cao_xa
+cần
 cha
 cha_chả
 chao_ôi
@@ -189,7 +187,6 @@ cho_đến_nỗi
 choa
 chu_cha
 chui_cha
-chung
 chung_cho
 chung_chung
 chung_cục
@@ -376,7 +373,6 @@ cả_đến
 cấp
 cấp_số
 cấp_trực_tiếp
-cần
 cần_cấp
 cần_gì
 cần_số
@@ -458,7 +454,6 @@ giờ_lâu
 giờ_đi
 giờ_đây
 giờ_đến
-giúp
 giữ_lấy
 giữ_ý
 giữa_lúc
@@ -470,6 +465,7 @@ gây_thêm
 gì
 gì_gì
 gì_đó
+giúp
 gần
 gần_bên
 gần_ngày
@@ -604,8 +600,6 @@ lòng_không
 lúc_khác
 lúc_lâu
 lúc_nào
-lúc_sáng
-lúc_trước
 lúc_đi
 lúc_đó
 lúc_đến
@@ -697,7 +691,6 @@ mở_nước
 mở_ra
 mợ
 muốn
-nay
 ngay
 ngay_bây_giờ
 ngay_cả
@@ -795,16 +788,11 @@ nhà_ngươi
 nhà_tôi
 nhà_việc
 nhân_dịp
-nhân_tiện
 nhé
-nhìn
-nhìn_chung
-nhìn_lại
 nhìn_theo
 nhìn_thấy
 nhìn_xuống
 nhón_nhén
-như
 như_ai
 như_chơi
 như_không
@@ -813,7 +801,6 @@ như_nhau
 như_quả
 như_sau
 như_thường
-như_thế
 như_thể
 như_trên
 như_trước
@@ -836,13 +823,10 @@ nhất_thì
 nhất_tâm
 nhất_tề
 nhất_đán
-nhận
 nhận_biết
 nhận_họ
 nhận_làm
 nhận_nhau
-nhận_ra
-nhận_thấy
 nhận_việc
 nhận_được
 nhằm
@@ -990,7 +974,6 @@ phỏng_tính
 phốc
 phụt
 phứt
-qua
 qua_chuyện
 qua_khỏi
 qua_lại
@@ -1020,7 +1003,6 @@ quả_là
 quả_thật
 quả_thế
 quả_vậy
-ra
 ra_bài
 ra_bộ
 ra_chơi
@@ -1094,7 +1076,6 @@ so_với
 song_le
 suýt
 suýt_nữa
-sáng
 sáng_ngày
 sáng_rõ
 sáng_thế
@@ -1167,7 +1148,6 @@ tháng
 tháng_ngày
 tháng_năm
 tháng_tháng
-thêm
 thêm_chuyện
 thêm_giờ
 thêm_vào
@@ -1222,7 +1202,6 @@ thật_sự
 thật_thà
 thật_tốt
 thật_vậy
-thế
 thế_chuẩn_bị
 thế_là
 thế_lại
@@ -1255,10 +1234,7 @@ thứ_đến
 thửa
 thực_hiện_đúng
 thực_ra
-thực_sự
-thực_tế
 thực_vậy
-tin
 tin_thêm
 tin_vào
 tiếp_theo
@@ -1446,7 +1422,6 @@ vài_nhà
 vài_nơi
 vài_tên
 vài_điều
-vào
 vào_gặp
 vào_khoảng
 vào_lúc
@@ -1507,7 +1482,6 @@ vừa
 vừa_khi
 vừa_lúc
 vừa_mới
-vừa_qua
 vừa_rồi
 vừa_vừa
 xa
@@ -1600,7 +1574,6 @@ xệp
 ăn_tay
 ăn_trên
 ăn_về
-đang
 đang_tay
 đang_thì
 điều
@@ -1817,7 +1790,11 @@ xệp
             # print (self.data[i])
             fixed_sentence = []
             for j in range(len(self.data[i])):
-                if(self.hasNumbers(self.data[i][j])):
+                if (self.data[i][j] in special_character):
+                    continue
+                # elif(self.is_stop_word(self.data[i][j])):
+                #     continue
+                elif(self.hasNumbers(self.data[i][j])):
                     fixed_sentence.append(number_replace)
                     continue
                 elif(self.data[i][j] in acronym3_arr):
@@ -1829,8 +1806,6 @@ xệp
                     continue
                 elif(self.data[i][j] in symbol_arr):
                     fixed_sentence.append('ssi')
-                elif(self.data[i][j] in special_character):
-                    continue
                 else:
                     fixed_sentence.append(self.data[i][j])
             # print(fixed_sentence)

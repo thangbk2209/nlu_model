@@ -21,7 +21,7 @@ class PreprocessingDataClassifier:
         self.file_data_classifier = file_data_classifier
     def preprocessing_data_fastText(self):
         # stop_words = StopWord()
-        fname = get_tmpfile("word2vec_ver7.model")
+        fname = get_tmpfile("word2vec_ver9.model")
         model = FastText.load(fname)
         texts = []
         intents_data = [] # danh sách intents trong bộ dữ liệu
@@ -84,7 +84,7 @@ class PreprocessingDataClassifier:
         data_classifier_size = len(x_train)
         print (len(x_train))
         # lol
-        train_size = int(data_classifier_size * 0.8)
+        # train_size = int(data_classifier_size * 0.995)
         with open('../data/train.txt') as input:
             line = input.readline()
             line = line.strip()
@@ -92,6 +92,7 @@ class PreprocessingDataClassifier:
             train_index = [int(i) for i in temp]
            # print(train_index)
         test_label = []
+        train_label = []
         train_x = []
         train_y = []
         test_x = []
@@ -99,12 +100,14 @@ class PreprocessingDataClassifier:
         # train_x = x_train
         # train_y = y_train 
         for i in train_index:
+            # print (i)
             train_x.append(x_train[i])
             train_y.append(y_train[i])
         train_x = np.asarray(train_x)
         train_y = np.asarray(train_y)
         for i in range(data_classifier_size):
             # print (i)
+            
             if i not in train_index:
                 test_label.append(intents[i])
                 test_x.append(x_train[i])
@@ -121,7 +124,7 @@ class PreprocessingDataClassifier:
        # test_x = x_train[i for i not in train_index]
        # test_y = y_train[i for i not in train_index ]
         
-        return train_x, train_y, test_x, test_y, int2intent,test_label, all_sentences, texts
+        return train_x, train_y, test_x, test_y, int2intent, test_label, all_sentences, texts
     def preprocessing_data(self):
         # stop_words = StopWord()
         texts = []
@@ -130,7 +133,7 @@ class PreprocessingDataClassifier:
         sentences = {}
         with open(self.file_data_classifier, encoding="utf8") as input:
             for line in input :
-                print (line)
+                # print (line)
                 temp = line.split(",",1)
                 temp[1] = temp[1].lower()
                 texts.append(temp[1])  #list of train_word
