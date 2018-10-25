@@ -169,7 +169,6 @@ cần
 cha
 cha_chả
 chao_ôi
-cho
 cho_biết
 cho_nhau
 cho_rằng
@@ -788,7 +787,6 @@ nhà_ngươi
 nhà_tôi
 nhà_việc
 nhân_dịp
-nhé
 nhìn_theo
 nhìn_thấy
 nhìn_xuống
@@ -1601,7 +1599,6 @@ xệp
 đâu_đâu
 đâu_đây
 đâu_đó
-đây
 đây_này
 đây_rồi
 đây_đó
@@ -1802,7 +1799,6 @@ xệp
                     # lol
                     for word in words:
                         fixed_sentence.append(word)
-
                     continue
                 elif(self.data[i][j] in symbol_arr):
                     fixed_sentence.append('ssi')

@@ -30,7 +30,7 @@ class Classifier:
     """
     def __init__(self, input_size = None, num_classes = None, 
      epoch_classifier = None ,embedding_dim = None,
-    batch_size_classifier = None, optimizer_method = None, file_to_save_classified_data=""): 
+    batch_size_classifier = None, optimizer_method = None, wv_file = None, learning_rate = 0.1, file_to_save_classified_data=""): 
         self.input_size = input_size
         self.epoch_classifier = epoch_classifier
         self.embedding_dim = embedding_dim
@@ -38,6 +38,8 @@ class Classifier:
         self.file_to_save_classified_data = file_to_save_classified_data
         self.batch_size_classifier = batch_size_classifier
         self.optimizer_method = optimizer_method
+        self.wv_file = wv_file
+        self.learning_rate = learning_rate
         # print(self.file_to_save_classified_data)
     def early_stopping(self, array, patience):
         value = array[len(array) - patience - 1]
@@ -54,25 +56,17 @@ class Classifier:
         # Preprocessing data
         print ('------------------start preprocessing data ------------------')
         print (file_data_classifier)
-        preprocessing_data = PreprocessingDataClassifier(self.embedding_dim, self.input_size, file_data_classifier)
-        # preprocessing_data = PreprocessingDataClassifier(self.vectors, self.embedding_dim, self.input_size,file_data_classifier)
+        preprocessing_data = PreprocessingDataClassifier(self.embedding_dim, self.input_size, self.wv_file, file_data_classifier)
         print ('----------------------start training -----------------------')
         self.x_train, self.y_train, self.x_test, self.y_test, self.int2intent, self.test_label, self.all_sentences, self.texts = preprocessing_data.preprocessing_data_fastText()
-        print("x_train",self.x_train.shape)
-        print ("y_train",self.y_train.shape)
-        print("x_test",self.x_test.shape)
-        print("y_test",self.y_test.shape)
         self.x_train = np.reshape(self.x_train,(self.x_train.shape[0],self.x_train.shape[1] * self.x_train.shape[2]))
         self.x_test = np.reshape(self.x_test,(self.x_test.shape[0],self.x_test.shape[1] * self.x_test.shape[2]))
-        
-        # print("x_test: ",self.x_test[0])
-        # print("int2intent",self.int2intent[0])
-       # print("intent2int",self.int2intent[0])
+
         # Create graph
         tf.reset_default_graph()
         x = tf.placeholder(tf.float32, name="x", shape=(None, self.input_size * self.embedding_dim))
-        hidden_value1 = tf.layers.dense(x, 2048, activation = tf.nn.relu, name="hidden1")
-        hidden_value2 = tf.layers.dense(hidden_value1, 64, activation = tf.nn.sigmoid, name="hidden2")
+        hidden_value1 = tf.layers.dense(x, 1024, activation = tf.nn.relu, name="hidden1")
+        hidden_value2 = tf.layers.dense(hidden_value1, 32, activation = tf.nn.sigmoid, name="hidden2")
         prediction = tf.layers.dense(hidden_value1,self.num_classes, activation = tf.nn.softmax, name="prediction")
         y_label = tf.placeholder(tf.float32, name="y_label", shape=(None, self.num_classes))
         # define the loss function:
@@ -80,11 +74,11 @@ class Classifier:
         
         #select optimizer method 
         if self.optimizer_method == self.OPTIMIZER_BY_GRADIENT:
-            optimizer = tf.train.GradientDescentOptimizer(0.1).minimize(cross_entropy_loss,name='training_step')
+            optimizer = tf.train.GradientDescentOptimizer(self.learning_rate).minimize(cross_entropy_loss,name='training_step')
         elif self.optimizer_method == self.OPTIMIZER_BY_SGD:
             a = 0
         elif self.optimizer_method == self.OPTIMIZER_BY_ADAM:
-            optimizer = tf.train.AdamOptimizer(0.1).minimize(cross_entropy_loss,name='training_step')
+            optimizer = tf.train.AdamOptimizer(self.learning_rate).minimize(cross_entropy_loss,name='training_step')
         sess = tf.Session()
         init = tf.global_variables_initializer()
         # Add ops to save and restore all the variables.
@@ -98,9 +92,6 @@ class Classifier:
             avg_loss = 0
             for j in range(total_batch):
                 batch_x_train, batch_y_train = self.x_train[j*self.batch_size_classifier:(j+1)*self.batch_size_classifier], self.y_train[j*self.batch_size_classifier:(j+1)*self.batch_size_classifier]
-                # print ('batch_x_train')
-                # print (batch_x_train)
-                # print (batch_y_train)
                 sess.run(optimizer, feed_dict={x: batch_x_train, y_label: batch_y_train})
                 loss = sess.run(cross_entropy_loss, feed_dict={x: batch_x_train, y_label: batch_y_train})/total_batch
                 avg_loss += loss
@@ -108,19 +99,16 @@ class Classifier:
             print ('epoch: ', _ + 1)
             print('loss is : ',avg_loss)
             
-            if (_ > 20):
-                if (self.early_stopping(loss_set, 20) == False):
-                    print ("early stopping training")
-                    break
+            # if (_ > 20):
+            #     if (self.early_stopping(loss_set, 20) == False):
+            #         print ("early stopping training")
+            #         break
             print("finished training classification phrase!!!")
             print ('time for epoch : ', _ + 1 , time.time()-start_time)
 
-        # print(self.x_test)
         print (self.x_test.shape)
 
-        # print (x_data.shape)
         prediction = sess.run(prediction, feed_dict={x: self.x_test})
-        # prediction_train = sess.run(prediction, feed_dict={x: self.x_train})
         save_path = saver.save(sess, self.file_to_save_classified_data)
         plt.plot(loss_set)
         plt.title('model loss')
@@ -149,7 +137,7 @@ class Classifier:
             temp = line.split(" ")
             train_index = [int(i) for i in temp]
             y = []
-        for i in range(1832):
+        for i in range(self.x_train.shape[0] + self.x_test.shape[0]):
             # print (i)
             if i not in train_index:
                 y.append(i)
