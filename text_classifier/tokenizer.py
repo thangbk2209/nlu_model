@@ -56,9 +56,9 @@ def separate_word(tokens):
 
 
 
-file_to_save_model = '../FinTokenizer/model_saved_ver12'
-word2int, int2word = read_trained_data('../vocabulary/word2int_ver12.pkl')
-corpus_file = '../data/official_corpus.txt'
+file_to_save_model = '/home/fdm-thang/robochat/nlu_gensim/FinTokenizer/model_saved_ver12'
+word2int, int2word = read_trained_data('/home/fdm-thang/robochat/nlu_gensim/vocabulary/word2int_ver12.pkl')
+corpus_file = '/home/fdm-thang/robochat/nlu_gensim/data/official_corpus.txt'
 input_size = 64
 num_units = [32,4]
 embedding_dim = 50

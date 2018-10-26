@@ -17,12 +17,14 @@ def read_trained_data(file_trained_data):
 
 input_size = 32
 embedding_dim = 50
-
-fname = get_tmpfile("word2vec_ver9.model")
-model = FastText.load(fname)
-tf_dicts = read_trained_data('../tf_dicts_ver2.pkl')
-# print (tf_dicts)
-# print (tf_dicts['nên'])
+version_wc = 2
+wv_file = "/home/fdm-thang/robochat/nlu_gensim/word_vector/word2vec_ver" + str(version_wc) + ".model"
+# fname = get_tmpfile("word2vec_ver9.model")
+model = FastText.load(wv_file)
+dict_file = "/home/fdm-thang/robochat/nlu_gensim/term_frequency/tf_ver" + str(version_wc) + ".pkl"
+tf_dicts = read_trained_data(dict_file)
+print (tf_dicts)
+print (tf_dicts['nên'])
 texts = []
 intents_data = []
 intents_official = ['end', 'trade', 'cash_balance', 'advice', 'order_status', 'stock_balance', 'market', 'cancel']
@@ -61,7 +63,7 @@ def test(sentence):
         # print (word)
         if ( word not in tf_dicts or tf_dicts[word]<=1.3057728216444903e-05 ):
             # print (word,tf_dicts[word])
-            # print ('check',word)
+            print ('check',word)
             num+=1
         elif(data_cleaner.is_stop_word(word)):
             num_stop_word+=1
@@ -70,9 +72,9 @@ def test(sentence):
         else:
             # print (word,tf_dicts[word])
             data_x_raw.append(model.wv[word])
-    # print (num)
-    # print (len(all_words))
-    # print (len(all_words)-num_stop_word)
+    print (num)
+    print (len(all_words))
+    print (len(all_words)-num_stop_word)
     if (num >= 0.5*(len(all_words)-num_stop_word)):
         print ('unknown label')
     else:
@@ -89,8 +91,8 @@ def test(sentence):
         with tf.Session() as sess:
             
             #First let's load meta graph and restore weights
-            saver = tf.train.import_meta_graph('results/ANN_ver8/ws--embed-50batch_size_cl8.meta')
-            saver.restore(sess,tf.train.latest_checkpoint('results/ANN_ver8/'))
+            saver = tf.train.import_meta_graph('results/ANN_ver2.1/ws--embed-50batch_size_cl8.meta')
+            saver.restore(sess,tf.train.latest_checkpoint('results/ANN_ver2.1/'))
             # Access and create placeholders variables and
             graph = tf.get_default_graph()
             # print ([n.name for n in tf.get_default_graph().as_graph_def().node])
@@ -163,5 +165,5 @@ correct = 0
 #         print (label_predict)
 #         print (correct, i)
 # print (correct)
-label_predict = test("múc ssi giá 12")
+label_predict = test("nên bán ssi cho tôi luôn đi vì thằng bạn tôi mua ssi")
 print (label_predict)

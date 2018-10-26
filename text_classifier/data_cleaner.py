@@ -1789,8 +1789,8 @@ xệp
             for j in range(len(self.data[i])):
                 if (self.data[i][j] in special_character):
                     continue
-                # elif(self.is_stop_word(self.data[i][j])):
-                #     continue
+                elif(self.is_stop_word(self.data[i][j])):
+                    continue
                 elif(self.hasNumbers(self.data[i][j])):
                     fixed_sentence.append(number_replace)
                     continue

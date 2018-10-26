@@ -4,7 +4,7 @@ from pyvi import ViTokenizer, ViPosTagger
 from gensim import corpora, models, similarities
 from gensim.models import FastText
 from gensim.test.utils import get_tmpfile
-from tokenizer import *
+from text_classifier.tokenizer import *
 import matplotlib.pyplot as plt
 import math
 import pickle as pk
@@ -14,7 +14,7 @@ from text_classifier.data_cleaner import DataCleaner
 number_of_words = 0
 interval = 1500
 corpus_file = './data/corpus.txt'
-version = 1
+version = 2
 tf_file = './term_frequency/tf_ver' + str(version) + '.pkl'
 dict_file = './dictionary/dict_ver' + str(version) + '.dict'
 w2v_file = './word_vector/word2vec_ver' + str(version) + '.model'

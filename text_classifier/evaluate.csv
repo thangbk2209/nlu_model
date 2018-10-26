@@ -3,3 +3,4 @@ window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,version,Accuracy
 2,50,4,8,1.2,0.8611111111111112
 2,50,4,8,1.2,0.028985507246376812
 2,50,4,8,1.2,0.6898550724637681
+2,50,4,8,2.1,0.9598853868194842
