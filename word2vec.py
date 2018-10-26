@@ -14,7 +14,7 @@ from text_classifier.data_cleaner import DataCleaner
 number_of_words = 0
 interval = 1500
 corpus_file = './data/corpus.txt'
-version = 2
+version = 4
 tf_file = './term_frequency/tf_ver' + str(version) + '.pkl'
 dict_file = './dictionary/dict_ver' + str(version) + '.dict'
 w2v_file = './word_vector/word2vec_ver' + str(version) + '.model'

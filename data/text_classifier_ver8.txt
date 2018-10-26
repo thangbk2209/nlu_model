@@ -1536,6 +1536,11 @@ cancel,hủy khớp lệnh ngay
 cancel,hủy khớp lệnh
 cancel,hủy khớp lệnh mua ssi
 cancel,hủy bỏ khớp lệnh mua ssi
+cancel,hủy bỏ lệnh mua ssi giá 12.6
+cancel,hủy bỏ lệnh mua 100 ssi của tôi
+cancel,hủy bỏ lệnh mua 100 ssi của tôi hôm qua
+cancel,hủy lệnh đặt mua 100 ssi cho tôi 
+cancel,hủy toàn bộ lệnh đặt mua ssi cho tôi 
 trade,hôm nay thị trường chán nhỉ, bán cho tôi 1000 SSI giá 10
 trade,hôm nay thị trường chán ghê, bán 1000 SSI giá 10 đi
 trade,hôm nay thị trường chán thật, bán mã SSI với số lượng 100 giá 10.5

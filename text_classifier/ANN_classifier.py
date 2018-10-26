@@ -65,7 +65,7 @@ class Classifier:
         # Create graph
         tf.reset_default_graph()
         x = tf.placeholder(tf.float32, name="x", shape=(None, self.input_size * self.embedding_dim))
-        hidden_value1 = tf.layers.dense(x, 1024, activation = tf.nn.relu, name="hidden1")
+        hidden_value1 = tf.layers.dense(x, 2048, activation = tf.nn.relu, name="hidden1")
         hidden_value2 = tf.layers.dense(hidden_value1, 32, activation = tf.nn.sigmoid, name="hidden2")
         prediction = tf.layers.dense(hidden_value1,self.num_classes, activation = tf.nn.softmax, name="prediction")
         y_label = tf.placeholder(tf.float32, name="y_label", shape=(None, self.num_classes))

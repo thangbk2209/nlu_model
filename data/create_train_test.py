@@ -7,9 +7,9 @@ with open ("./text_classifier_ver8.txt", encoding="utf8") as input:
     for line in input:
         leng = leng + 1
 print (leng)
-test_size = int(leng * 0.2)
+test_size = int(leng * 0.005)
 print (test_size)
-test = np.random.choice(1538,test_size,replace=False)
+test = np.random.choice(1541,test_size,replace=False)
 test = sorted(list(test))
 for i in range(leng):
     if i not in test:
