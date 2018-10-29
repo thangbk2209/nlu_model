@@ -92,8 +92,8 @@ def test(sentence):
         with tf.Session() as sess:
             
             #First let's load meta graph and restore weights
-            saver = tf.train.import_meta_graph('results/ANN_ver4.1/ws--embed-50batch_size_cl8.meta')
-            saver.restore(sess,tf.train.latest_checkpoint('results/ANN_ver4.1/'))
+            saver = tf.train.import_meta_graph('results/ANN_ver4.3/ws--embed-50batch_size_cl8.meta')
+            saver.restore(sess,tf.train.latest_checkpoint('results/ANN_ver4.3/'))
             # Access and create placeholders variables and
             graph = tf.get_default_graph()
             # print ([n.name for n in tf.get_default_graph().as_graph_def().node])
@@ -166,5 +166,5 @@ correct = 0
 #         print (label_predict)
 #         print (correct, i)
 # print (correct)
-label_predict = test("liệu có nên mua ssi không")
+label_predict = test("đang xem có nên mua 100 cổ ssi giá 12.4 không")
 print (label_predict)
