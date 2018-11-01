@@ -1,85 +1,190 @@
-market, Thấy lãi suất vừa tăng, xem thông tin giao dịch mã SSI
-trade, Hôm qua thị trường vừa rớt giá, bán toàn bộ SSI tôi sở hữu
-order_status, Hôm qua vừa mua 100 cổ phiếu SSI, xem lệnh mua SSI của tôi đã được khớp chưa
-end, Hết giờ làm việc rồi, dừng chương trình cho tôi
-cancel, Tôi nhập nhầm lệnh nên hủy khớp lệnh tôi vừa đặt
-stock_balance, Tuần qua vừa đặt 100 cổ phiếu SSI, xem cho tôi tổng SSI tôi đang sở hữu
-cash_balance, Tuần qua vừa bán một đống SSI, xem số dư tiền trong tài khoản của tôi
-advice, có nên mua ssi lúc này không khi mà cả tuần qua mã SSI rớt giá
-market, cho tôi xem thông tin về mã SSI khi mà có thông tin về trả cổ tức cổ phiếu SSI
-trade, Thấy có tin giá SSI sắp giảm, bán 1000 SSI tôi đang nắm giữ
-order_status, Tôi vừa đặt lệnh bán SSI, xem lệnh của tôi có được khớp không
-end, Hết phiên giao dịch rồi, ngừng chương trình cho tôi
-cancel, lệnh tôi đặt sai mức giá, hủy khớp lệnh tôi vừa đặt
-stock_balance, Cho tôi xem số mã SSI tôi nắm giữ khi tôi mới múc thêm 1000 cổ phiếu ssi
-cash_balance, cho tôi xem tổng số tiền tôi có trong tài khoản khi tôi vừa mới bán SSI hôm kia
-advice, cả tuần nay mọi người bán tháo SSI, có nên mua SSI vào lúc này không
-market, Hôm nay thêm 1000 mã SSI được tung ra trên thị trường, cho tôi xem thông tin giao dịch của mã SSI
-trade, Hôm qua thấy Warren Buffett bảo nên mua vào ssi, cho tôi đặt lệnh mua 1000 ssi giá 10.5
-order_status, Hôm trước mới đặt lệnh bán 100 ssi, xem lệnh của tôi đã được khớp chưa
-end, Thoát chương trình vì tôi phải ra ngoài có việc
-cancel, Tôi không muốn mua SSI nữa nên hủy lệnh mua SSI mà tôi vừa đặt
-stock_balance, Hôm nay không biết đầu tư gì đây, xem cho tôi số cổ phiếu tôi đang sở hữu
-cash_balance, Hôm trước vừa lỗ vài chục triệu, xem số tiền tôi còn trong tài khoản
-advice, tôi có nên mua SSI không khi Thắng nó bảo anh nó vừa mới mua 100 ssi giá 10
-market, hôm trước vừa ngắm được mã SSI, cho tôi xem thông tin cổ phiếu ssi trên thị trường
-trade, mua 100 ssi giá 10 khi có thông tin ssi đang tạo đáy
-order_status, lệnh mua ssi của tôi được khớp chưa khi tôi hôm nay mới có thời gian lên check lệnh
-end, Kết thúc app ngay vì đến giờ làm việc
-cancel, dừng lệnh mua ssi lại vì tôi suy nghĩ nên mua mã abc tốt hơn
-stock_balance, Tổng số cổ phiếu tôi đang sở hữu là bao nhiêu khi hôm nay tôi vừa bán gần hết ssi
-cash_balance, số tiền tôi đang có là bao nhiêu nhỉ khi tôi mới bán gần hết số cổ phiếu tôi sở hữu
-advice, có nên bán tháo hết ssi khi cá mập đang bán hết ssi ra thị trường
-market, hôm nay thằng bạn mua lấy mua để mã ssi, xem thông tin mã ssi trên thị trường
-trade, bán 1000 ssi giá 20 vì tài khoản của tôi hết tiền rồi
-order_status, Hôm qua vừa đặt vài lệnh, xem các lệnh của tôi đã được thực hiện chưa
-end, tôi sắp tan ca rồi nên tắt chương trình cho tôi
-cancel, hôm qua đặt nhiều lệnh quá, hủy các lệnh không hợp lệ cho tôi
-stock_balance, tài khoản đuôi 1 của tôi còn bao nhiêu cổ phiếu ssi khi mà tôi mới đặt lệnh mưa thêm 1000 ssi tuần trước
-cash_balance, xem số tiền tôi nắm giữ trong tài khoản khi hôm nay tiền bán ssi vùa về
-advice, có nên sở hữu ssi lúc này không khi thi trường đang con gấu
-market, cổ phiếu SSI hôm nay thế nào nhỉ khi cả thị trường đang có đà tăng điểm
-trade, tôi muốn mua 1000 ssi giá 10 vì brooker bảo thế
-order_status, xem tình trạng lệnh bán cổ phiếu ssi tôi mới đặt hôm qua theo lời khuyên của bạn tôi
-end, dừng hoạt động phần mềm vì điện thoại hết pin mất rồi
-cancel, hủy bỏ các lệnh mà lúc chiều tôi mới đặt một đống
-stock_balance, xem số cổ phiếu tôi đang nắm giữ sau khi tôi mới đặt mua thêm 1000 ssi
-cash_balance, hôm trước vừa bán một lô ssi, xem số tiền tôi có trong tài khoản
-advice, mới mua một lô ssi, có nên mua thêm ssi không nhỉ
-advice, giá ssi vừa giảm, nên bán hết ssi luôn không
-market, cho tôi thông tin về mã ssi vì hôm nay có thằng hỏi tôi về ssi
-trade, tôi muốn đặt lệnh mua 1000 ssi giá 10 khi hôm qua thị trường ssi có biến động
-order_status, hôm qua mới múc thêm 100 ssi, xem tình hình khớp lệnh mua ssi của tôi
-end, Phải đi họp nên hẹn gặp lại vào ngày mai nhé
-cancel, viết sai chính tả nên hủy lệnh vừa đặt cho tôi
-stock_balance, số lượng cổ phiếu ssi mà tôi đang sở hữu khi mà mới múc 1000 ssi chiều nay
-cash_balance, tôi vừa lãi 100 triệu từ đợt bán ssi nên kiểm tra số dư tài khoản đuôi 1 của tôi
-advice, mới múc 100 ssi, có nên múc tiếp ssi không nhỉ
-advice, thị trường hôm nay cứ sao ý nhỉ, có nên mua vào ssi lúc này không
-market, thị trường hôm nay thế nào khi Fed tăng lãi suất
-trade, hôm qua vừa trúng lô nên mua 1000 ssi cho tôi đi
-order_status, Vừa mới đặt lệnh mua và bán ssi, xem các lệnh của tôi có thực thi không
-end, dừng chương trình hộ tôi với
-cancel, hủy lệnh tôi mới đặt nhé
-stock_balance, số cổ phiếu ssi trong tài khoản đuôi 1 của tôi là bao nhiêu nhỉ khi tôi vừa mới mua thêm ssi chiều qua
-cash_balance, chiều qua vừa bán tháo một đống mã, xem cho tôi tài khoản hiện có bao nhiêu tiền
-advice, hôm nay trời có vẻ đẹp có nên múc ssi không
-advice, nếu ssi tăng giá có nên mua ssi không
-market, tin giá dầu tăng ảnh hưởng đến thị trường như thế nào
-trade, hôm nay thấy thằng bạn khuyên bán tháo ssi, bán toàn bộ ssi tôi đang nắm giữ
-order_status, xem số lệnh mới đặt của tôi chiều qua có được thực hiện không 
-end, dừng chương trình ngay đi nhé
-cancel, hủy toàn bộ lệnh tôi vừa mới đặt ngay đi
-stock_balance, mới bán bới ssi nên cho xem thông tin số cổ phiếu của tôi trong tài khoản
-cash_balance, mới đầu tư ssi, xem tiền còn lại trong tài khoản đuôi 6 là bao nhiêu
-advice, có nên hay không mua vào ssi khi mà người người mua ssi lúc này
-end, đóng chương trình đi
-end, ngưng chương trình nhé
-end, dừng chương trình vì tôi phải đi đây
-end, chấm dứt chương trình ngay và luôn
-end, tạm biết nhé
-cancel, ngừng lệnh mua
-cancel, ngừng lệnh bán cho tôi
-cancel, ngừng lệnh ngay
-cancel, hủy bỏ lệnh mua đi
-cancel, hủy bỏ lệnh bán cho tôi
+end, Kết thúc chương trình đi thôi
+market, Thị trường hôm nay có biến động không khi mà giá cổ phiếu khó dự đoán
+trade, hôm qua giá SSI xuống kịch sàn, múc cho tôi 1000 SSI giá 10.5
+order_status, Lệnh múc ssi giá 10.5 của tôi tuần trước khớp chưa nhỉ?
+advice, thấy bảo hôm nay SSI sẽ tăng giá lên 10.5, có nên múc vào ngay không nhỉ?
+cancel, do đặt lệnh nhầm nên hủy lệnh múc ssi cho tôi
+stock_balance, mới múc thêm 1000 ssi, cho tôi xem số dư cổ phiếu ssi trong tài khoản
+cash_balance, vừa mất tiền mua thêm 100 ssi, cho tôi xem số dư tiền trong tài khoản đi
+market, giá lợn giảm, xem cho tôi tình hình thị trường hôm nay
+trade, Bán hết ssi cho tôi khi mà có người khuyên hôm nay ssi giảm
+order_status, Lệnh mua SSI của tôi về chưa nhỉ
+end, kết thúc phần mềm ngay cho tôi
+cancel, Hủy bỏ 3 lệnh đặt mua ssi hôm qua
+stock_balance, cho tôi xem còn dư bao nhiêu cổ trong tài khoản đê
+cash_balance, Tiền tôi còn nhiều không ý nhỉ
+advice, tôi có nên bán tháo ra thị trường vì giá cổ phiếu giảm không nhỉ
+market, thị trường hôm nay có biến động khi cá mập mua ssi
+trade, giá ssi giảm sâu quá, bán 1000 ssi giá 10 cho tôi
+order_status, Hôm trước mới đặt lệnh bán 100 ssi, xem lệnh của tôi đã được thực hiện chưa?
+end, chấm dứt chương trình ngay đi
+cancel, hủy 3 lệnh đặt mua ssi hôm qua
+stock_balance, số cổ phiếu ssi tôi có là bao nhiêu nhỉ
+cash_balance, tiền trong tài khoản của tôi tăng lên hay giảm đi?
+advice, hôm qua tôi mới mua 1000 ssi, có nên múc tiếp vào hôm nay không?
+market, thị trường hôm nay có vẻ biến động mạnh nhỉ?
+trade, hôm qua thấy bán tháo ssi, bán cho tôi 1000 ssi giá 10 đê
+order_status, xem tôi có lệnh nào không phù hợp không?
+end, đi ăn cơm đây, tắt chương trình cho tôi
+cancel, Tôi vừa nhập nhầm mã cổ phiếu, hủy lệnh cho tôi
+stock_balance, vừa múc 1000 ssi, kiểm tra số cổ phiếu của tôi trong tài khoản
+cash_balance, mới lãi từ việc bán 1000 ssi, tôi có bao nhiêu tiền nhỉ
+advice, tôi có nên múc 1000 ssi giá 10,5 vào lúc này không nhỉ
+market, thị trường hôm nay thế nào?
+trade, thị trường con bò tót, cho tôi đặt mua 1000 ssi giá 12
+order_status, các lệnh tôi mới đặt thế nào rồi?
+end, dừng chương trình ở đây thôi
+cancel, hủy các lệnh tôi vừa đặt được không?
+stock_balance, tổng số cổ phiếu tôi sở hữu là bao nhiêu?
+cash_balance, Tiền dư của tui là bao nhiêu nhỉ?
+advice, có nên hay không nên xúc ssi giá 10 đây
+market, bạn tôi vừa bán tháo ssi, cho tôi xem thông tin cổ phiếu ssi hôm nay đi
+trade, cho tôi múc 100 ssi giá 10.5 đi
+order_status, mới mua thêm ssi, cho tôi xem tình trạng đặt lệnh của tôi
+end, kết thúc đi
+cancel, vừa nhập sai mã cổ phiếu, hủy khớp lệnh hộ tôi với
+stock_balance, mới bán tháo 1000 ssi, xem tổng số cổ phiếu còn lại trong tài khoản
+cash_balance, vừa lỗ do bán tháo 1000 ssi, xem xem tôi còn bao nhiêu tiền?
+advice, có nên xúc thêm 1000 ssi giá 10.5 không?
+market, thị trường hôm nay thế nào khi fed vừa tăng lãi suất
+trade, bán ngay cho tôi 1000 ssi giá 10 đi
+order_status, cái đống lệnh hôm trước tôi mới đặt thế nào rồi
+end, chấm dứt chương trình ở đây được rồi
+cancel, hủy ngay lệnh tôi vừa đặt ngay đi
+stock_balance, tổng số cổ phiếu tôi đang nắm giữ khi tôi mới bán 1000 ssi giá 10
+cash_balance, tiền của tôi trong tài khoản hiện có bao nhiêu nhỉ?
+advice, Liệu có nên bán tháo toàn bộ ssi lúc này không?
+market, thị trường hôm nay đỏ rực, xem thông tin mã ssi cho tôi đê
+trade, thấy bạn tôi vừa bán tháo ssi, đặt lệnh bán 1000 ssi giá 10,4
+order_status, các lệnh tôi vừa đặt có đủ điều kiện khớp lệnh không?
+end, tạm biệt nhé, mai gặp lại.
+cancel, hủy bỏ lệnh mua 1000 ssi giá 10
+stock_balance, tôi đang sở hữu số cp là bao nhiêu
+cash_balance, tổng tiền tôi có thể rút là bao nhiêu
+advice, cho tôi lời khuyên về việc mua bán ssi lúc này đi
+market, có phải thị trường đang rơi vào trạng thái điều chỉnh không?
+trade, đặt lệnh mua 100 ssi với giá 20
+order_status, lệnh mua bán ssi tôi mới đặt hợp lệ chứ
+end, tôi đi đây nên tắt chương trình đi
+cancel, thực hiện hủy lệnh mua 1000 cp ssi của tôi đi
+stock_balance, kiểm tra các loại cổ phiếu trong tài khoản của tôi
+cash_balance, tài khoản còn bao nhiêu tiền
+advice, cho tôi về lời khuyên về mã ssi
+market, tôi muốn thông tin về cp ssi
+trade, tôi muốn đặt lệnh mua ngay lập tức 1000 ssi theo giá thị trường
+order_status, kiểm tra tình trạng khớp lệnh của tôi
+end, tôi muốn kết thúc chương trình
+cancel, tôi vừa nhập nhầm giá nên hủy lệnh vừa nhập đi
+stock_balance, trong tài khoản còn bao nhiêu cổ phiếu?
+cash_balance, trong tài khoản còn bao nhiêu tiền?
+advice, Với 10 triệu có nên đầu tư vào ssi không nhỉ?
+market, thị trường hôm nay có vào vùng đáy không nhỉ?
+trade, muốn mua 1000 ssi giá 10
+order_status, kiểm tra xem có lệnh nào tôi đặt không được khớp không?
+end, tôi phải đi đây nên dừng chương trình đi
+cancel, tôi muốn hủy bỏ các lệnh tôi vừa đặt lúc nãy
+stock_balance, số cổ phiếu tôi còn sau khi bán ssi là bao nhiêu
+cash_balance, tiền trong tài khoản là bao nhiêu nhỉ?
+advice, tôi có nên đem tiền đầu tư vào mã ssi lúc này hay không?
+market, thấy bán tháo ssi, cho tôi xem thông tin mã ssi hôm nay
+trade, mua cho tôi 1000 ssi giá 10 ngay đi
+order_status, lệnh bán của tôi vừa đặt đang trong trạng thái nào rồi?
+end, tôi muốn kết thúc chương trình ngay bây giờ
+end, kết thúc phần mềm đi
+cancel, trở lại chức năng chính đi
+cancel_all, hủy toàn bộ lệnh tôi có
+stock_balance, kiểm tra số cổ phiếu tài khoản đuôi 1
+cash_balance, kiểm tra tiền tài khoản đuôi 1
+advice, cho xin lời khuyên về cp ssi
+market, thị trường đang như nào?
+trade, xả 1000 ssi giá 10
+look, trông hay không?
+order_status, lênh đang được thực thi không?
+name, tên phần mềm là gì?
+ratio_status, tk của tôi có đang bị báo động
+end, chấm dứt phần mềm
+cancel, quay trở lại chức năng hệ thống
+cancel_all, hủy tất tần tật các lệnh cho tôi
+stock_balance, số cp trong tk của tôi
+cash_balance, tiền của tôi bao nhiêu?
+advice, khuyến nghị về cp
+market, tin thị trường?
+trade, gom 1000 ssi đi
+look, trông có xinh đẹp không?
+order_status, lệnh bán được thực thi chưa?
+name, cho xin tên bạn?
+ratio_status, tình trạng tk hiện ra sao?
+end, chấm dứt đi
+cancel, về trang chủ đi
+cancel_all, bỏ toàn bộ lệnh đi
+stock_balance, tk còn bao nhiêu cp nhỉ?
+cash_balance, tk có nhiêu tiền nhỉ?
+advice, cho lời khuyên về ssi cái?
+market, xem thông tin ssi
+trade, giao dịch ssi 1000 cp
+look, xem có xinh không?
+order_status, lệnh bán thế nào rồi?
+name, cậu là cái gì?
+ratio_status, trạng thái tk có ổn định không?
+end, dừng phần mềm
+cancel,hủy đặt lệnh bán của tôi
+cancel_all, hủy toàn bộ các lệnh kia đi
+stock_balance, cp tk đuôi 1 bao nhiêu nhỉ
+cash_balance, tiền trong tk đuôi 1
+advice, nên làm gì với ssi
+market, thị trường đang mua bán thế nào?
+trade, đầu tư thêm 1000 ssi giá 10 đi
+look, nhìn hay không?
+order_status, lệnh mua mới nhất thực thi chưa
+name, đây là gì vậy?
+ratio_status, tk có đang báo động không
+end, dừng chương trình lại
+cancel, hủy khớp lệnh vừa đặt
+cancel_all, hủy hoàn toàn các lệnh của tôi đi
+stock_balance, số cp tk đuôi 1
+cash_balance, xem tiền trong tk
+advice, xin khuyến nghị thị trường
+market, thông tin biến động thị trường
+trade, xúc thêm 1000 ssi giá 10 đi
+look, trông thế nào
+order_status, lệnh bán được thực thi chưa
+name, phần mềm này là gì vậy
+ratio_status, tình trạng tk
+end, kết thúc như nào
+cancel, hủy lệnh của tôi vừa đặt
+cancel_all, hủy toàn bộ lệnh cho tôi
+stock_balance, số cp tôi nắm giữ
+cash_balance, tiền trong tk ntn
+advice, cho lời khuyên đê
+market, xem thị trường cái nào
+trade, giao dịch mua thêm 1000 cp ssi giá 10
+look, nhìn có đẹp không?
+order_status, lệnh tôi đặt hủy đi ngay
+name, chương trình là gì vậy
+ratio_status, tài khoản của tôi có đang trong tình trạng cân bằng không
+end, ngừng chương trình đi ngay
+cancel, hủy lệnh mua 1000 ssi tôi mới đặt đi
+cancel_all, toàn bộ các lệnh mua bán ssi của tôi hủy hết đi
+stock_balance, cp còn bao nhiêu nhỉ
+cash_balance, tiền còn bao nhiêu ta
+advice, xin lời khuyên về thị trường
+market, thị trường hôm nay đang trong trạng thái nào?
+trade, xả hết toàn bộ ssi giá 10 cho tôi
+look, nhìn đẹp ko?
+order_status, lệnh múc ssi của tôi thế nào rồi?
+name, tên chương trình là gì?
+ratio_status, tỷ lệ tk của tôi là bao nhiêu
+end, kết thúc.
+cancel, dừng lệnh tôi mới đặt đi
+cancel_all, hủy bỏ toàn bộ tất cả mọi lệnh tôi đặt về ssi
+stock_balance,kiểm tra số dư cp
+cash_balance,kiểm tra tiền dư
+advice, xin lời khuyên nên nắm giữ ssi không
+market, thị trường hôm nay ổn định không nhỉ?
+trade, xúc 1000 ssi cho tôi đi
+look, nhìn thế nào?
+order_status, lệnh thực thi mua bán cho tôi như thế nào
+name, tên mày là gì thế?
+ratio_status, tỉ lệ margin đang thế nào?
+end, dừng.
+cancel, trở lại chức năng chính đi.

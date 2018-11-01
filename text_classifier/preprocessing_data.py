@@ -25,7 +25,7 @@ class PreprocessingDataClassifier:
         model = FastText.load(self.wv_file)
         texts = []
         intents_data = [] # danh sách intents trong bộ dữ liệu
-        intents_official = ['end', 'trade', 'cash_balance', 'advice', 'order_status', 'stock_balance', 'market', 'cancel']
+        intents_official = ['end', 'trade', 'cash_balance', 'advice', 'order_status', 'stock_balance', 'market', 'cancel','ratio_status','look','name','cancel_all']
         sentences = {}
         with open(self.file_data_classifier, encoding="utf8") as input:
             for line in input :

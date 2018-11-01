@@ -1,0 +1,501 @@
+cancel_all,hủy tất cả lệnh
+cancel_all,hủy tất cả các lệnh mua và bán
+cancel_all,hủy tất cả các lệnh tôi vừa đặt
+cancel_all,hủy tất cả các lệnh đã đặt
+cancel_all,hủy tất cả các lệnh vừa đặt
+cancel_all,hủy tất cả đi
+cancel_all,hủy tất cả lệnh ngay
+cancel_all,hủy tất cả mọi lệnh tôi đặt
+cancel_all,hủy tất cả lệnh của tôi
+cancel_all,hủy tất cả mọi lệnh
+cancel_all,hủy tất cả các lệnh đặt mua
+cancel_all,hủy tất cả các lệnh đặt bán
+cancel_all,hủy tất cả lệnh tôi đặt bán và mua
+cancel_all,hủy tất cả các lệnh khẩn trương
+cancel_all,hủy tất cả các lệnh mua và bán khẩn trương
+cancel_all,hủy tất cả các lệnh tôi vừa đặt khẩn trương
+cancel_all,hủy tất cả các lệnh đã đặt khẩn trương
+cancel_all,hủy tất cả các lệnh vừa đặt khẩn trương
+cancel_all,hủy tất cả các lệnh tôi có
+cancel_all,hủy tất cả
+cancel_all,hủy tất cả khẩn trương
+cancel_all,hủy khẩn trương
+cancel_all,hủy tất
+cancel_all,hủy tất khẩn trương
+cancel_all,hủy tất ngay
+cancel_all,hủy tất luôn
+cancel_all,hủy các lệnh khẩn trương
+cancel_all,hủy các lệnh vừa đặt
+cancel_all,hủy các lệnh mới đặt
+cancel_all,hủy các lệnh vừa đặt đi
+cancel_all,hủy các lệnh mua và bán
+cancel_all,hủy các lệnh mua tôi mới đặt
+cancel_all,hủy các lệnh bán tôi mới đặt
+cancel_all,hủy đống lệnh của tôi đi
+cancel_all,hủy hết đống lệnh
+cancel_all,hủy đống lệnh vừa đặt
+cancel_all,hủy mọi lệnh
+cancel_all,hủy mọi lệnh của tôi
+cancel_all,hủy mọi lệnh tôi đã đặt
+cancel_all,hủy mọi lệnh đã đặt
+cancel_all,hủy ngay mọi lệnh
+cancel_all,hủy mọi lệnh khẩn trương
+cancel_all,hủy mọi lệnh mua và bán đi
+cancel_all,hủy mọi lệnh mua và bán của tôi ngay
+cancel_all,hủy mọi lệnh mua và bán tôi mới đặt
+cancel_all,hủy mọi lệnh tôi đặt
+cancel_all,hủy mọi lệnh chờ đi
+cancel_all,hủy mọi thứ tôi vừa đặt
+cancel_all,hủy mọi thứ lệnh tôi vừa đặt
+cancel_all,hủy hàng loạt các lệnh tôi vừa đặt
+cancel_all,hủy tất thảy luôn
+cancel_all,hủy tất tật các lệnh vừa đặt
+cancel_all,hủy tất thẩy các lệnh vừa đặt
+cancel_all,hủy tất thẩy lệnh đi
+cancel_all,hủy toàn bộ
+cancel_all,hủy toàn bộ lệnh
+cancel_all,hủy toàn bộ các lệnh mua và bán
+cancel_all,hủy toàn bộ các lệnh mua và bán ngay
+cancel_all,hủy toàn bộ các lệnh tôi vừa đặt
+cancel_all,hủy toàn bộ các lệnh tôi vừa đặt ngay
+cancel_all,hủy toàn bộ các lệnh đã đặt
+cancel_all,hủy toàn bộ các lệnh vừa đặt
+cancel_all,hủy toàn bộ các lệnh đã đặt ngay 
+cancel_all,hủy toàn bộ các lệnh vừa đặt ngay
+cancel_all,hủy toàn bộ đi
+cancel_all,hủy toàn bộ lệnh ngay
+cancel_all,hủy toàn bộ mọi lệnh tôi đặt
+cancel_all,hủy toàn bộ lệnh của tôi
+cancel_all,hủy toàn bộ mọi lệnh
+cancel_all,hủy toàn bộ các lệnh đặt mua
+cancel_all,hủy toàn bộ các lệnh đặt bán
+cancel_all,hủy toàn bộ lệnh tôi đặt bán và mua
+cancel_all,hủy toàn bộ các lệnh khẩn trương
+cancel_all,hủy toàn bộ các lệnh mua và bán khẩn trương
+cancel_all,hủy toàn bộ các lệnh tôi vừa đặt khẩn trương
+cancel_all,hủy toàn bộ các lệnh đã đặt khẩn trương
+cancel_all,hủy toàn bộ các lệnh vừa đặt khẩn trương
+cancel_all,hủy toàn bộ các lệnh tôi có
+cancel_all,hủy toàn bộ
+cancel_all,hủy toàn bộ khẩn trương
+cancel_all,có gì hủy tất
+cancel_all,có lệnh gì hủy tất
+cancel_all,có lệnh gì hủy sạch đi
+cancel_all,có lệnh gì hủy bỏ tất
+cancel_all,có lệnh gì hủy tất đi
+cancel_all,có lệnh gì bỏ hết đi
+cancel_all,có lệnh mua bán gì hủy sạch đi
+cancel_all,hủy tất tật lệnh đi
+cancel_all,lệnh gì đặt hủy tất
+cancel_all,lệnh của tôi hủy tất
+cancel_all,lệnh mới đặt hủy tất
+cancel_all,lệnh đặt mua hủy tất
+cancel_all,lệnh đặt bán hủy tất
+cancel_all,lệnh mua bán hủy tất
+cancel_all,các lệnh mới đặt hủy tất
+cancel_all,các lệnh vừa đặt hủy đi
+cancel_all,lệnh của tôi hủy hết đi
+cancel_all,huỷ hết lệnh
+cancel_all,hủy hết sạch lệnh đi
+cancel_all,hủy hết sạch lệnh mua bán đi
+cancel_all,hủy mọi loại lệnh đã đặt
+cancel_all,hủy mọi loại lệnh mua bán đã đặt
+cancel_all,hủy mọi loại lệnh tôi mới đặt
+cancel_all,hủy sạch lệnh cho tôi
+cancel_all,các lệnh tôi mới đặt hủy hết đi
+cancel_all,hủy sạch mọi lệnh mới đặt
+cancel_all,hủy hết sạch các loại lệnh của tôi
+cancel_all,mọi lệnh vừa đặt hủy hết đi
+cancel_all,hủy bỏ các lệnh mà lúc chiều tôi mới đặt một đống
+cancel_all,hôm qua đặt nhiều lệnh quá, hủy các lệnh không hợp lệ cho tôi
+cancel_all,hủy toàn bộ lệnh đặt mua ssi cho tôi
+cancel_all,hôm qua có đặt lệnh sai nên hủy hết các lệnh cho tôi
+cancel_all,tôi muốn hủy hết tất cả lệnh vừa đặt
+cancel_all,tôi muốn hủy hết toàn bộ đống lệnh vừa đặt
+cancel_all,tôi muốn hủy toàn bộ lệnh của tôi
+cancel_all,tôi muốn hủy hết lệnh đã đặt
+cancel_all,tôi muốn hủy mọi loại lệnh đã đặt
+cancel_all,tôi muốn hủy hết lệnh của tôi
+cancel_all,tôi muốn hủy bỏ hết lệnh
+cancel_all,dừng tất cả lệnh
+cancel_all,dừng tất cả các lệnh mua và bán
+cancel_all,dừng tất cả các lệnh tôi vừa đặt
+cancel_all,dừng tất cả các lệnh đã đặt
+cancel_all,dừng tất cả các lệnh vừa đặt
+cancel_all,dừng tất cả các lệnh đã đặt ngay 
+cancel_all,dừng tất cả các lệnh vừa đặt ngay
+cancel_all,dừng tất cả đi
+cancel_all,dừng tất cả lệnh ngay
+cancel_all,dừng tất cả mọi lệnh tôi đặt
+cancel_all,dừng tất cả lệnh của tôi
+cancel_all,dừng tất cả mọi lệnh
+cancel_all,dừng tất cả các lệnh đặt mua
+cancel_all,dừng tất cả các lệnh đặt bán
+cancel_all,dừng tất cả lệnh tôi đặt bán và mua
+cancel_all,dừng tất cả các lệnh khẩn trương
+cancel_all,dừng tất cả các lệnh mua và bán khẩn trương
+cancel_all,dừng tất cả các lệnh tôi vừa đặt khẩn trương
+cancel_all,dừng tất cả các lệnh đã đặt khẩn trương
+cancel_all,dừng tất cả các lệnh vừa đặt khẩn trương
+cancel_all,dừng tất cả các lệnh tôi có
+cancel_all,dừng tất cả
+cancel_all,dừng tất cả khẩn trương
+cancel_all,dừng khẩn trương
+cancel_all,dừng tất
+cancel_all,dừng tất khẩn trương
+cancel_all,dừng tất đi
+cancel_all,dừng tất ngay
+cancel_all,dừng tất luôn
+cancel_all,dừng các lệnh khẩn trương
+cancel_all,dừng các lệnh đi
+cancel_all,dừng các lệnh luôn đi
+cancel_all,dừng các lệnh vừa đặt
+cancel_all,dừng các lệnh mới đặt
+cancel_all,dừng các lệnh tôi mới đặt
+cancel_all,dừng các lệnh ngay luôn đi
+cancel_all,dừng các lệnh mua và bán
+cancel_all,dừng các lệnh mua tôi mới đặt
+cancel_all,dừng các lệnh bán tôi mới đặt
+cancel_all,dừng đống lệnh của tôi đi
+cancel_all,dừng đống lệnh mới đặt
+cancel_all,dừng hết đống lệnh
+cancel_all,dừng đống lệnh vừa đặt
+cancel_all,dừng mọi lệnh
+cancel_all,dừng mọi lệnh của tôi
+cancel_all,dừng mọi lệnh tôi đã đặt
+cancel_all,dừng mọi lệnh đã đặt
+cancel_all,dừng ngay mọi lệnh
+cancel_all,dừng mọi lệnh khẩn trương
+cancel_all,dừng mọi lệnh mua và bán tôi mới đặt
+cancel_all,dừng mọi lệnh tôi đặt
+cancel_all,dừng mọi lệnh chờ đi
+cancel_all,dừng mọi thứ tôi vừa đặt
+cancel_all,dừng mọi thứ lệnh tôi vừa đặt
+cancel_all,dừng hàng loạt các lệnh tôi vừa đặt
+cancel_all,dừng tất thảy luôn
+cancel_all,dừng tất tật các lệnh vừa đặt
+cancel_all,dừng tất thẩy các lệnh vừa đặt
+cancel_all,dừng toàn bộ
+cancel_all,dừng toàn bộ lệnh
+cancel_all,dừng toàn bộ các lệnh mua và bán
+cancel_all,dừng toàn bộ các lệnh tôi vừa đặt
+cancel_all,dừng toàn bộ các lệnh đã đặt
+cancel_all,dừng toàn bộ các lệnh vừa đặt
+cancel_all,dừng toàn bộ đi
+cancel_all,dừng toàn bộ lệnh ngay
+cancel_all,dừng toàn bộ mọi lệnh tôi đặt
+cancel_all,dừng toàn bộ lệnh của tôi
+cancel_all,dừng toàn bộ mọi lệnh
+cancel_all,dừng toàn bộ các lệnh đặt mua
+cancel_all,dừng toàn bộ các lệnh đặt bán
+cancel_all,dừng toàn bộ lệnh tôi đặt bán và mua
+cancel_all,dừng toàn bộ các lệnh khẩn trương
+cancel_all,dừng toàn bộ các lệnh mua và bán khẩn trương
+cancel_all,dừng toàn bộ các lệnh tôi vừa đặt khẩn trương
+cancel_all,dừng toàn bộ các lệnh đã đặt khẩn trương
+cancel_all,dừng toàn bộ các lệnh vừa đặt khẩn trương
+cancel_all,dừng toàn bộ các lệnh tôi có
+cancel_all,dừng toàn bộ
+cancel_all,dừng toàn bộ khẩn trương
+cancel_all,dừng toàn bộ loại lệnh đi
+cancel_all,dừng mọi loại lệnh đi
+cancel_all,ngừng tất cả lệnh
+cancel_all,ngừng tất cả các lệnh mua và bán
+cancel_all,ngừng tất cả các lệnh mua và bán ngay
+cancel_all,ngừng tất cả các lệnh tôi vừa đặt
+cancel_all,ngừng tất cả các lệnh tôi vừa đặt ngay
+cancel_all,ngừng tất cả các lệnh đã đặt
+cancel_all,ngừng tất cả các lệnh vừa đặt
+cancel_all,ngừng tất cả các lệnh đã đặt ngay 
+cancel_all,ngừng tất cả các lệnh vừa đặt ngay
+cancel_all,ngừng tất cả đi
+cancel_all,ngừng tất cả lệnh ngay
+cancel_all,ngừng tất cả mọi lệnh tôi đặt
+cancel_all,ngừng tất cả lệnh của tôi
+cancel_all,ngừng tất cả mọi lệnh
+cancel_all,ngừng tất cả mọi lệnh đi
+cancel_all,ngừng tất cả các lệnh đặt mua
+cancel_all,ngừng tất cả các lệnh đặt bán
+cancel_all,ngừng tất cả lệnh tôi đặt bán và mua
+cancel_all,ngừng tất cả các lệnh khẩn trương
+cancel_all,ngừng tất cả các lệnh mua và bán khẩn trương
+cancel_all,ngừng tất cả các lệnh tôi vừa đặt khẩn trương
+cancel_all,ngừng tất cả các lệnh đã đặt khẩn trương
+cancel_all,ngừng tất cả các lệnh vừa đặt khẩn trương
+cancel_all,ngừng tất cả các lệnh tôi có
+cancel_all,ngừng tất cả
+cancel_all,ngừng tất cả khẩn trương
+cancel_all,ngừng khẩn trương
+cancel_all,ngừng tất
+cancel_all,ngừng tất khẩn trương
+cancel_all,ngừng tất ngay
+cancel_all,ngừng tất luôn
+cancel_all,ngừng các lệnh khẩn trương
+cancel_all,ngừng các lệnh vừa đặt
+cancel_all,ngừng các lệnh mới đặt
+cancel_all,ngừng các lệnh tôi mới đặt
+cancel_all,ngừng các lệnh mua và bán
+cancel_all,ngừng các lệnh mua tôi mới đặt
+cancel_all,ngừng các lệnh bán tôi mới đặt
+cancel_all,ngừng đống lệnh mới đặt
+cancel_all,ngừng hết đống lệnh
+cancel_all,ngừng đống lệnh vừa đặt
+cancel_all,ngừng mọi lệnh
+cancel_all,ngừng mọi lệnh của tôi
+cancel_all,ngừng mọi lệnh tôi đã đặt
+cancel_all,ngừng mọi lệnh đã đặt
+cancel_all,ngừng ngay mọi lệnh
+cancel_all,ngừng mọi lệnh khẩn trương
+cancel_all,ngừng mọi lệnh mua và bán của tôi ngay
+cancel_all,ngừng mọi lệnh mua và bán tôi mới đặt
+cancel_all,ngừng mọi lệnh tôi đặt
+cancel_all,ngừng mọi thứ tôi vừa đặt
+cancel_all,ngừng mọi thứ lệnh tôi vừa đặt
+cancel_all,ngừng hàng loạt các lệnh tôi vừa đặt
+cancel_all,ngừng tất thảy luôn
+cancel_all,ngừng tất tật các lệnh vừa đặt
+cancel_all,ngừng tất thẩy các lệnh vừa đặt
+cancel_all,ngừng toàn bộ
+cancel_all,ngừng toàn bộ lệnh
+cancel_all,ngừng toàn bộ các lệnh mua và bán
+cancel_all,ngừng toàn bộ các lệnh tôi vừa đặt
+cancel_all,ngừng toàn bộ các lệnh đã đặt
+cancel_all,ngừng toàn bộ các lệnh vừa đặt
+cancel_all,ngừng toàn bộ lệnh ngay
+cancel_all,ngừng toàn bộ mọi lệnh tôi đặt
+cancel_all,ngừng toàn bộ lệnh của tôi
+cancel_all,ngừng toàn bộ mọi lệnh
+cancel_all,ngừng toàn bộ các lệnh đặt mua
+cancel_all,ngừng toàn bộ các lệnh đặt bán
+cancel_all,ngừng toàn bộ lệnh tôi đặt bán và mua
+cancel_all,ngừng toàn bộ các lệnh khẩn trương
+cancel_all,ngừng toàn bộ các lệnh mua và bán khẩn trương
+cancel_all,ngừng toàn bộ các lệnh tôi vừa đặt khẩn trương
+cancel_all,ngừng toàn bộ các lệnh đã đặt khẩn trương
+cancel_all,ngừng toàn bộ các lệnh vừa đặt khẩn trương
+cancel_all,ngừng toàn bộ các lệnh tôi có
+cancel_all,ngừng toàn bộ khẩn trương
+cancel_all,hủy bỏ tất cả lệnh
+cancel_all,hủy bỏ tất cả các lệnh mua và bán
+cancel_all,hủy bỏ tất cả các lệnh mua và bán ngay
+cancel_all,hủy bỏ tất cả các lệnh tôi vừa đặt
+cancel_all,hủy bỏ tất cả các lệnh tôi vừa đặt ngay
+cancel_all,hủy bỏ tất cả các lệnh đã đặt
+cancel_all,hủy bỏ tất cả các lệnh vừa đặt
+cancel_all,hủy bỏ tất cả lệnh ngay
+cancel_all,hủy bỏ tất cả mọi lệnh tôi đặt
+cancel_all,hủy bỏ tất cả lệnh của tôi
+cancel_all,hủy bỏ tất cả mọi lệnh
+cancel_all,hủy bỏ tất cả các lệnh đặt mua
+cancel_all,hủy bỏ tất cả các lệnh đặt bán
+cancel_all,hủy bỏ tất cả lệnh tôi đặt bán và mua
+cancel_all,hủy bỏ tất cả các lệnh khẩn trương
+cancel_all,hủy bỏ tất cả các lệnh mua và bán khẩn trương
+cancel_all,hủy bỏ tất cả các lệnh tôi vừa đặt khẩn trương
+cancel_all,hủy bỏ tất cả các lệnh đã đặt khẩn trương
+cancel_all,hủy bỏ tất cả các lệnh vừa đặt khẩn trương
+cancel_all,hủy bỏ tất cả các lệnh tôi có
+cancel_all,hủy bỏ tất cả
+cancel_all,hủy bỏ tất cả khẩn trương
+cancel_all,hủy bỏ khẩn trương
+cancel_all,hủy bỏ tất
+cancel_all,hủy bỏ tất khẩn trương
+cancel_all,hủy bỏ tất ngay
+cancel_all,hủy bỏ tất luôn
+cancel_all,hủy bỏ các lệnh khẩn trương
+cancel_all,hủy bỏ các lệnh vừa đặt
+cancel_all,hủy bỏ các lệnh mới đặt
+cancel_all,hủy bỏ các lệnh tôi mới đặt
+cancel_all,hủy bỏ các lệnh mua và bán
+cancel_all,hủy bỏ các lệnh mua tôi mới đặt
+cancel_all,hủy bỏ các lệnh bán tôi mới đặt
+cancel_all,hủy bỏ đống lệnh mới đặt
+cancel_all,hủy bỏ hết đống lệnh
+cancel_all,hủy bỏ đống lệnh vừa đặt
+cancel_all,hủy bỏ mọi lệnh
+cancel_all,hủy bỏ mọi lệnh của tôi
+cancel_all,hủy bỏ mọi lệnh tôi đã đặt
+cancel_all,hủy bỏ mọi lệnh đã đặt
+cancel_all,hủy bỏ ngay mọi lệnh
+cancel_all,hủy bỏ mọi lệnh khẩn trương
+cancel_all,hủy bỏ mọi lệnh mua và bán đi
+cancel_all,hủy bỏ mọi lệnh mua và bán của tôi ngay
+cancel_all,hủy bỏ mọi lệnh mua và bán tôi mới đặt
+cancel_all,hủy bỏ mọi lệnh tôi đặt
+cancel_all,hủy bỏ mọi thứ tôi vừa đặt
+cancel_all,hủy bỏ mọi thứ lệnh tôi vừa đặt
+cancel_all,hủy bỏ hàng loạt các lệnh tôi vừa đặt
+cancel_all,hủy bỏ hết sạch đống lệnh tôi đặt đi
+cancel_all,hủy bỏ tất thảy luôn
+cancel_all,hủy bỏ tất tật các lệnh vừa đặt
+cancel_all,hủy bỏ tất thẩy các lệnh vừa đặt
+cancel_all,hủy bỏ toàn bộ
+cancel_all,hủy bỏ toàn bộ lệnh
+cancel_all,hủy bỏ toàn bộ các lệnh mua và bán
+cancel_all,hủy bỏ toàn bộ các lệnh mua và bán ngay
+cancel_all,hủy bỏ toàn bộ các lệnh tôi vừa đặt
+cancel_all,hủy bỏ toàn bộ các lệnh tôi vừa đặt ngay
+cancel_all,hủy bỏ toàn bộ các lệnh đã đặt
+cancel_all,hủy bỏ toàn bộ các lệnh vừa đặt
+cancel_all,hủy bỏ toàn bộ các lệnh đã đặt ngay 
+cancel_all,hủy bỏ toàn bộ các lệnh vừa đặt ngay
+cancel_all,hủy bỏ toàn bộ lệnh ngay
+cancel_all,hủy bỏ toàn bộ mọi lệnh tôi đặt
+cancel_all,hủy bỏ toàn bộ lệnh của tôi
+cancel_all,hủy bỏ toàn bộ mọi lệnh
+cancel_all,hủy bỏ toàn bộ các lệnh đặt mua
+cancel_all,hủy bỏ toàn bộ các lệnh đặt bán
+cancel_all,hủy bỏ toàn bộ lệnh tôi đặt bán và mua
+cancel_all,hủy bỏ toàn bộ các lệnh khẩn trương
+cancel_all,hủy bỏ toàn bộ các lệnh mua và bán khẩn trương
+cancel_all,hủy bỏ toàn bộ các lệnh tôi vừa đặt khẩn trương
+cancel_all,hủy bỏ toàn bộ các lệnh đã đặt khẩn trương
+cancel_all,hủy bỏ toàn bộ các lệnh vừa đặt khẩn trương
+cancel_all,hủy bỏ toàn bộ các lệnh tôi có
+cancel_all,hủy bỏ toàn bộ
+cancel_all,hủy bỏ toàn bộ khẩn trương
+cancel_all,tạm dừng tất cả lệnh
+cancel_all,tạm dừng tất cả các lệnh mua và bán
+cancel_all,tạm dừng tất cả các lệnh mua và bán ngay
+cancel_all,tạm dừng tất cả các lệnh tôi vừa đặt
+cancel_all,tạm dừng tất cả các lệnh tôi vừa đặt ngay
+cancel_all,tạm dừng tất cả các lệnh đã đặt
+cancel_all,tạm dừng tất cả các lệnh vừa đặt
+cancel_all,tạm dừng tất cả lệnh ngay
+cancel_all,tạm dừng tất cả mọi lệnh tôi đặt
+cancel_all,tạm dừng tất cả lệnh của tôi
+cancel_all,tạm dừng tất cả mọi lệnh
+cancel_all,tạm dừng tất cả các lệnh đặt mua
+cancel_all,tạm dừng tất cả các lệnh đặt bán
+cancel_all,tạm dừng tất cả lệnh tôi đặt bán và mua
+cancel_all,tạm dừng tất cả các lệnh khẩn trương
+cancel_all,tạm dừng tất cả các lệnh mua và bán khẩn trương
+cancel_all,tạm dừng tất cả các lệnh tôi vừa đặt khẩn trương
+cancel_all,tạm dừng tất cả các lệnh đã đặt khẩn trương
+cancel_all,tạm dừng tất cả các lệnh vừa đặt khẩn trương
+cancel_all,tạm dừng tất cả các lệnh tôi có
+cancel_all,tạm dừng tất cả
+cancel_all,tạm dừng tất cả khẩn trương
+cancel_all,tạm dừng khẩn trương
+cancel_all,tạm dừng tất
+cancel_all,tạm dừng tất khẩn trương
+cancel_all,tạm dừng tất ngay
+cancel_all,tạm dừng tất luôn
+cancel_all,tạm dừng các lệnh khẩn trương
+cancel_all,tạm dừng các lệnh vừa đặt
+cancel_all,tạm dừng các lệnh mới đặt
+cancel_all,tạm dừng các lệnh tôi mới đặt
+cancel_all,tạm dừng các lệnh mua và bán
+cancel_all,tạm dừng các lệnh mua tôi mới đặt
+cancel_all,tạm dừng các lệnh bán tôi mới đặt
+cancel_all,tạm dừng đống lệnh mới đặt
+cancel_all,tạm dừng hết đống lệnh
+cancel_all,tạm dừng đống lệnh vừa đặt
+cancel_all,tạm dừng mọi lệnh
+cancel_all,tạm dừng mọi lệnh của tôi
+cancel_all,tạm dừng mọi lệnh tôi đã đặt
+cancel_all,tạm dừng mọi lệnh đã đặt
+cancel_all,tạm dừng ngay mọi lệnh
+cancel_all,tạm dừng mọi lệnh khẩn trương
+cancel_all,tạm dừng mọi lệnh mua và bán của tôi ngay
+cancel_all,tạm dừng mọi lệnh mua và bán tôi mới đặt
+cancel_all,tạm dừng mọi lệnh tôi đặt
+cancel_all,tạm dừng mọi thứ tôi vừa đặt
+cancel_all,tạm dừng mọi thứ lệnh tôi vừa đặt
+cancel_all,tạm dừng hàng loạt các lệnh tôi vừa đặt
+cancel_all,tạm dừng tất thảy luôn
+cancel_all,tạm dừng tất tật các lệnh vừa đặt
+cancel_all,tạm dừng tất thẩy các lệnh vừa đặt
+cancel_all,tạm dừng toàn bộ
+cancel_all,tạm dừng toàn bộ lệnh
+cancel_all,tạm dừng toàn bộ các lệnh mua và bán
+cancel_all,tạm dừng toàn bộ các lệnh mua và bán ngay
+cancel_all,tạm dừng toàn bộ các lệnh tôi vừa đặt
+cancel_all,tạm dừng toàn bộ các lệnh tôi vừa đặt ngay
+cancel_all,tạm dừng toàn bộ các lệnh đã đặt
+cancel_all,tạm dừng toàn bộ các lệnh vừa đặt
+cancel_all,tạm dừng toàn bộ các lệnh đã đặt ngay 
+cancel_all,tạm dừng toàn bộ các lệnh vừa đặt ngay
+cancel_all,tạm dừng toàn bộ lệnh ngay
+cancel_all,tạm dừng toàn bộ mọi lệnh tôi đặt
+cancel_all,tạm dừng toàn bộ lệnh của tôi
+cancel_all,tạm dừng toàn bộ mọi lệnh
+cancel_all,tạm dừng toàn bộ các lệnh đặt mua
+cancel_all,tạm dừng toàn bộ các lệnh đặt bán
+cancel_all,tạm dừng toàn bộ lệnh tôi đặt bán và mua
+cancel_all,tạm dừng toàn bộ các lệnh khẩn trương
+cancel_all,tạm dừng toàn bộ các lệnh mua và bán khẩn trương
+cancel_all,tạm dừng toàn bộ các lệnh tôi vừa đặt khẩn trương
+cancel_all,tạm dừng toàn bộ các lệnh đã đặt khẩn trương
+cancel_all,tạm dừng toàn bộ các lệnh vừa đặt khẩn trương
+cancel_all,tạm dừng toàn bộ các lệnh tôi có
+cancel_all,tạm dừng toàn bộ
+cancel_all,tạm dừng toàn bộ khẩn trương
+cancel_all,ngưng tất cả lệnh
+cancel_all,ngưng tất cả các lệnh mua và bán
+cancel_all,ngưng tất cả các lệnh tôi vừa đặt
+cancel_all,ngưng tất cả các lệnh đã đặt
+cancel_all,ngưng tất cả các lệnh vừa đặt
+cancel_all,ngưng tất cả lệnh ngay
+cancel_all,ngưng tất cả mọi lệnh tôi đặt
+cancel_all,ngưng tất cả lệnh của tôi
+cancel_all,ngưng tất cả mọi lệnh
+cancel_all,ngưng tất cả các lệnh đặt mua
+cancel_all,ngưng tất cả các lệnh đặt bán
+cancel_all,ngưng tất cả lệnh tôi đặt bán và mua
+cancel_all,ngưng tất cả các lệnh khẩn trương
+cancel_all,ngưng tất cả các lệnh mua và bán khẩn trương
+cancel_all,ngưng tất cả các lệnh tôi vừa đặt khẩn trương
+cancel_all,ngưng tất cả các lệnh đã đặt khẩn trương
+cancel_all,ngưng tất cả các lệnh tôi có
+cancel_all,ngưng tất cả
+cancel_all,ngưng tất cả khẩn trương
+cancel_all,ngưng khẩn trương
+cancel_all,ngưng tất
+cancel_all,ngưng tất khẩn trương
+cancel_all,ngưng tất ngay
+cancel_all,ngưng tất luôn
+cancel_all,ngưng các lệnh khẩn trương
+cancel_all,ngưng các lệnh vừa đặt
+cancel_all,ngưng các lệnh mới đặt
+cancel_all,ngưng các lệnh tôi mới đặt
+cancel_all,ngưng các lệnh mua và bán
+cancel_all,ngưng các lệnh mua tôi mới đặt
+cancel_all,ngưng các lệnh bán tôi mới đặt
+cancel_all,ngưng đống lệnh mới đặt
+cancel_all,ngưng hết đống lệnh
+cancel_all,ngưng đống lệnh vừa đặt
+cancel_all,ngưng mọi lệnh
+cancel_all,ngưng mọi lệnh của tôi
+cancel_all,ngưng mọi lệnh tôi đã đặt
+cancel_all,ngưng mọi lệnh đã đặt
+cancel_all,ngưng ngay mọi lệnh
+cancel_all,ngưng mọi lệnh khẩn trương
+cancel_all,ngưng mọi lệnh mua và bán của tôi ngay
+cancel_all,ngưng mọi lệnh mua và bán tôi mới đặt
+cancel_all,ngưng mọi lệnh tôi đặt
+cancel_all,ngưng mọi thứ tôi vừa đặt
+cancel_all,ngưng mọi thứ lệnh tôi vừa đặt
+cancel_all,ngưng hàng loạt các lệnh tôi vừa đặt
+cancel_all,ngưng tất thảy luôn
+cancel_all,ngưng tất tật các lệnh vừa đặt
+cancel_all,ngưng tất thẩy các lệnh vừa đặt
+cancel_all,ngưng toàn bộ
+cancel_all,ngưng toàn bộ lệnh
+cancel_all,ngưng toàn bộ các lệnh mua và bán
+cancel_all,ngưng toàn bộ các lệnh tôi vừa đặt
+cancel_all,ngưng toàn bộ các lệnh đã đặt
+cancel_all,ngưng toàn bộ các lệnh vừa đặt
+cancel_all,ngưng toàn bộ lệnh ngay
+cancel_all,ngưng toàn bộ mọi lệnh tôi đặt
+cancel_all,ngưng toàn bộ lệnh của tôi
+cancel_all,ngưng toàn bộ mọi lệnh
+cancel_all,ngưng toàn bộ các lệnh đặt mua
+cancel_all,ngưng toàn bộ các lệnh đặt bán
+cancel_all,ngưng toàn bộ lệnh tôi đặt bán và mua
+cancel_all,ngưng toàn bộ các lệnh khẩn trương
+cancel_all,ngưng toàn bộ các lệnh đã đặt khẩn trương
+cancel_all,ngưng toàn bộ các lệnh vừa đặt khẩn trương
+cancel_all,ngưng toàn bộ các lệnh tôi có
+cancel_all,ngưng toàn bộ
+cancel_all,ngưng toàn bộ khẩn trương

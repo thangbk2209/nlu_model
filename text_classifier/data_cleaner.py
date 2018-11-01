@@ -198,7 +198,6 @@ chuyển_tự
 chuyển_đạt
 chành_chạnh
 chí_chết
-chính
 chính_bản
 chính_giữa
 chính_là
@@ -328,7 +327,6 @@ có_điều
 có_điều_kiện
 có_đáng
 có_đâu
-có_được
 cóc_khô
 cô_mình
 cô_quả
@@ -441,6 +439,7 @@ dễ_đâu
 dở_chừng
 dữ
 dữ_cách
+đê
 đêm
 em
 em_em
@@ -461,9 +460,7 @@ gây_cho
 gây_giống
 gây_ra
 gây_thêm
-gì
 gì_gì
-gì_đó
 giúp
 gần
 gần_bên
@@ -555,7 +552,6 @@ loại_từ
 luôn
 luôn_cả
 luôn_tay
-là
 là_cùng
 là_là
 là_nhiều
@@ -637,10 +633,8 @@ lần_lần
 lần_sang
 lần_theo
 lần_tìm
-lớn
 lớn_lên
 lớn_nhỏ
-lời
 lời_chú
 lời_nói
 mang
@@ -752,7 +746,6 @@ ngôi_thứ
 ngõ_hầu
 ngăn_ngắt
 ngươi
-người
 người_hỏi
 người_khác
 người_khách
@@ -788,7 +781,6 @@ nhà_tôi
 nhà_việc
 nhân_dịp
 nhìn_theo
-nhìn_thấy
 nhìn_xuống
 nhón_nhén
 như_ai
@@ -833,7 +825,6 @@ nhằm_lúc
 nhằm_vào
 nhằm_để
 nhỉ
-nhỏ
 nhỏ_người
 nhớ
 nhớ_bập_bõm
@@ -956,8 +947,6 @@ phải_người
 phải_như
 phải_rồi
 phải_tay
-phần
-phần_lớn
 phần_nhiều
 phần_nào
 phần_sau
@@ -1179,11 +1168,9 @@ thường_xuất_hiện
 thường_đến
 thảo_hèn
 thảo_nào
-thấp
 thấp_cơ
 thấp_thỏm
 thấp_xuống
-thấy
 thấy_tháng
 thẩy
 thậm
@@ -1303,7 +1290,6 @@ tuổi
 tuổi_cả
 tuổi_tôi
 tà_tà
-tên
 tên_chính
 tên_cái
 tên_họ
@@ -1476,12 +1462,10 @@ với_lại
 với_nhau
 vở
 vụt
-vừa
 vừa_khi
 vừa_lúc
 vừa_mới
 vừa_rồi
-vừa_vừa
 xa
 xa_cách
 xa_gần
@@ -1574,6 +1558,7 @@ xệp
 ăn_về
 đang_tay
 đang_thì
+đi
 điều
 điều_gì
 điều_kiện
@@ -1806,7 +1791,7 @@ xệp
                     fixed_sentence.append(self.data[i][j])
             # print(fixed_sentence)
             all_sentence.append(fixed_sentence)
-        all_sentence = np.array(all_sentence)
+        # all_sentence = np.array(all_sentence)
         return all_sentence
     
     """

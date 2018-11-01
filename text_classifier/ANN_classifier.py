@@ -67,7 +67,7 @@ class Classifier:
         x = tf.placeholder(tf.float32, name="x", shape=(None, self.input_size * self.embedding_dim))
         hidden_value1 = tf.layers.dense(x, 2048, activation = tf.nn.relu, name="hidden1")
         hidden_value2 = tf.layers.dense(hidden_value1, 32, activation = tf.nn.sigmoid, name="hidden2")
-        prediction = tf.layers.dense(hidden_value1,self.num_classes, activation = tf.nn.softmax, name="prediction")
+        prediction = tf.layers.dense(hidden_value2,self.num_classes, activation = tf.nn.softmax, name="prediction")
         y_label = tf.placeholder(tf.float32, name="y_label", shape=(None, self.num_classes))
         # define the loss function:
         cross_entropy_loss = tf.reduce_mean(-tf.reduce_sum(y_label * tf.log(prediction), reduction_indices=[1]))
