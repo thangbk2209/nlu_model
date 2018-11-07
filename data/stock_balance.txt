@@ -1,0 +1,282 @@
+stock_balance,số dư cp tài khoản đuôi 1
+stock_balance,kt số dư cp 
+stock_balance,kt số dư cp trong tài khoản của tôi 
+stock_balance,tôi còn những loại cổ phiếu nào
+stock_balance,tôi có những loại cổ nào
+stock_balance,tôi còn những loại cổ nào
+stock_balance,tài khoản của tôi còn những cổ phiếu nào
+stock_balance,tài khoản của tôi có những cổ phiếu nào
+stock_balance,có những loại cổ phiếu nào trong tài khoản của tôi
+stock_balance,tài khoản đuôi 1 của tôi có những cổ phiếu gì?
+stock_balance,tài khoản của tôi còn mã ssi không nhỉ?
+stock_balance,tài khoản của tôi có ssi không?
+stock_balance,tài khoản của tôi có những mã nào?
+stock_balance,tôi còn nhiêu cổ phiếu nữa?
+stock_balance,tk của tôi còn nhiêu cổ phiếu nữa?
+stock_balance,số lượng cổ phiếu của từng mã trong tài khoản của tôi
+stock_balance,tôi đang cầm mã nào nhiều nhất?
+stock_balance,tôi đang giữ những mã nào nhỉ?
+stock_balance,tôi đang cầm bao nhiêu mã ssi
+stock_balance,tôi đang cầm bao nhiêu cổ phiếu mã ssi
+stock_balance,tôi đang giữ bao nhiêu cổ phiếu ssi
+stock_balance,tài khoản của tôi có đủ 1000 mã ssi không?
+stock_balance,tài khoản của tôi còn đủ 1000 cổ phiếu ssi không?
+stock_balance,lượng cổ phiếu ssi trong tài khoản của tôi có đủ 1000 không?
+stock_balance,mã nào tôi đang nắm giữ nhiều nhất nhỉ?
+stock_balance,liệt kê các mã mà tôi đang nắm giữ
+stock_balance,liệt kê các mã và số lượng mà tôi đang nắm giữ
+stock_balance,tài khoản của tôi còn bao nhiêu cổ phiếu
+stock_balance,tài khoản của tôi còn bao nhiêu cổ phiếu ssi
+stock_balance,số cổ phiếu SSI trong tài khoản
+stock_balance,số cổ phiếu SSI của tôi trong tài khoản
+stock_balance,tổng mã SSI tôi đang có
+stock_balance,tổng cp SSI tôi sở hữu
+stock_balance,tôi đang sở hữu bn cp SSI
+stock_balance,kiểm tra số lượng mã SSI trong tài khoản đuôi 1
+stock_balance,kiểm tra số lượng mã SSI trong các tài khoản của tôi
+stock_balance,kiểm tra số lượng cp SSI trong tài khoản đuôi 1
+stock_balance,tổng số SSI tôi nắm giữ
+stock_balance,SSI tôi có bao nhiêu cổ
+stock_balance,kiểm tra cổ phiếu SSI trong tài khoản
+stock_balance,số cổ phiếu SSI của tôi
+stock_balance,số cổ ACB tôi đang nắm giữ là bao nhiêu
+stock_balance,tài khoản của tôi còn bao nhiêu cổ SSI nay
+stock_balance,tôi đang nắm giữ những mã nào nhỉ?
+stock_balance,tài khoản của tôi đang có những mã nào, khối lượng bao nhiêu?
+stock_balance,khối lượng của từng mã trong tài khoản của tôi là bao nhiêu?
+stock_balance,số dư chứng khoán
+stock_balance,mã cố phiếu ssi còn bao nhiêu?
+stock_balance,mã cổ phiếu ssi trong tài khoản của tôi còn bao nhiêu?
+stock_balance,mã ssi còn bao nhiêu?
+stock_balance,tôi còn bao nhiêu cổ phiếu SSI nữa
+stock_balance,lượng SSI còn lại của tôi là bao nhiêu
+stock_balance,số dư chứng khoán SSI
+stock_balance,tài khoản đuôi 1 có bao cổ phiếu SSI
+stock_balance,có bao nhiêu mã cổ phiếu SSI
+stock_balance,tài khoản đuôi 1 còn bao nhiêu cổ phiếu SSI
+stock_balance,xem tài khoản đuôi 1 còn bao nhiêu cổ phiếu SSI
+stock_balance,xem tài khoản đuổi 6 còn bao nhiêu cổ phiếu SSI
+stock_balance,xem tài khoản đuôi 1 có bao nhiêu cổ phiếu SSI
+stock_balance,tài khoản đuôi 1 có bao chứng khoán
+stock_balance,có bao nhiêu chứng khoán
+stock_balance,thông tin số chứng khoán SSI còn dư
+stock_balance,xem thông tin số chứng khoán SSI còn dư
+stock_balance,thông tin cổ phiếu SSI còn lại
+stock_balance,thông tin cổ phiếu SSI còn dư
+stock_balance,xem thông tin cổ phiếu SSI còn dư
+stock_balance,thông tin số chứng khoán SSI còn lại
+stock_balance,xem thông tin số dư chứng khoán SSI trong tài khoản của tôi
+stock_balance,số chứng khoán SSI còn dư
+stock_balance,xem số dư chứng khoán SSI
+stock_balance,xem số chứng khoán SSI còn dư
+stock_balance,tổng số chứng khoán SSI trong tk đuôi 1
+stock_balance,xem tổng số chứng khoán SSI trong tk của tôi
+stock_balance,số chứng khoán SSI còn lại
+stock_balance,xem số chứng khoán SSI còn lại
+stock_balance,tổng số chứng khoán SSI còn lại
+stock_balance,xem tổng số cổ phiếu SSI còn lại
+stock_balance,tổng số cổ phiếu SSI còn dư
+stock_balance,xem tổng số cổ phiếu SSI còn dư
+stock_balance,tài khoản đuôi 1 của tôi còn bao nhiêu chứng khoán SSI
+stock_balance,xem tài khoản đuôi 1 của tôi còn bao nhiêu chứng khoán SSI
+stock_balance,xem tài khoản đuổi 6 của tôi còn bao nhiêu chứng khoán SSI
+stock_balance,xem tài khoản đuôi 1 của tôi có bao nhiêu chứng khoán SSI
+stock_balance,tài khoản đuôi 1 của tôi có bao nhiêu cổ phiếu SSI
+stock_balance,xem tài khoản đuôi 1 của tôi có bao nhiêu cổ phiếu SSI
+stock_balance,tài khoản đuôi 1 của tôi còn bao nhiêu cổ phiếu SSI
+stock_balance,xem tài khoản đuôi 1 của tôi còn bao nhiêu cổ phiếu SSI
+stock_balance,tôi còn nhiều ssi không?
+stock_balance,tôi còn bao nhiêu ssi trong tài khoản nữa nhỉ?
+stock_balance,tôi còn bao nhiêu cổ phiếu ssi?
+stock_balance,tôi còn mấy cổ phiếu ssi?
+stock_balance,xem thông tin cổ phiếu SSI còn dư của tôi
+stock_balance,thông tin số chứng khoán SSI của tôi còn lại
+stock_balance,xem thông tin số chứng khoán SSI còn lại của tôi 
+stock_balance,số chứng khoán SSI còn dư của tôi
+stock_balance,xem số dư chứng khoán SSI của tôi
+stock_balance,xem số chứng khoán SSI còn dư của tôi
+stock_balance,tổng số chứng khoán SSI của tôi
+stock_balance,xem số dư cp SSI của tôi
+stock_balance,xem tổng số chứng khoán SSI tôi nắm giữ
+stock_balance,xem tổng số cổ phiếu acb tôi nắm giữ
+stock_balance,hiển thị số dư chứng khoán SSI của tôi
+stock_balance,số chứng khoán SSI còn lại của tôi
+stock_balance,xem số chứng khoán SSI còn lại của tôi
+stock_balance,tổng số chứng khoán SSI còn lại của tôi
+stock_balance,xem tổng số chứng khoán SSI còn lại của tôi
+stock_balance,tổng số chứng khoán SSI còn dư của tôi
+stock_balance,xem tổng số chứng khoán SSI còn dư của tôi
+stock_balance,xem thông tin số chứng khoán SSI trong tài khoản của tôi
+stock_balance,xem cho tôi thông tin chứng khoán SSI trong tài khoản của tôi
+stock_balance,xem cho tôi thông tin cổ phiếu SSI trong tài khoản của tôi
+stock_balance,xem cho tôi thông tin danh mục cổ phiếu trong tài khoản của tôi
+stock_balance,xem cho tôi thông tin danh mục hiện có trong tài khoản
+stock_balance,xem cho tôi thông tin số dư chứng khoán SS trong tk của tôi
+stock_balance,xem cho tôi thông tin cổ phiếu SSI còn lại trong tk
+stock_balance,xem cho tôi thông tin cổ phiếu SSI còn dư trong tk
+stock_balance,xem cho tôi thông tin số chứng khoán SSI còn lại trong tk
+stock_balance,xem cho tôi số dư chứng khoán SSI
+stock_balance,xem cho tôi số chứng khoán SSI còn dư
+stock_balance,xem cho tôi tổng số chứng khoán SSI trong tài khoản
+stock_balance,xem cho tôi số chứng khoán SSI còn lại
+stock_balance,xem cho tôi tổng số chứng khoán SSI còn dư
+stock_balance,số dư cổ phiếu ssi là bao nhiêu?
+stock_balance,số lượng cổ phiếu ssi trong tài khoản là bao nhiêu?
+stock_balance,danh mục ra sao
+stock_balance,danh mục đầu tư của tôi có bao nhiêu mã SSI
+stock_balance,danh mục đầu tư
+stock_balance,kiểm tra số cổ phiếu SSI trong danh mục
+stock_balance,thông tin danh mục 
+stock_balance,thông tin danh mục đầu tư
+stock_balance,xem thông tin danh mục
+stock_balance,danh mục đầu tư hiện tại
+stock_balance,xem danh mục đầu tư mã cổ phiếu  hiện tại
+stock_balance,danh mục chứng khoán
+stock_balance,xem danh mục chứng khoán
+stock_balance,danh mục chứng khoán của tôi
+stock_balance,xem danh mục chứng khoán của tôi
+stock_balance,danh mục đầu tư hiện có
+stock_balance,xem danh mục đầu tư cổ phiếu hiện có
+stock_balance,xem danh mục đầu tư cổ phiếu
+stock_balance,danh mục đầu tư cổ phiếu của tôi
+stock_balance,xem danh mục đầu tư mã của tôi
+stock_balance,danh mục cổ phiếu
+stock_balance,xem danh mục cổ phiếu
+stock_balance,danh mục cổ phiếu của tôi
+stock_balance,danh mục cổ phiếu hiện có
+stock_balance,xem danh mục cổ phiếu hiện có
+stock_balance,thông tin danh mục của tôi
+stock_balance,xem thông tin danh mục cổ phiếu của tôi
+stock_balance,thông tin danh mục mã chứng khoán của tôi hiện có
+stock_balance,xem thông tin danh mục của tôi hiện có bao nhiêu cổ phiếu SSI
+stock_balance,danh mục đầu tư của tôi hiện nay
+stock_balance,xem danh mục đầu tư của tôi hiện nay
+stock_balance,danh mục đầu tư cổ phiếu của tôi hiện có
+stock_balance,xem danh mục đầu tư cổ phiếu của tôi hiện có
+stock_balance,xem cho tôi danh mục đầu tư hiện nay
+stock_balance,xem cho tôi danh mục chứng khoán
+stock_balance,xem cho tôi danh mục chứng khoán của tôi
+stock_balance,xem cho tôi danh mục đầu tư cổ phiếu hiện có
+stock_balance,xem cho tôi danh mục đầu tư
+stock_balance,xem cho tôi danh mục đầu tư của tôi
+stock_balance,xem cho tôi danh mục cổ phiếu
+stock_balance,xem cho tôi danh mục cổ phiếu của tôi
+stock_balance,xem cho tôi danh mục cổ phiếu hiện có
+stock_balance,tình trạng chứng khoán
+stock_balance,tình trạng danh mục
+stock_balance,số SSI tôi sở hữu
+stock_balance,tôi còn dư bao nhiêu chứng khoán SSI
+stock_balance,tình trạng đầu tư
+stock_balance,tình trạng mã chứng khoán SSI
+stock_balance,tình trạng danh mục mã cổ phiếu
+stock_balance,tình trạng đầu tư cổ phiếu SSI
+stock_balance,tình trạng cổ phiếu SSI còn dư
+stock_balance,xem tình trạng cổ phiếu SSI còn dư
+stock_balance,tình trạng cổ phiếu SSI còn lại
+stock_balance,xem tình trạng cổ phiếu SSI còn lại
+stock_balance,tình trạng cổ phiếu SSI còn dư của tôi
+stock_balance,xem tình trạng cổ phiếu SSI còn dư của tôi 
+stock_balance,tình trạng cổ phiếu SSI còn lại của tôi
+stock_balance,xem tình trạng cổ phiếu SSI còn lại của tôi
+stock_balance,xem tình trạng chứng khoán SSI của tôi
+stock_balance,xem tình trạng danh mục của tôi có bao nhiêu mã SSI
+stock_balance,xem tình trạng đầu tư cổ phiếu SSI của tôi
+stock_balance,xem cho tôi tình trạng cổ phiếu SSI còn dư
+stock_balance,xem cho tôi tình trạng cổ phiếu SSI còn lại
+stock_balance,xem cho tôi tình trạng chứng khoán SSI
+stock_balance,xem cho tôi tình trạng đầu tư mã SSI
+stock_balance,trạng thái chứng khoán
+stock_balance,trạng thái đầu tư
+stock_balance,trạng thái chứng khoán SSI
+stock_balance,trạng thái danh mục
+stock_balance,trạng thái đầu tư cổ phiếu SSI
+stock_balance,xem trạng thái cổ phiếu SSI còn dư
+stock_balance,trạng thái cổ phiếu SSI còn lại
+stock_balance,xem trạng thái cổ phiếu SSI còn lại
+stock_balance,xem trạng thái chứng khoán SSI
+stock_balance,xem trạng thái danh mục
+stock_balance,xem trạng thái đầu tư cổ phiếu SSI
+stock_balance,xem trạng thái chứng khoán SSI của tôi
+stock_balance,xem trạng thái danh mục của tôi
+stock_balance,xem trạng thái đầu tư mã chứng khoán SSI của tôi
+stock_balance,trạng thái cổ phiếu SSI còn dư của tôi
+stock_balance,xem trạng thái cổ phiếu SSI còn dư của tôi
+stock_balance,trạng thái cổ phiếu SSI còn lại của tôi
+stock_balance,xem trạng thái cổ phiếu SSI còn lại của tôi
+stock_balance,trạng thái cổ phiếu SSI còn dư
+stock_balance,xem cho tôi trạng thái cổ phiếu SSI còn dư
+stock_balance,xem cho tôi trạng thái cổ phiếu SSI
+stock_balance,xem cho tôi trạng thái chứng khoán SSI
+stock_balance,xem cho tôi trạng thái đầu tư cổ phiếu SSI
+stock_balance,tài khoản còn nhiều cổ chứ
+stock_balance,tài khoản của tôi còn nhiều cổ chứ
+stock_balance,tôi đang sở hữu bao nhiêu cổ
+stock_balance,tài khoản của tôi đang sở hữu bao nhiêu cổ
+stock_balance,số cổ tôi có trong tài khoản
+stock_balance,có còn nhiều cổ trong tài khoản của tôi chứ
+stock_balance,tôi còn bao nhiêu cổ trong tài khoản
+stock_balance,tôi đang nắm giữ bao nhiêu cổ
+stock_balance,trong tài khoản còn bao nhiêu cổ
+stock_balance,số cổ trong tài khoản
+stock_balance,số cổ trong tài khoản đuôi 1 là bao nhiêu
+stock_balance,số cổ trong tài khoản của tôi là bao nhiêu
+stock_balance,số cổ còn lại trong tài khoản của tôi
+stock_balance,có bao nhiêu cổ trong tài khoản
+stock_balance,số cổ tôi đang nắm giữ
+stock_balance,tôi sở hữu bao nhiêu cổ
+stock_balance,tôi nắm giữ bao nhiêu cổ
+stock_balance,còn bao nhiêu cổ trong tài khoản của tôi
+stock_balance,SSI tôi có
+stock_balance,SSI tôi còn
+stock_balance,SSI trong tài khoản của tôi
+stock_balance,tôi có bao nhiêu SSI
+stock_balance,tôi còn bao nhiêu SSI
+stock_balance,trong tài khoản có bao nhiêu SSI
+stock_balance,trong tài khoản còn bao nhiêu SSI
+stock_balance,tổng số SSI tôi sở hữu
+stock_balance,tôi nắm giữ bao nhiêu SSI
+stock_balance,tôi sở hữu bao nhiêu SSI
+stock_balance,tài khoản đuôi 1 có bao nhiêu SSI
+stock_balance,tài khoản đuôi 1 còn bao nhiêu SSI
+stock_balance,check số cổ phiếu trong tài khoản của tôi
+stock_balance,check số cổ phiếu tôi có
+stock_balance,check số cổ phiếu tôi còn
+stock_balance,check xem tôi có bao nhiêu mã SSI
+stock_balance,check xem tôi có bao nhiêu cổ phiếu SSI
+stock_balance,check xem tôi có bao nhiếu cp SSI
+stock_balance,check xem tôi còn bao nhiêu mã SSI
+stock_balance,check xem tôi còn bao nhiêu cổ phiếu SSI
+stock_balance,check số SSI tôi có
+stock_balance,check số SSI tôi còn
+stock_balance,check SSI trong tài khoản của tôi
+stock_balance,check SSI của tôi
+stock_balance,check mã SSI của tôi
+stock_balance,check mã SSI của tôi trong tài khoản
+stock_balance,check mã SSI tôi có trong tài khoản
+stock_balance,check mã SSI tôi còn
+stock_balance,check tổng số cổ phiếu của tôi
+stock_balance,check tổng số mã chứng khoán tôi có
+stock_balance,check tổng chứng khoán tôi sở hữu
+stock_balance,check tổng mã tôi nắm giữ
+stock_balance,check số SSI tôi sở hữu
+stock_balance,check số SSI tôi nắm giữ
+stock_balance,check tổng số SSI tôi sở hữu
+stock_balance,check tổng số SSI tôi nắm giữ
+stock_balance,check xem số SSI tôi sở hữu trong tài khoản của tôi
+stock_balance,check xem số SSI tôi nắm giữ trong tài khoản
+stock_balance,check xem tài khoản của tôi có bao nhiêu SSI
+stock_balance,check xem tài khoản của tôi còn bao nhiêu SSI
+stock_balance,check xem tài khoản của tôi sở hữu bao nhiêu SSI
+stock_balance,check xem tài khoản của tôi nắm giữ bao nhiêu SSI
+stock_balance,check xem tài khoản của tôi có bao nhiêu mã SSI
+stock_balance,check xem tài khoản của tôi còn bao nhiêu mã SSI
+stock_balance,check xem tài khoản của tôi sở hữu bao nhiêu mã SSI
+stock_balance,check xem tài khoản của tôi nắm giữ bao nhiêu mã SSI
+stock_balance,check xem tài khoản của tôi có bao nhiêu cổ phiếu SSI
+stock_balance,check xem tài khoản của tôi còn bao nhiêu cp SSI
+stock_balance,check xem tài khoản của tôi sở hữu bao nhiêu cp SSI
+stock_balance,check xem tài khoản của tôi nắm giữ bao nhiêu cổ phiếu SSI
+stock_balance,số cp trong tk
+stock_balance,xem số cp ssi trong tk
+stock_balance,xem ssi trong tk
+stock_balance,ssi trong tk là bao nhiêu?

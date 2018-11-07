@@ -1,0 +1,185 @@
+advice,nhận định mã cổ phiếu SSI
+advice,nhận định giá cổ phiếu SSI
+advice,nhận định mã chứng khoán SSI
+advice,nhận định giá mã chứng khoán SSI
+advice,tôi nên mua ssi với giá bao nhiêu
+advice,tôi có nên mua ssi với giá 16.5
+advice,tôi có nên mua 100 cổ phiếu ssi với giá 12.4 không?
+advice,tôi có nên bán 123 cổ phiếu acb với giá 13.5 không?
+advice,đang xem xét xem có nên bán nốt chỗ ssi còn lại không
+advice,đang xem có nên mua ssi không
+advice,đang xem liệu có nên mua ssi không
+advice,đang xem có nên mua 100 cổ phiếu ssi giá 12.4 không
+advice,đang xem liệu có nên mua 100 cổ phiếu ssi giá 12.5 không
+advice,tôi có nên mua 1000 cổ phiếu ssi không
+advice,không biết là có nên mua ssi không nhỉ
+advice,không biết là mua ssi giá 12.3 có hợp lý không
+advice,tôi có nên chi 12 triệu để mua 1000 cp ssi không?
+advice,tôi có nên đầu tư 12 triệu để mua 100 cổ phiếu acb không?
+advice,mua thế nào với mã SSI
+advice,bán thế nào với SSI
+advice,nên bán tất cả SSI chứ
+advice,nên đầu tư SSI lúc này không
+advice,nên giao dịch SSI thời điểm này chứ
+advice,bán SSI giá 12 được không?
+advice,với giá nào thì nên bán SSI
+advice,với giá nào thì bán SSI
+advice,với thị trường này, có nên mua SSI không?
+advice,với thị trường này, có nên mua 300 cổ phiếu SSI giá 12.4 không?
+advice,cho tôi xin ý kiến về thị trường hôm nay
+advice,ý kiến của bạn về thị trường hôm nay
+advice,bạn nghĩ thị trường hôm nay sẽ thế nào
+advice,bạn nghĩ mã SSI hôm nay thế nào
+advice,bạn nghĩ mã SSI hôm nay sẽ tăng hay giảm
+advice,mua 100 cổ phiếu SSI giá 39.5 có nên không
+advice,bán 100 cổ phiếu SSI giá 34.5 có nên không
+advice,liệu có nên mua ssi hôm nay không nhỉ?
+advice,liệu có nên bán ssi hôm nay không?
+advice,bạn nhìn nhận thị trường hôm nay sẽ thế nào?
+advice,có nên mua SSI hôm nay không
+advice,có nên bán SSI không
+advice,bán SSI giá 12.5 liệu có ổn không nhỉ
+advice,có nên mua bán mã SSI không
+advice,mã SSI được không
+advice,mã SSI ok không
+advice,mã ssi liệu có ổn không?
+advice,mã ssi liệu có ok không?
+advice,có nên bán mã SSI
+advice,khuyến nghị về cổ phiếu SSI
+advice,khuyên thế nào về SSI
+advice,nhận định mã SSI
+advice,có đáng để đầu tư cho SSI không
+advice,giờ mua vào SSI ổn chứ
+advice,mua vừa vừa bcp thì hợp lý hơn nhỉ 
+advice, mua nhiều bcp lúc này có phù hợp không?
+advice,SSI có tiềm năng để đầu tư không
+advice,tiềm năng đầu tư của SSI
+advice,mua SSI giá bao nhiêu thì hợp lý
+advice,bán SSI giá bao nhiêu thì hợp lý
+advice,vào mã SSI bây giờ có nên không
+advice,có nên mua vào SSI không
+advice,có nên bán ra SSI không
+advice,có nên mua SSI không
+advice,nên bán hay nắm giữ mã SSI
+advice,nên bán hay giữ cổ phiếu SSI
+advice,bán hay giữ cổ phiếu SSI đây
+advice,nên giữ SSI hay ACB nhỉ?
+advice,nên bán SSI hay bán ACB
+advice,có nên bán SSI hoặc ACB không?
+advice,nên mua hay bán cổ phiếu SSI
+advice,mua hay bán SSI đây
+advice,nên mua vào hay bán ra mã SSI
+advice,đề xuất như nào về cổ phiếu SSI
+advice,khuyến nghị như nào về mã SSI
+advice,bạn đề xuất thế nào về mã SSI
+advice,bạn có đề xuất gì về mã SSI
+advice,xem đề xuất về mã SSI
+advice,xem khuyến nghị mã SSI
+advice,xem nhận định cổ phiếu SSI
+advice,khuyến nghị ra sao về SSI
+advice,đề xuất ra sao về mã SSI
+advice,nhận định mã SSI ra sao
+advice,nên giữ lại hay bán ra cổ phiếu SSI
+advice,nên nắm giữ cổ phiếu SSI lúc này không
+advice,nên lướt sóng mã SSI trong giai đoạn này không
+advice,khuyến nghị cổ phiếu SSI cho giai đoạn này
+advice,giai đoạn này mua bán thế nào mã SSI
+advice,giai đoạn này nên nắm giữ ssi hay acb
+advice,giai đoạn này có nên nắm giữ cổ phiếu SSI
+advice,giai đoạn này nên nắm giữ hay bán ra cổ phiếu SSI
+advice,nên hay không nên mua SSI
+advice,với cổ phiếu SSI nên mua giá bao nhiêu
+advice,với mã chứng khoán SSI nên mua giá bao nhiêu
+advice,với tiền trong tài khoản nên mua lượng cổ phiếu SSI bao nhiêu
+advice,nên bán giá bao nhiêu với cổ phiếu SSI
+advice,nên mua giá bao nhiêu với cổ phiếu SSI
+advice,nên bán giá bao nhiêu với mã chứng khoán SSI
+advice,nên mua giá bao nhiêu với mã chứng khoán SSI
+advice,nên mua SSI theo giá thị trường không
+advice,nên bán SSI theo giá thị trường không
+advice,nên làm gì với cổ phiếu SSI hiện nay
+advice,thị trường lên xuống thất thường nên mua vào hay bán ra cổ phiếu SSI
+advice,bạn nghĩ cổ phiếu SSI hôm nay thế nào?
+advice,ý kiến của bạn về cổ phiếu SSI hôm nay?
+advice,bạn nghĩ thế nào về mã SSI hôm nay?
+advice,rủi ro khi đầu tư vào SSI
+advice,nếu thị trường đang xuống, có đáng để mua vào SSI
+advice,tôi có nên nắm giữ SSI không
+advice,tôi có nên nắm giữ mã SSI không
+advice,tôi có nên nắm giữ cổ phiếu SSI không
+advice,có nhiều rủi ro khi đầu tư vào SSI không
+advice,có rủi ro không khi đầu tư vào SSI không
+advice,rủi ro nào khi đầu tư vào SSI
+advice,đầu tư vào SSI thì rủi ro có cao không
+advice,nếu đầu tư vào SSI thì mức độ rủi ro thế nào
+advice,nếu đầu tư vào SSI thì mức độ rủi ro có cao không
+advice,có đáng để đầu tư SSI lúc này
+advice,với biến động của thị trường, có đáng đầu tư vào SSI
+advice,có đáng để sở hữu SSI lúc này không
+advice,có đáng để nắm giữ SSI không
+advice,có đáng để nắm giữ cổ phiếu SSI không
+advice,có đáng để nắm giữ mã SSI không
+advice,có nên nắm giữ SSI lúc này không
+advice,tôi nên nắm giữ SSI không
+advice,tôi nên nắm giữ mã SSI không
+advice,tôi nên nắm giữ cổ phiếu SSI không
+advice,nên nắm giữ cp SSI chứ
+advice,có nên nắm giữ mã SSI lúc này
+advice,có nên nắm giữ cổ phiếu SSI lúc này
+advice,nên múc SSI lúc này không
+advice,có nên múc SSI vào lúc này không
+advice,có nên múc SSI giá 10 không
+advice,tôi nên múc mã SSI giá 10 không
+advice,nên múc cổ phiếu SSI lúc này chứ
+advice,nên múc SSI
+advice,nên nắm giữ SSI không
+advice,nên sở hữu SSI không
+advice,nên mua vào SSI không
+advice,nên bán SSI vào thời điểm này không
+advice,tôi có nên năm giữ SSI
+advice,tôi có nên mua vào SSI
+advice,tôi có nên giữ lại SSI
+advice,nên mua bán SSI lúc này không
+advice,với tình hình thị trường như này nên làm gì với SSI
+advice,nên mua hay bán SSI như nào
+advice,có đáng để mua SSI không
+advice,có đáng để mua bán SSI không
+advice,SSI có khả năng sinh lời không
+advice,tiềm năng của SSI
+advice,SSI có tiềm năng để mua bán không
+advice,SSI có tiềm năng để sở hữu không
+advice,SSI có tiềm năng để giao dịch không
+advice,nên hay không sở hữu SSI
+advice,có đáng để đầu tư vào SSI
+advice,đầu tư SSI vào lúc này có đáng không
+advice,đầu tư SSI có tiềm năng không
+advice,đầu tư SSI có khả năng sinh lời không
+advice,đầu tư SSI có khả năng sinh lời chứ
+advice,đáng để đầu tư vào SSI không nhỉ
+advice,có đáng để đầu tư vào SSI không
+advice,xin khuyến nghị về mã ssi với
+advice,xin khuyến nghị về thị trường hôm nay với 
+advice,xin khuyến nghị thị trường 
+advice,xin khuyến nghị thị trường hôm nay 
+advice,xin nhận định về thị trường hôm nay với 
+advice,xin nhận định về mã ssi 
+advice,xin ý kiến về thị trường 
+advice,bạn nghĩ thế nào về thị trường hôm nay
+advice,lời khuyên về ssi
+advice,cho lời khuyên đê
+advice,cho lời khuyên về thị trường
+advice,khuyến nghị về ssi
+advice,khuyến nghị ssi
+advice,khuyến nghị mã ssi
+advice,khuyến nghị cổ phiếu ssi
+advice,cho khuyến nghị ssi
+advice,cho khuyến nghị về ssi
+advice,cho khuyến nghị mã ssi
+advice,cho khuyến nghị cổ phiếu ssi
+advice,nên thế nào với ssi
+advice,khuyến nghị về thị trường
+advice,lời khuyên về thị trường
+advice,với 1000000 thì nên đầu từ gì nhỉ?
+advice,với 20000 có nên đầu tư vào ssi không?
+advice,với 20000000 thì ssi có phải là lựa chọn tốt không?
+advice,có 200 thì nên mua cái gì nhỉ?

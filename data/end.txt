@@ -1,0 +1,56 @@
+end,kết thúc chương trình
+end,kết thúc app
+end,kết thúc đi
+end,chấm dứt ngayce
+end,chấm dứt đi
+end,chấm dứt chương trình ngay
+end,chấm dứt app
+end,trở lại sau
+end,trở lại sau nhé
+end,đi đây
+end,chào
+end,thế nhé
+end,tắt app
+end,tắt app nhé
+end,tắt ứng dụng
+end,tắt chương trình
+end,tạm biệt nhé
+end,chào tạm biệt nhé
+end,đi nhé
+end,dừng chương trình
+end,dừng app
+end,dừng ứng dụng
+end,thoát
+end,tạm biệt
+end,bye bye
+end,gặp lại sau
+end,gặp lại sau nhé
+end,mai nói chuyện sau
+end,mai nói chuyện sau nhé
+end,mai gặp lại
+end,mai gặp lại nhé
+end,hẹn lúc khác nhé
+end,hẹn gặp sau nhé
+end,chào tạm biệt
+end,thoát chương trình
+end,thoát app
+end,thoát khỏi chương trình
+end,bye
+end,đóng
+end,đóng app
+end,đóng chương trình
+end,quay lại sau
+end,tắt
+end,tắt app điện
+end,chào nhé
+end,dừng chương trình ngay đi nhé
+end,ngưng chương trình nhé
+end,tắt phần mềm ngay
+end,dừng phần mềm đi
+end,chấm dứt phần mềm
+end,kết thúc phần mềm đi
+end,kết thúc phần mềm cho tôi
+end,ngừng sử dụng chương trình 
+end,ngừng chương trình 
+end,ngừng phần mềm 
+end,ngừng sử dụng phần mềm

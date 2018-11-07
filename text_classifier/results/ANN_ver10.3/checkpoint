@@ -1,0 +1,2 @@
+model_checkpoint_path: "ws--embed-50batch_size_cl8"
+all_model_checkpoint_paths: "ws--embed-50batch_size_cl8"

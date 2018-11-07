@@ -17,8 +17,8 @@ def read_trained_data(file_trained_data):
 
 input_size = 32
 embedding_dim = 50
-version_wc = 6
-version_classifier = 6
+version_wc = 10
+version_classifier = 4
 name_class = 'ANN_ver' + str(version_wc) + '.' + str(version_classifier)
 wv_file = "/home/fdm-thang/robochat/nlu_gensim/word_vector/word2vec_ver" + str(version_wc) + ".model"
 # fname = get_tmpfile("word2vec_ver9.model")
@@ -86,8 +86,10 @@ def test(sentence):
             data_x_raw.append(padding)
         data_x_original = [data_x_raw]
         data_x_original = np.asarray(data_x_original)
+        data_x_original = np.average(data_x_original,axis = 1)
+        print (data_x_original.shape)
         # print (data_x_original.shape)
-        data_x_original = np.reshape(data_x_original,(data_x_original.shape[0],data_x_original.shape[1]*data_x_original.shape[2]))
+        # data_x_original = np.reshape(data_x_original,(data_x_original.shape[0],data_x_original.shape[1]*data_x_original.shape[2]))
         # print (data_x_original.shape)
         # lol
         tf.reset_default_graph()
@@ -144,11 +146,11 @@ def test(sentence):
 # bán SSI lỗ quá, dừng ứng dụng cho tôi
 # hôm qua vừa mua 100 cổ phiếu ssi, xem lệnh mua ssi của tôi đã được khớp chưa
 # sentence = "có nên sở hữu ssi lúc này không khi thi trường đang con gấu"
-# file = open('err_data.txt','w', encoding="utf8")
+file = open('err_data.txt','w', encoding="utf8")
 file1 = open('new_data.txt','w', encoding="utf8")
 
     
-with open('/home/fdm-thang/robochat/nlu_gensim/data/text_classifier_ver10.txt') as input:
+with open('/home/fdm-thang/robochat/nlu_gensim/data/stock_balance.txt') as input:
     
     labels = []   
     contents = []
@@ -160,7 +162,7 @@ with open('/home/fdm-thang/robochat/nlu_gensim/data/text_classifier_ver10.txt') 
 # print (len(contents))
 
 all_sentences_words = []
-arr = []
+# arr = []
 # for i,content in enumerate(contents):
 #     print (i)
 #     all_words = finTokenizer(content)
@@ -183,11 +185,12 @@ arr = []
 #         arr.append([pred_index+1,i+1,content])
 #         # print (pred_index+1,i+1,content)
 #         err = str(pred_index+1) +'\t' + str(i+1) +'\t' + str(content) + '\n'
-        # file.write(err) 
+#         file.write(err) 
 # for i in range(len(arr)):
 #     print (arr[i])
 correct = 0 
 for i,content in enumerate(contents):
+    print (i)
     label_predict = test(content)
     if (label_predict == labels[i]):
         # print (content,'---',labels[i])
@@ -200,5 +203,5 @@ for i,content in enumerate(contents):
         # print (correct, i)
 print (correct)
 
-label_predict = test("hủy toàn bộ lệnh của tôi")
-print (label_predict)
+# label_predict = test("quay trở về chức năng chính")
+# print (label_predict)

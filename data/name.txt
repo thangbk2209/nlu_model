@@ -1,0 +1,38 @@
+name,cho mình xin tên với 
+name,cho xin tên bạn với 
+name,cho xin tên bạn
+name,tên là gì
+name,gọi thế nào
+name,xưng hô ra sao
+name,gọi là gì
+name,gọi em ra sao
+name,là người hay là máy
+name,cậu là gì?
+name,cậu là ai?
+name,là gì?
+name,tên cậu là gì?
+name,gọi cậu là gì?
+name,tên thế nào?
+name,tên?
+name,cậu tên là gì?
+name,tên mày là gì?
+name,cậu là cái gì?
+name,bạn là cái gì?
+name,tên gì?
+name,cậu là gì thế?
+name,chương trình này là gì?
+name,tên trương trình
+name,giới thiệu chương trình
+name,đây là gì thế?
+name,đây là gì?
+name,cái này là gì?
+name,cái này làm gì ý nhỉ?
+name,cái này tên gì vậy?
+name,chương chình gì đây?
+name,tên cái này là chi vậy?
+name,chính xác bạn là gì vậy?
+name,phần mềm này là gì thế?
+name,tên phần mềm?
+name,tôi gọi bạn là gì đây?
+name,tôi có thể gọi bạn là gì?
+name,bạn là ai?

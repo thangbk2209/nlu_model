@@ -1,0 +1,371 @@
+cancel,huỷ
+cancel,hủy giúp tôi với
+cancel,bỏ qua
+cancel,bỏ đi
+cancel,về lại chức năng chính
+cancel,hiển thị chức năng hệ thống
+cancel,danh sách chức năng hệ thống
+cancel,quay lại chức năng chính
+cancel,quay về chức năng chính
+cancel,không đặt nữa
+cancel,không làm nữa
+cancel,hủy bỏ
+cancel,loại bỏ
+cancel,tạm dừng giao dịch
+cancel,tạm dừng lệnh giao dịch
+cancel,tạm dừng
+cancel,tạm dừng lệnh mua
+cancel,tạm dừng lệnh bán
+cancel,bỏ lệnh
+cancel,bỏ qua lệnh
+cancel,dừng chức năng này đi
+cancel,dừng khớp lệnh đi
+cancel,loại bỏ lệnh
+cancel,ngưng lại
+cancel,ngừng lại
+cancel,về trang chủ
+cancel,trở về trang chủ
+cancel,quay lại trang chủ
+cancel,quay về trang chủ
+cancel,trở lại trang chủ
+cancel,tới trang chủ
+cancel,trở về
+cancel,trở lại
+cancel,dừng đặt lệnh
+cancel,bỏ đặt lệnh
+cancel,dừng làm
+cancel,đừng làm
+cancel,quay trở lại
+cancel,quay trở lại trang chủ
+cancel,quay trở lại tính năng trước
+cancel,không khớp lệnh
+cancel,bỏ khớp lệnh
+cancel,hủy khớp lệnh
+cancel,về chức năng chính
+cancel,về chức năng hệ thống
+cancel,tới chức năng chính
+cancel,tới chức năng hệ thống
+cancel,đến chức năng chính
+cancel,đến chức năng hệ thống
+cancel,dừng lại đi
+cancel,dừng ngay đi
+cancel,bỏ qua lệnh vừa đặt
+cancel,bỏ qua lệnh bán vừa đặt đi
+cancel,bỏ qua lệnh mua vừa đặt đi
+cancel,ngừng lệnh đặt mua đi
+cancel,ngừng lệnh đặt bán đi
+cancel,ngưng lệnh đặt mua đi
+cancel,ngưng lệnh đặt bán đi
+cancel,hủy đặt lệnh mua
+cancel,hủy đặt lệnh bán
+cancel,ngừng lệnh mua vừa đặt
+cancel,ngừng lệnh bán vừa đặt
+cancel,bỏ đặt lệnh bán tôi mới đặt đi
+cancel,bỏ đặt lệnh mua tôi mới đặt đi
+cancel,về lại ngay
+cancel,tôi muốn ngừng khớp lệnh
+cancel,tôi muốn dừng khớp lệnh mua tôi mới đặt
+cancel,tôi muốn dừng khớp lệnh bán tôi mới đặt
+cancel,tôi muốn ngừng khớp lệnh mua tôi mới đặt
+cancel,tôi muốn ngừng khớp lệnh bán tôi mới đặt
+cancel,hủy đặt lệnh
+cancel,dừng khớp lệnh mua ssi
+cancel,hủy khớp lệnh mua ssi
+cancel,hủy bỏ khớp lệnh mua ssi
+cancel,hủy bỏ lệnh mua ssi giá 12.6
+cancel,hủy bỏ lệnh mua 100 ssi của tôi
+cancel,hủy bỏ lệnh mua 100 ssi của tôi hôm qua
+cancel,hủy lệnh đặt mua 100 ssi cho tôi 
+cancel,Tôi nhập nhầm lệnh nên hủy khớp lệnh tôi vừa đặt
+cancel,lệnh tôi đặt sai mức giá, hủy khớp lệnh tôi vừa đặt
+cancel,Tôi không muốn mua SSI nữa nên hủy lệnh mua SSI mà tôi vừa đặt
+cancel,dừng lệnh mua ssi lại vì tôi suy nghĩ nên mua mã abc tốt hơn
+cancel,viết sai chính tả nên hủy lệnh vừa mới đặt cho tôi
+cancel,hủy lệnh tôi mới đặt nhé
+cancel,ngừng lệnh mua
+cancel,ngừng lệnh bán cho tôi
+cancel,hủy bỏ lệnh mua đi
+cancel,hủy bỏ lệnh bán cho tôi
+cancel,hủy lênh tôi mới đặt
+cancel,hủy lệnh tôi vừa đặt 5 phút trước
+cancel,hủy cái lệnh mà tôi mới đặt
+cancel,hủy cái lệnh mà tôi vừa đặt
+cancel,hủy cái lệnh mà tôi vừa mới đặt 5 phút trước
+cancel,hủy lệnh tôi vừa đặt ý
+cancel,hủy lệnh đặt mua 1000 ssi
+cancel,hủy lệnh đặt bán 1000 ssi
+cancel,hủy cái lệnh đặt mua ssi giá 10
+cancel,hủy cái lệnh mua 1000 ssi giá 10 
+cancel,hủy cái lệnh bán 1000 ssi giá 10 
+cancel,hủy lệnh múc ssi 
+cancel,hủy lệnh xúc ssi 
+cancel,hủy lệnh bán tháo hàng 
+cancel,hủy lệnh bán tháo ssi của tôi
+cancel,cho tôi hủy lệnh đặt mua ssi vừa mới đặt
+cancel,cho tôi hủy lệnh đặt bán ssi vừa mới đặt
+cancel,cho tôi hủy cái lệnh đặt mua ssi
+cancel,cho tôi hủy cái lênh đặt bán ssi
+cancel,hủy đặt lệnh mua 1000 ssi
+cancel,hủy đặt lệnh bán 1000 ssi
+cancel,hủy đặt lệnh mua 1000 ssi giá 10
+cancel,hủy đặt lệnh bán 1000 ssi giá 10
+cancel,hủy đặt lệnh mua ssi giá 10
+cancel,hủy đặt lệnh bán ssi giá 10
+cancel,hủy lệnh đầu tư ssi đi
+cancel,hủy lệnh giao dịch tôi mới đặt đi
+cancel,hủy lệnh giao dịch mua ssi 
+cancel,hủy lệnh giao dịch bán ssi 
+cancel,hủy lệnh múc ssi giá 10
+cancel,hủy lệnh múc 1000 ssi 
+cancel,hủy lệnh múc 1000 ssi giá 10
+cancel,hủy lệnh xúc ssi giá 10
+cancel,hủy lệnh xúc 1000 ssi
+cancel,hủy lệnh xúc 1000 ssi giá 10
+cancel,hủy lệnh gom ssi
+cancel,hủy lệnh gom 1000 ssi
+cancel,hủy lệnh gom ssi giá 10
+cancel,hủy lệnh gom 1000 ssi giá 10
+cancel,hủy lệnh vừa mới đặt đi cái
+cancel,bỏ lênh tôi mới đặt
+cancel,bỏ lệnh tôi vừa đặt
+cancel,bỏ lệnh tôi đã đặt
+cancel,bỏ lệnh tôi vừa đặt 5 phút trước
+cancel,bỏ cái lệnh mà tôi mới đặt
+cancel,bỏ cái lệnh mà tôi vừa đặt
+cancel,bỏ cái lệnh mà tôi vừa mới đặt 5 phút trước
+cancel,bỏ lệnh tôi vừa đặt ý
+cancel,bỏ lệnh đặt mua 1000 ssi
+cancel,bỏ lệnh đặt bán 1000 ssi
+cancel,bỏ cái lệnh đặt mua ssi giá 10
+cancel,bỏ cái lệnh mua 1000 ssi giá 10 
+cancel,bỏ cái lệnh bán 1000 ssi giá 10 
+cancel,bỏ lệnh múc ssi 
+cancel,bỏ lệnh xúc ssi 
+cancel,bỏ lệnh bán tháo hàng 
+cancel,bỏ lệnh bán tháo ssi của tôi
+cancel,cho tôi bỏ lệnh đặt mua ssi vừa mới đặt
+cancel,cho tôi bỏ lệnh đặt bán ssi vừa mới đặt
+cancel,cho tôi bỏ cái lệnh đặt mua ssi
+cancel,cho tôi bỏ cái lênh đặt bán ssi
+cancel,bỏ đặt lệnh mua 1000 ssi
+cancel,bỏ đặt lệnh bán 1000 ssi
+cancel,bỏ đặt lệnh mua 1000 ssi giá 10
+cancel,bỏ đặt lệnh bán 1000 ssi giá 10
+cancel,bỏ đặt lệnh mua ssi giá 10
+cancel,bỏ đặt lệnh bán ssi giá 10
+cancel,bỏ lệnh đầu tư ssi đi
+cancel,bỏ lệnh giao dịch tôi mới đặt đi
+cancel,bỏ lệnh giao dịch mua ssi 
+cancel,bỏ lệnh giao dịch bán ssi 
+cancel,bỏ lệnh múc ssi giá 10
+cancel,bỏ lệnh múc 1000 ssi 
+cancel,bỏ lệnh múc 1000 ssi giá 10
+cancel,bỏ lệnh xúc ssi giá 10
+cancel,bỏ lệnh xúc 1000 ssi
+cancel,bỏ lệnh xúc 1000 ssi giá 10
+cancel,bỏ lệnh gom ssi
+cancel,bỏ lệnh gom 1000 ssi
+cancel,bỏ lệnh gom ssi giá 10
+cancel,bỏ lệnh gom 1000 ssi giá 10
+cancel,bỏ lệnh vừa mới đặt đi cái
+cancel,hủy bỏ lênh tôi mới đặt
+cancel,hủy bỏ lệnh tôi vừa đặt 5 phút trước
+cancel,hủy bỏ cái lệnh mà tôi mới đặt
+cancel,hủy bỏ cái lệnh mà tôi vừa đặt
+cancel,hủy bỏ cái lệnh mà tôi vừa mới đặt 5 phút trước
+cancel,hủy bỏ lệnh tôi vừa đặt ý
+cancel,hủy bỏ lệnh đặt mua 1000 ssi
+cancel,hủy bỏ lệnh đặt bán 1000 ssi
+cancel,hủy bỏ cái lệnh đặt mua ssi giá 10
+cancel,hủy bỏ cái lệnh mua 1000 ssi giá 10 
+cancel,hủy bỏ cái lệnh bán 1000 ssi giá 10 
+cancel,hủy bỏ lệnh múc ssi 
+cancel,hủy bỏ lệnh xúc ssi 
+cancel,hủy bỏ lệnh bán tháo hàng 
+cancel,hủy bỏ lệnh bán tháo ssi của tôi
+cancel,cho tôi hủy bỏ lệnh đặt mua ssi vừa mới đặt
+cancel,cho tôi hủy bỏ lệnh đặt bán ssi vừa mới đặt
+cancel,cho tôi hủy bỏ cái lệnh đặt mua ssi
+cancel,cho tôi hủy bỏ cái lênh đặt bán ssi
+cancel,hủy bỏ đặt lệnh mua 1000 ssi
+cancel,hủy bỏ đặt lệnh bán 1000 ssi
+cancel,hủy bỏ đặt lệnh mua 1000 ssi giá 10
+cancel,hủy bỏ đặt lệnh bán 1000 ssi giá 10
+cancel,hủy bỏ đặt lệnh mua ssi giá 10
+cancel,hủy bỏ đặt lệnh bán ssi giá 10
+cancel,hủy bỏ lệnh đầu tư ssi đi
+cancel,hủy bỏ lệnh giao dịch tôi mới đặt đi
+cancel,hủy bỏ lệnh giao dịch mua ssi 
+cancel,hủy bỏ lệnh giao dịch bán ssi 
+cancel,hủy bỏ lệnh múc ssi giá 10
+cancel,hủy bỏ lệnh múc 1000 ssi 
+cancel,hủy bỏ lệnh múc 1000 ssi giá 10
+cancel,hủy bỏ lệnh xúc ssi giá 10
+cancel,hủy bỏ lệnh xúc 1000 ssi
+cancel,hủy bỏ lệnh xúc 1000 ssi giá 10
+cancel,hủy bỏ lệnh gom ssi
+cancel,hủy bỏ lệnh gom 1000 ssi
+cancel,hủy bỏ lệnh gom ssi giá 10
+cancel,hủy bỏ lệnh gom 1000 ssi giá 10
+cancel,hủy bỏ lệnh vừa mới đặt đi cái
+cancel,ngừng lênh tôi mới đặt
+cancel,ngừng lệnh tôi vừa đặt 5 phút trước
+cancel,ngừng cái lệnh mà tôi mới đặt
+cancel,ngừng cái lệnh mà tôi vừa đặt
+cancel,ngừng cái lệnh mà tôi vừa mới đặt 5 phút trước
+cancel,ngừng lệnh tôi vừa đặt ý
+cancel,ngừng lệnh đặt mua 1000 ssi
+cancel,ngừng lệnh đặt bán 1000 ssi
+cancel,ngừng cái lệnh đặt mua ssi giá 10
+cancel,ngừng cái lệnh mua 1000 ssi giá 10 
+cancel,ngừng cái lệnh bán 1000 ssi giá 10 
+cancel,ngừng lệnh múc ssi 
+cancel,ngừng lệnh xúc ssi 
+cancel,ngừng lệnh bán tháo hàng 
+cancel,ngừng lệnh bán tháo ssi của tôi
+cancel,cho tôi ngừng lệnh đặt mua ssi vừa mới đặt
+cancel,cho tôi ngừng lệnh đặt bán ssi vừa mới đặt
+cancel,cho tôi ngừng cái lệnh đặt mua ssi
+cancel,cho tôi ngừng cái lênh đặt bán ssi
+cancel,ngừng đặt lệnh mua 1000 ssi
+cancel,ngừng đặt lệnh bán 1000 ssi
+cancel,ngừng đặt lệnh mua 1000 ssi giá 10
+cancel,ngừng đặt lệnh bán 1000 ssi giá 10
+cancel,ngừng đặt lệnh mua ssi giá 10
+cancel,ngừng đặt lệnh bán ssi giá 10
+cancel,ngừng lệnh đầu tư ssi đi
+cancel,ngừng lệnh giao dịch tôi mới đặt đi
+cancel,ngừng lệnh giao dịch mua ssi 
+cancel,ngừng lệnh giao dịch bán ssi 
+cancel,ngừng lệnh múc ssi giá 10
+cancel,ngừng lệnh múc 1000 ssi 
+cancel,ngừng lệnh múc 1000 ssi giá 10
+cancel,ngừng lệnh xúc ssi giá 10
+cancel,ngừng lệnh xúc 1000 ssi
+cancel,ngừng lệnh xúc 1000 ssi giá 10
+cancel,ngừng lệnh gom ssi
+cancel,ngừng lệnh gom 1000 ssi
+cancel,ngừng lệnh gom ssi giá 10
+cancel,ngừng lệnh gom 1000 ssi giá 10
+cancel,ngừng lệnh vừa mới đặt đi cái
+cancel,dừng lênh tôi mới đặt
+cancel,dừng lệnh tôi vừa đặt 5 phút trước
+cancel,dừng cái lệnh mà tôi mới đặt
+cancel,dừng cái lệnh mà tôi vừa đặt
+cancel,dừng cái lệnh mà tôi vừa mới đặt 5 phút trước
+cancel,dừng lệnh tôi vừa đặt ý
+cancel,dừng lệnh đặt mua 1000 ssi
+cancel,dừng lệnh đặt bán 1000 ssi
+cancel,dừng cái lệnh đặt mua ssi giá 10
+cancel,dừng cái lệnh mua 1000 ssi giá 10 
+cancel,dừng cái lệnh bán 1000 ssi giá 10 
+cancel,dừng lệnh múc ssi 
+cancel,dừng lệnh xúc ssi 
+cancel,dừng lệnh bán tháo hàng 
+cancel,dừng lệnh bán tháo ssi của tôi
+cancel,cho tôi dừng lệnh đặt mua ssi vừa mới đặt
+cancel,cho tôi dừng lệnh đặt bán ssi vừa mới đặt
+cancel,cho tôi dừng cái lệnh đặt mua ssi
+cancel,cho tôi dừng cái lênh đặt bán ssi
+cancel,dừng đặt lệnh mua 1000 ssi
+cancel,dừng đặt lệnh bán 1000 ssi
+cancel,dừng đặt lệnh mua 1000 ssi giá 10
+cancel,dừng đặt lệnh bán 1000 ssi giá 10
+cancel,dừng đặt lệnh mua ssi giá 10
+cancel,dừng đặt lệnh bán ssi giá 10
+cancel,dừng lệnh đầu tư ssi đi
+cancel,dừng lệnh giao dịch tôi mới đặt đi
+cancel,dừng lệnh giao dịch mua ssi 
+cancel,dừng lệnh giao dịch bán ssi 
+cancel,dừng lệnh múc ssi giá 10
+cancel,dừng lệnh múc 1000 ssi 
+cancel,dừng lệnh múc 1000 ssi giá 10
+cancel,dừng lệnh xúc ssi giá 10
+cancel,dừng lệnh xúc 1000 ssi
+cancel,dừng lệnh xúc 1000 ssi giá 10
+cancel,dừng lệnh gom ssi
+cancel,dừng lệnh gom 1000 ssi
+cancel,dừng lệnh gom ssi giá 10
+cancel,dừng lệnh gom 1000 ssi giá 10
+cancel,dừng lệnh vừa mới đặt đi cái
+cancel,ngưng lênh tôi mới đặt
+cancel,ngưng lệnh tôi vừa đặt 5 phút trước
+cancel,ngưng cái lệnh mà tôi mới đặt
+cancel,ngưng cái lệnh mà tôi vừa đặt
+cancel,ngưng cái lệnh mà tôi vừa mới đặt 5 phút trước
+cancel,ngưng lệnh tôi vừa đặt ý
+cancel,ngưng lệnh đặt mua 1000 ssi
+cancel,ngưng lệnh đặt bán 1000 ssi
+cancel,ngưng cái lệnh đặt mua ssi giá 10
+cancel,ngưng cái lệnh mua 1000 ssi giá 10 
+cancel,ngưng cái lệnh bán 1000 ssi giá 10 
+cancel,ngưng lệnh múc ssi 
+cancel,ngưng lệnh xúc ssi 
+cancel,ngưng lệnh bán tháo hàng 
+cancel,ngưng lệnh bán tháo ssi của tôi
+cancel,cho tôi ngưng lệnh đặt mua ssi vừa mới đặt
+cancel,cho tôi ngưng lệnh đặt bán ssi vừa mới đặt
+cancel,cho tôi ngưng cái lệnh đặt mua ssi
+cancel,cho tôi ngưng cái lênh đặt bán ssi
+cancel,ngưng đặt lệnh mua 1000 ssi
+cancel,ngưng đặt lệnh bán 1000 ssi
+cancel,ngưng đặt lệnh mua 1000 ssi giá 10
+cancel,ngưng đặt lệnh bán 1000 ssi giá 10
+cancel,ngưng đặt lệnh mua ssi giá 10
+cancel,ngưng đặt lệnh bán ssi giá 10
+cancel,ngưng lệnh đầu tư ssi đi
+cancel,ngưng lệnh giao dịch tôi mới đặt đi
+cancel,ngưng lệnh giao dịch mua ssi 
+cancel,ngưng lệnh giao dịch bán ssi 
+cancel,ngưng lệnh múc ssi giá 10
+cancel,ngưng lệnh múc 1000 ssi 
+cancel,ngưng lệnh múc 1000 ssi giá 10
+cancel,ngưng lệnh xúc ssi giá 10
+cancel,ngưng lệnh xúc 1000 ssi
+cancel,ngưng lệnh xúc 1000 ssi giá 10
+cancel,ngưng lệnh gom ssi
+cancel,ngưng lệnh gom 1000 ssi
+cancel,ngưng lệnh gom ssi giá 10
+cancel,ngưng lệnh gom 1000 ssi giá 10
+cancel,ngưng lệnh vừa mới đặt đi cái
+cancel,tạm dừng lênh tôi mới đặt
+cancel,tạm dừng lệnh tôi vừa đặt 5 phút trước
+cancel,tạm dừng cái lệnh mà tôi mới đặt
+cancel,tạm dừng cái lệnh mà tôi vừa đặt
+cancel,tạm dừng cái lệnh mà tôi vừa mới đặt 5 phút trước
+cancel,tạm dừng lệnh tôi vừa đặt ý
+cancel,tạm dừng lệnh đặt mua 1000 ssi
+cancel,tạm dừng lệnh đặt bán 1000 ssi
+cancel,tạm dừng cái lệnh đặt mua ssi giá 10
+cancel,tạm dừng cái lệnh đặt bán ssi giá 10
+cancel,tạm dừng cái lệnh mua 1000 ssi giá 10 
+cancel,tạm dừng cái lệnh bán 1000 ssi giá 10 
+cancel,tạm dừng lệnh múc ssi 
+cancel,tạm dừng lệnh xúc ssi 
+cancel,tạm dừng lệnh bán tháo hàng 
+cancel,tạm dừng lệnh bán tháo ssi của tôi
+cancel,cho tôi tạm dừng lệnh đặt mua ssi vừa mới đặt
+cancel,cho tôi tạm dừng lệnh đặt bán ssi vừa mới đặt
+cancel,cho tôi tạm dừng cái lệnh đặt mua ssi
+cancel,cho tôi tạm dừng cái lênh đặt bán ssi
+cancel,tạm dừng đặt lệnh mua 1000 ssi
+cancel,tạm dừng đặt lệnh bán 1000 ssi
+cancel,tạm dừng đặt lệnh mua 1000 ssi giá 10
+cancel,tạm dừng đặt lệnh bán 1000 ssi giá 10
+cancel,tạm dừng đặt lệnh mua ssi giá 10
+cancel,tạm dừng đặt lệnh bán ssi giá 10
+cancel,tạm dừng lệnh đầu tư ssi đi
+cancel,tạm dừng lệnh giao dịch tôi mới đặt đi
+cancel,tạm dừng lệnh giao dịch mua ssi 
+cancel,tạm dừng lệnh giao dịch bán ssi 
+cancel,tạm dừng lệnh múc ssi giá 10
+cancel,tạm dừng lệnh múc 1000 ssi 
+cancel,tạm dừng lệnh múc 1000 ssi giá 10
+cancel,tạm dừng lệnh xúc ssi giá 10
+cancel,tạm dừng lệnh xúc 1000 ssi
+cancel,tạm dừng lệnh xúc 1000 ssi giá 10
+cancel,tạm dừng lệnh gom ssi
+cancel,tạm dừng lệnh gom 1000 ssi
+cancel,tạm dừng lệnh gom ssi giá 10
+cancel,tạm dừng lệnh gom 1000 ssi giá 10
+cancel,tạm dừng lệnh vừa mới đặt đi cái 

@@ -1,0 +1,52 @@
+ratio_status,trạng thái tài khoản
+ratio_status,trạng thái tài khoản của tôi
+ratio_status,trạng thái tài khoản như nào?
+ratio_status,trạng thái tài khoản hiện như nào nhỉ?
+ratio_status,tôi muốn xem trạng thái tài khoản
+ratio_status,trạng thái tài khoản đang như nào?
+ratio_status,cho tôi xem trạng thái tài khoản
+ratio_status,tài khoản của tôi đang có trạng thái như nào
+ratio_status,trạng thái của tài khoản
+ratio_status,trạng thái tài khoản đang như thế nào?
+ratio_status,trạng thái tk đang thế nào nhỉ?
+ratio_status,tình trạng tk của tôi đang như thế nào?
+ratio_status,tài khoản của tôi đang có tình trạng như thế nào vậy?
+ratio_status,tình trạng tk của tôi đang ở ngưỡng nào?
+ratio_status,tình trạng tài khoản của tôi đang trong ngưỡng nào?
+ratio_status,cho tôi xem tk của tôi đang trong tình trạng nào?
+ratio_status,cho tôi xem tài khoản của tôi đang trong trạng thái nào?
+ratio_status,tình trạng của tk của tôi có báo động không?
+ratio_status,tình trạng tk có trong ngưỡng báo động không?
+ratio_status,tk đang ngưỡng báo động?
+ratio_status,xem xem tk có đang bị báo động
+ratio_status,xem xem tài khoản có đang bị báo động không?
+ratio_status,tài khoản của tôi có đủ an toàn?
+ratio_status,tk của tôi có đủ an toàn không?
+ratio_status,tỷ lệ tài khoản
+ratio_status,trạng thái tk đang như thế nào?
+ratio_status,tỷ lệ tài khoản đang như thế nào nhỉ?
+ratio_status,cho tôi xem trạng thái của tài khoản của tôi
+ratio_status,tỷ lệ tài khoản của tôi
+ratio_status,cho tôi xem tỷ lệ tk
+ratio_status,xem tỷ lệ tk của tôi
+ratio_status,tài khoản đang có trạng thái thế nào
+ratio_status,trạng thái của tk bây giờ
+ratio_status,tài khoản tỷ lệ ra sao
+ratio_status,tỷ lệ tài khoản thế nào nhỉ
+ratio_status,xem tỷ lệ tài khoản
+ratio_status,tỷ lệ của tài khoản như nào nhỉ?
+ratio_status,tỷ lệ margin
+ratio_status,tỷ lệ margin như thế nào
+ratio_status,tài khoản của tôi đang trong trạng thái an toàn chứ
+ratio_status,tài khoản của tôi có đang bị báo động
+ratio_status,tài khoản của tôi an toàn chứ
+ratio_status,tài khoản của tôi vẫn trong trạng thái an toàn?
+ratio_status,tài khoản của tôi có đang ngưỡng báo động?
+ratio_status,tình trạng tk của tôi có đáng báo động không?
+ratio_status,margin tk?
+ratio_status,xem tỷ lệ margin hiện tại của tôi
+ratio_status,tài khoản của tôi có margin như nào nhỉ?
+ratio_status,xem tài khoản của tôi có tình trạng báo động không?
+ratio_status,tỷ lệ margin đang thế nào
+ratio_status,tỷ lệ tài khoản của tôi là bao nhiêu
+ratio_status,trạng thái tk có ổn định không?

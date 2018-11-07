@@ -1,0 +1,122 @@
+order_status,lệnh mua mới nhất đã được khớp chưa 
+order_status,lệnh mua mới nhất đã được thực thi chưa 
+order_status,lệnh có đang được thực thi không?
+order_status,lệnh mua có được thực thi không?
+order_status,có lệnh nào của tôi không được khớp không?
+order_status,lệnh mua của tôi có hợp lệ không?
+order_status,đã khớp lệnh mã SSI chưa
+order_status,trạng thái lệnh cổ phiếu SSI
+order_status,tình trạng chờ xử lý giao dịch của tôi
+order_status,tình trạng giao dịch của tôi thế nào
+order_status,lệnh về mã SSI của tôi khớp chưa
+order_status,tình trạng lệnh cổ phiếu SSI
+order_status,lệnh cổ phiếu SSI ra sao
+order_status,xem trạng thái lệnh cổ phiếu SSI
+order_status,trạng thái lệnh mã SSI của tôi
+order_status,xem trạng thái lệnh mã SSI của tôi
+order_status,xem tình trạng lệnh cổ phiếu SSI
+order_status,thông tin lệnh mã SSI
+order_status,xem thông tin lệnh cổ phiếu SSI
+order_status,tình trạng khớp lệnh mã SSI
+order_status,trạng thái khớp lệnh mã SSI
+order_status,thông tin khớp lệnh mã SSI
+order_status,xem tình trạng khớp lệnh cổ phiếu SSI
+order_status,xem thông tin khớp lệnh cổ phiếu SSI
+order_status,xem trạng thái khớp lệnh mã SSI
+order_status,thông tin lệnh cổ phiếu SSI của tôi
+order_status,xem thông tin lệnh mã SSI của tôi
+order_status,tình trạng khớp lệnh mã SSI của tôi
+order_status,trạng thái khớp lệnh cổ phiếu SSI của tôi
+order_status,thông tin khớp lệnh cổ phiếu SSI của tôi
+order_status,xem tình trạng khớp lệnh mã SSI của tôi
+order_status,xem thông tin khớp lệnh cổ phiếu SSI của tôi
+order_status,xem trạng thái khớp lệnh mã SSI của tôi
+order_status,hãy cho tôi biết trạng thái giao dịch mã SSI của tôi 
+order_status,giao dịch mua SSI của tôi đã thực hiện xong chưa
+order_status,lệnh về mã SSI đang giao dịch
+order_status,xem lệnh cổ phiếu SSI đang giao dịch
+order_status,lệnh cổ phiếu SSI đang chờ giao dịch
+order_status,xem lệnh mã SSI đang chờ giao dịch
+order_status,lệnh về cổ phiếu SSI bị hủy
+order_status,xem lệnh mã SSI bị hủy
+order_status,lệnh mã SSI không hợp lệ
+order_status,xem lệnh về cổ phiếu SSI không hợp lệ
+order_status,xem lệnh về mã SSI đang chờ
+order_status,lệnh mã SSI đang chờ
+order_status,lệnh mã SSI đã được khớp chưa
+order_status,lệnh cổ phiếu SSI đã được thực hiện chưa
+order_status,lệnh về cổ phiếu SSI đã giao dịch
+order_status,xem lệnh mã SSI đã giao dịch
+order_status,tình trạng giao dịch của lệnh mã cổ phiếu SSI
+order_status,xem tình trạng giao dịch của lệnh cổ phiếu SSI
+order_status,giao dịch khớp lệnh mã SSI
+order_status,xem giao dịch khớp lệnh mã SSI
+order_status,kết quả khớp lệnh mã SSI
+order_status,xem kết quả khớp lệnh cổ phiếu SSI
+order_status,xem kết quả giao dịch lệnh mã SSI
+order_status,kết quả giao dịch lệnh cổ phiếu SSI
+order_status,lệnh mã SSI đang giao dịch của tôi
+order_status,xem lệnh cổ phiếu SSI đang giao dịch của tôi
+order_status,lệnh cổ phiếu SSI đang chờ giao dịch của tôi
+order_status,xem lệnh mã SSI đang chờ giao dịch của tôi
+order_status,lệnh cổ phiếu SSI bị hủy của tôi
+order_status,xem lệnh mã SSI bị hủy của tôi
+order_status,lệnh cổ phiếu SSI không hợp lệ của tôi
+order_status,xem lệnh mã SSI không hợp lệ của tôi
+order_status,xem lệnh cổ phiếu SSI đang chờ của tôi
+order_status,lệnh mã SSI đang chờ của tôi
+order_status,lệnh cổ phiếu SSI đã được khớp chưa
+order_status,lệnh cổ phiếu SSI đã được thực hiện chưa của tôi
+order_status,lệnh mã SSI đã giao dịch của tôi
+order_status,xem lệnh cổ phiếu SSI đã giao dịch của tôi
+order_status,tình trạng giao dịch của lệnh mã SSI của tôi
+order_status,xem tình trạng giao dịch của lệnh cổ phiếu SSI của tôi
+order_status,giao dịch khớp lệnh mã SSI của tôi
+order_status,xem giao dịch khớp lệnh mã cổ phiếu SSI của tôi
+order_status,kết quả khớp lệnh mã SSI của tôi
+order_status,xem kết quả khớp lệnh mã SSI của tôi
+order_status,xem kết quả giao dịch lệnh mã SSI của tôi
+order_status,kết quả giao dịch lệnh cổ phiếu SSI của tôi
+order_status,xem cho tôi trạng thái lệnh mã SSI
+order_status,xem cho tôi trạng thái lệnh cổ phiếu SSI của tôi
+order_status,xem cho tôi tình trạng lệnh cổ phiếu SSI
+order_status,xem cho tôi thông tin lệnh mã cổ phiếu SSI
+order_status,xem cho tôi tình trạng khớp lệnh mã SSI
+order_status,xem cho tôi thông tin khớp lệnh mã SSI
+order_status,xem cho tôi trạng thái khớp lệnh cổ phiếu SSI
+order_status,xem cho tôi thông tin lệnh mã cổ phiếu SSI của tôi
+order_status,xem cho tôi tình trạng khớp lệnh mã SSI của tôi
+order_status,xem cho tôi thông tin khớp lệnh cổ phiếu SSI của tôi
+order_status,xem cho tôi trạng thái khớp lệnh mã SSI của tôi
+order_status,xem cho tôi lệnh cổ phiếu SSI đang giao dịch
+order_status,xem cho tôi lệnh cổ phiếu SSI đang chờ giao dịch
+order_status,xem cho tôi lệnh mã SSI bị hủy
+order_status,xem cho tôi lệnh cổ phiếu SSI không hợp lệ
+order_status,xem cho tôi lệnh mã SSI đang chờ
+order_status,xem cho tôi lệnh cổ phiếu SSI đã giao dịch
+order_status,xem cho tôi tình trạng giao dịch của lệnh cổ phiếu SSI
+order_status,xem cho tôi giao dịch khớp lệnh mã SSI
+order_status,xem cho tôi kết quả khớp lệnh mã SSI
+order_status,xem cho tôi kết quả giao dịch lệnh cổ phiếu SSI
+order_status,lệnh mua cổ phiếu SSI khớp chưa nhỉ
+order_status,Tiền tôi bán cổ phiếu SSI về chưa nhỉ
+order_status,Hôm qua vừa mua 100 cổ phiếu SSI, xem lệnh mua SSI của tôi đã được khớp chưa
+order_status,Tôi vừa đặt lệnh bán SSI, xem lệnh của tôi có được khớp không
+order_status,Hôm trước mới đặt lệnh bán 100 ssi, xem lệnh của tôi đã được khớp chưa
+order_status,lệnh mua ssi của tôi được khớp chưa khi tôi hôm nay mới có thời gian lên check lệnh
+order_status,Hôm qua vừa đặt vài lệnh, xem các lệnh của tôi đã được thực hiện chưa
+order_status,xem tình trạng lệnh bán cổ phiếu ssi tôi mới đặt hôm qua theo lời khuyên của bạn tôi
+order_status,hôm qua mới múc thêm 100 ssi, xem tình hình khớp lệnh mua ssi của tôi
+order_status,Vừa mới đặt lệnh mua và bán ssi, xem các lệnh của tôi có thực thi không
+order_status,xem số lệnh mới đặt của tôi chiều qua có được thực hiện không 
+order_status,tình trạng khớp lệnh?
+order_status,trạng thái khớp lệnh?
+order_status,khớp lệnh như thế nào rồi?
+order_status,hiện trạng khớp lệnh?
+order_status,khớp lệnh như nào?
+order_status,xem khớp lệnh?
+order_status,xem tình trạng khớp lệnh
+order_status,xem trạng thái khớp lệnh
+order_status,lệnh mua ssi của tôi đã được khớp chưa?
+order_status,lệnh mua đã được khớp chưa?
+order_status,lệnh bán đã được thực thi chưa?

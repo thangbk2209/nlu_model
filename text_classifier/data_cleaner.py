@@ -261,7 +261,6 @@ chợt
 chợt_nghe
 chợt_nhìn
 chủn
-chứ
 chứ_ai
 chứ_còn
 chứ_gì
@@ -285,7 +284,6 @@ cuộc
 càng_càng
 càng_hay
 cá_nhân
-các
 các_cậu
 cách
 cách_bức
@@ -653,7 +651,6 @@ mình
 mạnh
 mất
 mất_còn
-mọi
 mọi_giờ
 mọi_khi
 mọi_lúc
