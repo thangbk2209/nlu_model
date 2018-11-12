@@ -1776,14 +1776,15 @@ xệp
                 elif(self.hasNumbers(self.data[i][j])):
                     fixed_sentence.append(number_replace)
                     continue
+                elif(self.data[i][j] in symbol_arr):
+                    fixed_sentence.append('ssi')
                 elif(self.data[i][j] in acronym3_arr):
                     words = fullword3_arr[acronym3_arr.index(self.data[i][j])].split(' ')
                     # lol
                     for word in words:
                         fixed_sentence.append(word)
                     continue
-                elif(self.data[i][j] in symbol_arr):
-                    fixed_sentence.append('ssi')
+                
                 else:
                     fixed_sentence.append(self.data[i][j])
             # print(fixed_sentence)

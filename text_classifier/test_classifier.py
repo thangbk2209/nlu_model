@@ -18,7 +18,8 @@ def read_trained_data(file_trained_data):
 input_size = 32
 embedding_dim = 50
 version_wc = 10
-version_classifier = 4
+
+version_classifier = 8
 name_class = 'ANN_ver' + str(version_wc) + '.' + str(version_classifier)
 wv_file = "/home/fdm-thang/robochat/nlu_gensim/word_vector/word2vec_ver" + str(version_wc) + ".model"
 # fname = get_tmpfile("word2vec_ver9.model")
@@ -27,6 +28,7 @@ dict_file = "/home/fdm-thang/robochat/nlu_gensim/term_frequency/tf_ver" + str(ve
 tf_dicts = read_trained_data(dict_file)
 # print (tf_dicts)
 # print (tf_dicts['nên'])
+
 texts = []
 intents_data = []
 intents_official = ['end', 'trade', 'cash_balance', 'advice', 'order_status', 'stock_balance', 'market', 'cancel','ratio_status','look','name','cancel_all']
@@ -52,9 +54,11 @@ def test(sentence):
     # all_words = ViPosTagger.postagging(ViTokenizer.tokenize(sentence))[0]
     all_words = finTokenizer(sentence)
     # print (all_words)
+    # print (all_words)
     # all_sentences_word = tokenize_corpus(all_words)
     data_cleaner = DataCleaner(all_words)
     all_words = data_cleaner.clean()[0]
+    # print (all_words)
     # print (all_words)
     data_x_raw = []
     # print (i)
@@ -65,7 +69,7 @@ def test(sentence):
         # print (word)
         if ( word not in tf_dicts ):
             # print (word,tf_dicts[word])
-            print ('check',word)
+            # print ('check',word)
             num+=1
         elif(data_cleaner.is_stop_word(word)):
             num_stop_word+=1
@@ -81,13 +85,13 @@ def test(sentence):
         label = 'unknown label'
         return label
     else:
-        for k in range(input_size - len(data_x_raw)):
-            padding = np.zeros(embedding_dim)
-            data_x_raw.append(padding)
+        # for k in range(input_size - len(data_x_raw)):
+        #     padding = np.zeros(embedding_dim)
+        #     data_x_raw.append(padding)
         data_x_original = [data_x_raw]
         data_x_original = np.asarray(data_x_original)
         data_x_original = np.average(data_x_original,axis = 1)
-        print (data_x_original.shape)
+        # print (data_x_original.shape)
         # print (data_x_original.shape)
         # data_x_original = np.reshape(data_x_original,(data_x_original.shape[0],data_x_original.shape[1]*data_x_original.shape[2]))
         # print (data_x_original.shape)
@@ -150,7 +154,7 @@ file = open('err_data.txt','w', encoding="utf8")
 file1 = open('new_data.txt','w', encoding="utf8")
 
     
-with open('/home/fdm-thang/robochat/nlu_gensim/data/stock_balance.txt') as input:
+with open('/home/fdm-thang/robochat/nlu_gensim/data/testfile.txt') as input:
     
     labels = []   
     contents = []
@@ -190,7 +194,7 @@ all_sentences_words = []
 #     print (arr[i])
 correct = 0 
 for i,content in enumerate(contents):
-    print (i)
+    # print (i)
     label_predict = test(content)
     if (label_predict == labels[i]):
         # print (content,'---',labels[i])
@@ -198,8 +202,7 @@ for i,content in enumerate(contents):
         correct+=1
         # print (correct, i)
     else:
-        print ("wrong", content,'---',labels[i])
-        print (label_predict)
+        print ("wrong", content,'---',labels[i],label_predict)
         # print (correct, i)
 print (correct)
 

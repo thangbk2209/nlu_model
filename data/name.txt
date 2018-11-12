@@ -36,3 +36,4 @@ name,tên phần mềm?
 name,tôi gọi bạn là gì đây?
 name,tôi có thể gọi bạn là gì?
 name,bạn là ai?
+name,cho xin tên cái nào

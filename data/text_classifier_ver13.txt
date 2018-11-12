@@ -12,12 +12,12 @@ trade,mua vào SSI
 trade,bán ra SSI
 trade,mua thêm mã SSI
 trade,mua thêm SSI
-trade,tôi muốn mua cp bcp
-trade,tôi muốn giao dịch cp bcp
-trade,tôi muốn đặt lệnh bán cp acb 
+trade,tôi muốn mua cổ phiếu bcp
+trade,tôi muốn giao dịch cổ phiếu bcp
+trade,tôi muốn đặt lệnh bán cổ phiếu acb 
 trade,tôi muốn đầu tư vào mã acb
 trade,mua thêm cổ phiếu ssi
-trade,gom vào cp aaa 
+trade,gom vào cổ phiếu aaa 
 trade,xả cổ ssi 
 trade,múc ssi 
 trade,xúc ssi 
@@ -71,7 +71,7 @@ trade,đầu tư vào mã SSI
 trade,lấy thêm cổ phiếu SSI 
 trade,lấy thêm mã cổ phiếu SSI 
 trade,lấy thêm mã SSI
-trade,lấy thêm 100 giá
+trade,lấy thêm 100 cổ SSI
 trade,tôi muốn đặt lệnh mua cổ phiếu SSI 
 trade,tôi muốn đặt lệnh bán cổ phiếu SSI
 trade,tôi muốn đặt lệnh mua SSI
@@ -102,6 +102,9 @@ trade,tôi muốn tiến hành giao dịch cổ phiếu SSI
 trade,tôi muốn tiến hành giao dịch mua bán SSI
 trade,hôm nay thị trường tệ quá, bán hết SSI đi
 trade,hôm nay thị trường xuống nhiều, bán toàn bộ mã SSI cho tôi
+name,cho xem tên cái nhỉ?
+name,cho xem tên bạn với 
+name,hiển thị tên bạn đi
 name,cho mình xin tên với 
 name,cho xin tên bạn với 
 name,cho xin tên bạn
@@ -140,9 +143,23 @@ name,tên phần mềm?
 name,tôi gọi bạn là gì đây?
 name,tôi có thể gọi bạn là gì?
 name,bạn là ai?
-stock_balance,số dư cp tài khoản đuôi 1
-stock_balance,kt số dư cp 
-stock_balance,kt số dư cp trong tài khoản của tôi 
+stock_balance,thông tin cổ phiếu trong tài khoản?
+stock_balance,xem cổ phiếu trong tài khoản 
+stock_balance,xem số cổ phiếu còn lại 
+stock_balance,thông tin cổ phiếu trong tài khoản 
+stock_balance,tình trạng cổ phiếu trong tài khoản 
+stock_balance,trạng thái cổ phiếu trong tài khoản 
+stock_balance,thông tin số dư cổ phiếu 
+stock_balance,tài khoản đuôi 1 còn bao nhiêu cổ phiếu 
+stock_balance,số dư cổ phiếu còn lại 
+stock_balance,số dư cổ phiếu của tôi là bao nhiêu 
+stock_balance,tài khoản chứng khoán dư bao nhiêu?
+stock_balance,thông tin chứng khoán của các tài khoản 
+stock_balance,số dư chứng khoán các tài khoản
+stock_balance,số dư cổ phiếu tài khoản đuôi 1
+stock_balance,thông tin cổ phiếu của tài khoản đuôi 5
+stock_balance,kiểm tra số dư cổ phiếu 
+stock_balance,kiểm tra số dư cổ phiếu trong tài khoản của tôi 
 stock_balance,tôi còn những loại cổ phiếu nào
 stock_balance,tôi có những loại cổ nào
 stock_balance,tôi còn những loại cổ nào
@@ -172,11 +189,11 @@ stock_balance,tài khoản của tôi còn bao nhiêu cổ phiếu ssi
 stock_balance,số cổ phiếu SSI trong tài khoản
 stock_balance,số cổ phiếu SSI của tôi trong tài khoản
 stock_balance,tổng mã SSI tôi đang có
-stock_balance,tổng cp SSI tôi sở hữu
-stock_balance,tôi đang sở hữu bn cp SSI
+stock_balance,tổng cổ phiếu SSI tôi sở hữu
+stock_balance,tôi đang sở hữu bn cổ phiếu SSI
 stock_balance,kiểm tra số lượng mã SSI trong tài khoản đuôi 1
 stock_balance,kiểm tra số lượng mã SSI trong các tài khoản của tôi
-stock_balance,kiểm tra số lượng cp SSI trong tài khoản đuôi 1
+stock_balance,kiểm tra số lượng cổ phiếu SSI trong tài khoản đuôi 1
 stock_balance,tổng số SSI tôi nắm giữ
 stock_balance,SSI tôi có bao nhiêu cổ
 stock_balance,kiểm tra cổ phiếu SSI trong tài khoản
@@ -238,7 +255,7 @@ stock_balance,số chứng khoán SSI còn dư của tôi
 stock_balance,xem số dư chứng khoán SSI của tôi
 stock_balance,xem số chứng khoán SSI còn dư của tôi
 stock_balance,tổng số chứng khoán SSI của tôi
-stock_balance,xem số dư cp SSI của tôi
+stock_balance,xem số dư cổ phiếu SSI của tôi
 stock_balance,xem tổng số chứng khoán SSI tôi nắm giữ
 stock_balance,xem tổng số cổ phiếu acb tôi nắm giữ
 stock_balance,hiển thị số dư chứng khoán SSI của tôi
@@ -337,6 +354,12 @@ stock_balance,trạng thái cổ phiếu SSI còn lại
 stock_balance,xem trạng thái cổ phiếu SSI còn lại
 stock_balance,xem trạng thái chứng khoán SSI
 stock_balance,xem trạng thái danh mục
+stock_balance,thông tin số dư cổ phiếu của tôi 
+stock_balance,số cổ phiếu hiện có của tôi 
+stock_balance,số dư cổ phiếu hiện tại của tôi 
+stock_balance,xem số dư cổ phiếu của tôi là bao nhiêu 
+stock_balance,cho tôi xem số dư cổ phiếu 
+stock_balance,cho tôi xem số cổ phiếu còn lại trong tài khoản
 stock_balance,xem trạng thái đầu tư cổ phiếu SSI
 stock_balance,xem trạng thái chứng khoán SSI của tôi
 stock_balance,xem trạng thái danh mục của tôi
@@ -385,7 +408,7 @@ stock_balance,check số cổ phiếu tôi có
 stock_balance,check số cổ phiếu tôi còn
 stock_balance,check xem tôi có bao nhiêu mã SSI
 stock_balance,check xem tôi có bao nhiêu cổ phiếu SSI
-stock_balance,check xem tôi có bao nhiêu cp SSI
+stock_balance,check xem tôi có bao nhiêu cổ phiếu SSI
 stock_balance,check xem tôi còn bao nhiêu mã SSI
 stock_balance,check xem tôi còn bao nhiêu cổ phiếu SSI
 stock_balance,check số SSI tôi có
@@ -415,16 +438,14 @@ stock_balance,check xem tài khoản của tôi còn bao nhiêu mã SSI
 stock_balance,check xem tài khoản của tôi sở hữu bao nhiêu mã SSI
 stock_balance,check xem tài khoản của tôi nắm giữ bao nhiêu mã SSI
 stock_balance,check xem tài khoản của tôi có bao nhiêu cổ phiếu SSI
-stock_balance,check xem tài khoản của tôi còn bao nhiêu cp SSI
-stock_balance,check xem tài khoản của tôi sở hữu bao nhiêu cp SSI
+stock_balance,check xem tài khoản của tôi còn bao nhiêu cổ phiếu SSI
+stock_balance,check xem tài khoản của tôi sở hữu bao nhiêu cổ phiếu SSI
 stock_balance,check xem tài khoản của tôi nắm giữ bao nhiêu cổ phiếu SSI
-stock_balance,số cp trong tk
-stock_balance,xem số cp ssi trong tk
+stock_balance,số cổ phiếu trong tk
+stock_balance,xem số cổ phiếu ssi trong tk
 stock_balance,xem ssi trong tk
-stock_balance,ssi trong tk là bao nhiêu?
+stock_balance,số lượng ssi trong tk là bao nhiêu?
 advice,với thị trường này, có nên mua ssi không?
-advice,với thị trường này, có nên mua ssi giá 12.4 không?
-advice,với thị trường này, có nên mua acb giá 12.6 100 cổ không?
 advice,nhận định mã cổ phiếu SSI
 advice,nhận định giá cổ phiếu SSI
 advice,nhận định mã chứng khoán SSI
@@ -436,23 +457,23 @@ advice,tôi có nên bán cổ phiếu acb không?
 advice,đang xem xét xem có nên bán nốt chỗ ssi còn lại không
 advice,đang xem có nên mua ssi không
 advice,đang xem liệu có nên mua ssi không
-advice,đang xem có nên mua 100 cổ phiếu ssi giá 12.4 không
-advice,đang xem liệu có nên mua 100 cổ phiếu ssi giá 12.5 không
+advice,đang xem có nên mua cổ phiếu ssi
+advice,đang xem liệu có nên mua cổ phiếu ssi
 advice,tôi có nên mua cổ phiếu ssi không
 advice,không biết là có nên mua ssi không nhỉ
 advice,không biết là mua ssi có hợp lý không
-advice,tôi có nên chi tiền để mua 1000 cp ssi không?
-advice,tôi có nên đầu tư để mua 100 cổ phiếu acb không?
+advice,tôi có nên chi tiền để mua 1000 cổ phiếu ssi không?
+advice,tôi có nên đầu tư để mua cổ phiếu acb không?
 advice,mua thế nào với mã SSI
 advice,bán thế nào với SSI
 advice,nên bán tất cả SSI chứ
 advice,nên đầu tư SSI lúc này không
 advice,nên giao dịch SSI thời điểm này chứ
-advice,bán SSI giá 12 được không?
+advice,bán SSI được không?
 advice,với giá nào thì nên bán SSI
 advice,với giá nào thì bán SSI
 advice,với thị trường này, có nên mua SSI không?
-advice,với thị trường này, có nên mua 300 cổ phiếu SSI giá 12.4 không?
+advice,với thị trường này, có nên mua cổ phiếu SSI
 advice,cho tôi xin ý kiến về thị trường hôm nay
 advice,ý kiến của bạn về thị trường hôm nay
 advice,bạn nghĩ thị trường hôm nay sẽ thế nào
@@ -553,13 +574,13 @@ advice,có nên nắm giữ SSI lúc này không
 advice,tôi nên nắm giữ SSI không
 advice,tôi nên nắm giữ mã SSI không
 advice,tôi nên nắm giữ cổ phiếu SSI không
-advice,nên nắm giữ cp SSI chứ
+advice,nên nắm giữ cổ phiếu SSI chứ
 advice,có nên nắm giữ mã SSI lúc này
 advice,có nên nắm giữ cổ phiếu SSI lúc này
 advice,nên múc SSI lúc này không
 advice,có nên múc SSI vào lúc này không
-advice,có nên múc SSI giá 10 không
-advice,tôi nên múc mã SSI giá 10 không
+advice,có nên múc SSI không
+advice,tôi nên múc mã SSI không
 advice,nên múc cổ phiếu SSI lúc này chứ
 advice,nên múc SSI
 advice,nên nắm giữ SSI không
@@ -599,6 +620,7 @@ advice,lời khuyên về ssi
 advice,cho lời khuyên đê
 advice,cho lời khuyên về thị trường
 advice,khuyến nghị về ssi
+advice,khuyến nghị mua ssi
 advice,khuyến nghị ssi
 advice,khuyến nghị mã ssi
 advice,khuyến nghị cổ phiếu ssi
@@ -630,30 +652,39 @@ advice,tư vấn xem nên đặt lệnh mua acb không
 advice,tư vấn xem nên đặt lệnh bán mbb không
 advice,tư vấn xem có nên hay không nắm giữ ssi
 advice,tư vấn cho tôi nên đặt lệnh gì
-advice,tư vấn cho tôi xem mua cp gì bây giờ
+advice,tư vấn cho tôi xem mua cổ phiếu gì bây giờ
 advice,tư vấn hộ tôi có nên mua bán ssi lúc này
 advice, tư vấn gì lúc này?
 advice,bạn sẽ tư vấn thế nào về thị trường
 advice,tư vấn xem hôm nay thị trường sẽ lên hay xuống
-advice,tư vấn xem hôm nay giá cả cp sẽ như thế nào
+advice,tư vấn xem hôm nay giá cả cổ phiếu sẽ như thế nào
 advice,tư vấn xem hôm nay nên đặt lệnh vào mã gì
-advice,cho tôi xem tư vấn về mã cp ssi với
+advice,cho tôi xem tư vấn về mã cổ phiếu ssi với
 advice,cho tôi xem tư vấn đặt lệnh mua ssi
 advice,cho tôi xem tư vấn đặt lệnh bán ssi đi
 advice,tư vấn cho tôi ngay đi
 advice,tư vấn ngay đi
 advice,tôi cần lời tư vấn
-advice,tôi cần lời tư vấn về mua bán cp
+advice,tôi cần lời tư vấn về mua bán cổ phiếu
 advice,tôi cần lời tư vấn nên đầu tư vào thị trường thế nào
 advice,tư vấn về mã ssi
 advice,tư vấn về thị trường
 advice,tư vấn về đặt lệnh
 advice,tư vấn đi
 advice,tư vấn hộ cái nào
-cancel_all,hủy tất cả đi
-cancel_all,hủy tất cả các lệnh
 cancel_all,hủy tất cả lệnh
+cancel_all,hủy tất cả các lệnh mua và bán
+cancel_all,hủy tất cả các lệnh tôi vừa đặt
+cancel_all,hủy tất cả các lệnh đã đặt
+cancel_all,hủy tất cả đi
+cancel_all,hủy tất cả lệnh của tôi
+cancel_all,hủy tất cả các lệnh đặt mua
+cancel_all,hủy tất cả các lệnh đặt bán
+cancel_all,hủy tất cả lệnh tôi đặt bán và mua
 cancel_all,hủy tất cả các lệnh khẩn trương
+cancel_all,hủy tất cả các lệnh mua và bán khẩn trương
+cancel_all,hủy tất cả các lệnh tôi vừa đặt khẩn trương
+cancel_all,hủy tất cả các lệnh đã đặt khẩn trương
 cancel_all,hủy tất cả các lệnh tôi có
 cancel_all,hủy tất cả khẩn trương
 cancel_all,hủy khẩn trương
@@ -662,57 +693,95 @@ cancel_all,hủy tất khẩn trương
 cancel_all,hủy tất ngay
 cancel_all,hủy tất luôn
 cancel_all,hủy các lệnh khẩn trương
-cancel_all,hủy các lệnh
-cancel_all,hủy đống lệnh
+cancel_all,hủy các lệnh vừa đặt
+cancel_all,hủy các lệnh mới đặt
+cancel_all,hủy các lệnh mua và bán
+cancel_all,hủy các lệnh mua tôi mới đặt
+cancel_all,hủy các lệnh bán tôi mới đặt
+cancel_all,hủy đống lệnh của tôi đi
 cancel_all,hủy hết đống lệnh
+cancel_all,hủy đống lệnh vừa đặt
 cancel_all,hủy mọi lệnh
-cancel_all,hủy mọi thứ
-cancel_all,hủy hàng loạt các lệnh
+cancel_all,hủy mọi lệnh của tôi
+cancel_all,hủy mọi lệnh mua và bán của tôi ngay
+cancel_all,hủy mọi lệnh mua và bán tôi mới đặt
+cancel_all,hủy mọi lệnh chờ đi
+cancel_all,hủy mọi thứ tôi vừa đặt
+cancel_all,hủy hàng loạt các lệnh tôi vừa đặt
 cancel_all,hủy tất thảy luôn
-cancel_all,hủy tất thẩy các lệnh
+cancel_all,hủy tất thẩy các lệnh vừa đặt
 cancel_all,hủy tất thẩy lệnh đi
 cancel_all,hủy toàn bộ
 cancel_all,hủy toàn bộ lệnh
-cancel_all,hủy toàn bộ các lệnh
+cancel_all,hủy toàn bộ lệnh mua ssi
+cancel_all,hủy toàn bộ lệnh mua 
+cancel_all,hủy toàn bộ lệnh mua và bán
+cancel_all,hủy toàn bộ các lệnh mua và bán
 cancel_all,hủy toàn bộ các lệnh tôi vừa đặt
 cancel_all,hủy toàn bộ các lệnh đã đặt
 cancel_all,hủy toàn bộ lệnh của tôi
-cancel_all,hủy toàn bộ các lệnh
+cancel_all,hủy toàn bộ các lệnh đặt mua
+cancel_all,hủy toàn bộ các lệnh đặt bán
+cancel_all,hủy toàn bộ lệnh tôi đặt bán và mua
 cancel_all,hủy toàn bộ các lệnh khẩn trương
-cancel_all,hủy toàn bộ các lệnh
+cancel_all,hủy toàn bộ các lệnh mua và bán khẩn trương
+cancel_all,hủy toàn bộ các lệnh tôi vừa đặt khẩn trương
+cancel_all,hủy toàn bộ các lệnh đã đặt khẩn trương
+cancel_all,hủy toàn bộ các lệnh tôi có
 cancel_all,hủy toàn bộ khẩn trương
-cancel_all,hủy toàn bộ lệnh
-cancel_all,hủy mọi lệnh
-cancel_all,hủy hết lệnh
-cancel_all,hủy tất cả lệnh
-cancel_all,có gì hủy tất
+cancel_all,hủy toàn bộ lệnh đầu tư
+cancel_all,hủy mọi lệnh đầu tư
+cancel_all,hủy hết lệnh đầu tư
+cancel_all,hủy tất cả lệnh đầu tư
+cancel_all,có gì hủy tấtS
 cancel_all,có lệnh gì hủy tất
 cancel_all,có lệnh gì hủy sạch đi
 cancel_all,có lệnh gì hủy bỏ tất
 cancel_all,có lệnh gì hủy tất đi
 cancel_all,có lệnh gì bỏ hết đi
-cancel_all,có lệnh gì hủy sạch đi
-cancel_all,lệnh gì hủy tất
-cancel_all, hủy hết đi
+cancel_all,có lệnh mua bán gì hủy sạch đi
+cancel_all,lệnh gì đặt hủy tất
+cancel_all,lệnh của tôi hủy tất
+cancel_all,lệnh mới đặt hủy tất
+cancel_all,lệnh đặt mua hủy tất
+cancel_all,lệnh đặt bán hủy tất
+cancel_all,lệnh mua bán hủy tất
+cancel_all,lệnh đầu tư hủy tất
+cancel_all,các lệnh vừa đặt hủy đi
+cancel_all,lệnh của tôi hủy hết đi
 cancel_all,huỷ hết lệnh
 cancel_all,hủy hết sạch lệnh đi
+cancel_all,hủy hết sạch lệnh mua bán đi
 cancel_all,hủy mọi loại lệnh đã đặt
+cancel_all,hủy mọi loại lệnh mua bán đã đặt
 cancel_all,hủy sạch lệnh cho tôi
 cancel_all,các lệnh tôi mới đặt hủy hết đi
-cancel_all,hủy sạch mọi lệnh
-cancel_all,hủy hết sạch các loại lệnh
+cancel_all,hủy sạch mọi lệnh mới đặt
+cancel_all,hủy hết sạch các loại lệnh của tôi
 cancel_all,mọi lệnh vừa đặt hủy hết đi
+cancel_all,hủy bỏ các lệnh mà lúc chiều tôi mới đặt một đống
 cancel_all,hôm qua đặt nhiều lệnh quá, hủy các lệnh không hợp lệ cho tôi
-cancel_all,hủy toàn bộ lệnh
-cancel_all,tôi muốn hủy hết tất cả lệnh
-cancel_all,tôi muốn hủy hết toàn bộ đống lệnh
-cancel_all,tôi muốn hủy hết lệnh
-cancel_all,tôi muốn hủy hết lệnh
+cancel_all,hủy toàn bộ lệnh đặt mua ssi cho tôi
+cancel_all,hôm qua có đặt lệnh sai nên hủy hết các lệnh cho tôi
+cancel_all,tôi muốn hủy hết tất cả lệnh vừa đặt
+cancel_all,tôi muốn hủy hết toàn bộ đống lệnh vừa đặt
+cancel_all,tôi muốn hủy hết lệnh đã đặt
+cancel_all,tôi muốn hủy hết lệnh của tôi
 cancel_all,tôi muốn hủy bỏ hết lệnh
 cancel_all,dừng tất cả lệnh
-cancel_all,dừng tất cả các lệnh
+cancel_all,dừng tất cả các lệnh mua và bán
+cancel_all,dừng tất cả các lệnh tôi vừa đặt
+cancel_all,dừng tất cả các lệnh đã đặt
+cancel_all,dừng tất cả đi
+cancel_all,dừng tất cả lệnh của tôi
+cancel_all,dừng tất cả các lệnh đặt mua
+cancel_all,dừng tất cả các lệnh đặt bán
+cancel_all,dừng tất cả lệnh tôi đặt bán và mua
 cancel_all,dừng tất cả các lệnh khẩn trương
-cancel_all,dừng tất cả các lệnh
+cancel_all,dừng tất cả các lệnh mua và bán khẩn trương
+cancel_all,dừng tất cả các lệnh tôi vừa đặt khẩn trương
+cancel_all,dừng tất cả các lệnh đã đặt khẩn trương
+cancel_all,dừng tất cả các lệnh tôi có
 cancel_all,dừng tất cả khẩn trương
 cancel_all,dừng khẩn trương
 cancel_all,dừng tất
@@ -721,32 +790,60 @@ cancel_all,dừng tất đi
 cancel_all,dừng tất ngay
 cancel_all,dừng tất luôn
 cancel_all,dừng các lệnh khẩn trương
-cancel_all,dừng các lệnh
+cancel_all,dừng các lệnh đi
+cancel_all,dừng các lệnh vừa đặt
+cancel_all,dừng các lệnh mới đặt
+cancel_all,dừng các lệnh mua và bán
+cancel_all,dừng các lệnh mua tôi mới đặt
+cancel_all,dừng các lệnh bán tôi mới đặt
+cancel_all,dừng đống lệnh của tôi đi
+cancel_all,dừng đống lệnh mới đặt
 cancel_all,dừng hết đống lệnh
-cancel_all,dừng đống lệnh
-cancel_all,dừng mọi lệnh
-cancel_all,dừng mọi thứ
-cancel_all,dừng hàng loạt các lệnh
+cancel_all,dừng đống lệnh vừa đặt
+cancel_all,dừng mọi lệnh của tôi
+cancel_all,dừng mọi lệnh mua và bán tôi mới đặt
+cancel_all,dừng mọi lệnh chờ đi
+cancel_all,dừng mọi thứ tôi vừa đặt
+cancel_all,dừng hàng loạt các lệnh tôi vừa đặt
 cancel_all,dừng tất thảy luôn
-cancel_all,dừng tất thẩy các lệnh
+cancel_all,dừng tất thẩy các lệnh vừa đặt
 cancel_all,dừng toàn bộ
 cancel_all,dừng toàn bộ lệnh
-cancel_all,dừng toàn bộ các lệnh
+cancel_all,dừng toàn bộ lệnh mua ssi
+cancel_all,dừng toàn bộ các lệnh mua và bán
+cancel_all,dừng toàn bộ các lệnh tôi vừa đặt
+cancel_all,dừng toàn bộ các lệnh đã đặt
+cancel_all,dừng toàn bộ lệnh của tôi
+cancel_all,dừng toàn bộ các lệnh đặt mua
+cancel_all,dừng toàn bộ các lệnh đặt bán
+cancel_all,dừng toàn bộ lệnh tôi đặt bán và mua
 cancel_all,dừng toàn bộ các lệnh khẩn trương
-cancel_all,dừng toàn bộ các lệnh
+cancel_all,dừng toàn bộ các lệnh mua và bán khẩn trương
+cancel_all,dừng toàn bộ các lệnh tôi vừa đặt khẩn trương
+cancel_all,dừng toàn bộ các lệnh đã đặt khẩn trương
+cancel_all,dừng toàn bộ các lệnh tôi có
 cancel_all,dừng toàn bộ khẩn trương
 cancel_all,dừng toàn bộ loại lệnh đi
 cancel_all,dừng mọi loại lệnh đi
-cancel_all,dừng toàn bộ lệnh 
-cancel_all,dừng mọi lệnh 
-cancel_all,dừng hết lệnh
-cancel_all,dừng tất cả lệnh
+cancel_all,dừng toàn bộ lệnh đầu tư
+cancel_all,dừng toàn bộ lệnh đầu tư vào ssi
+cancel_all,dừng mọi lệnh đầu tư
+cancel_all,dừng hết lệnh đầu tư
+cancel_all,dừng tất cả lệnh đầu tư
 cancel_all,ngừng tất cả lệnh
-cancel_all,ngừng tất cả các lệnh
+cancel_all,ngừng tất cả các lệnh mua và bán
+cancel_all,ngừng tất cả các lệnh tôi vừa đặt
+cancel_all,ngừng tất cả các lệnh đã đặt
 cancel_all,ngừng tất cả đi
-cancel_all,ngừng tất cả lệnh
+cancel_all,ngừng tất cả lệnh của tôi
+cancel_all,ngừng tất cả các lệnh đặt mua
+cancel_all,ngừng tất cả các lệnh đặt bán
+cancel_all,ngừng tất cả lệnh tôi đặt bán và mua
 cancel_all,ngừng tất cả các lệnh khẩn trương
-cancel_all,ngừng tất cả các lệnh
+cancel_all,ngừng tất cả các lệnh mua và bán khẩn trương
+cancel_all,ngừng tất cả các lệnh tôi vừa đặt khẩn trương
+cancel_all,ngừng tất cả các lệnh đã đặt khẩn trương
+cancel_all,ngừng tất cả các lệnh tôi có
 cancel_all,ngừng tất cả khẩn trương
 cancel_all,ngừng khẩn trương
 cancel_all,ngừng tất
@@ -754,52 +851,115 @@ cancel_all,ngừng tất khẩn trương
 cancel_all,ngừng tất ngay
 cancel_all,ngừng tất luôn
 cancel_all,ngừng các lệnh khẩn trương
-cancel_all,ngừng các lệnh 
+cancel_all,ngừng các lệnh vừa đặt
+cancel_all,ngừng các lệnh mới đặt
+cancel_all,ngừng các lệnh mua và bán
+cancel_all,ngừng các lệnh mua tôi mới đặt
+cancel_all,ngừng các lệnh bán tôi mới đặt
+cancel_all,ngừng đống lệnh mới đặt
 cancel_all,ngừng hết đống lệnh
-cancel_all,ngừng đống lệnh
-cancel_all,ngừng mọi thứ
-cancel_all,ngừng hàng loạt các lệnh
+cancel_all,ngừng đống lệnh vừa đặt
+cancel_all,ngừng mọi lệnh
+cancel_all,ngừng mọi lệnh của tôi
+cancel_all,ngừng mọi lệnh mua và bán của tôi ngay
+cancel_all,ngừng mọi lệnh mua và bán tôi mới đặt
+cancel_all,ngừng mọi thứ tôi vừa đặt
+cancel_all,ngừng hàng loạt các lệnh tôi vừa đặt
 cancel_all,ngừng tất thảy luôn
-cancel_all,ngừng tất thẩy các lệnh
+cancel_all,ngừng tất thẩy các lệnh vừa đặt
 cancel_all,ngừng toàn bộ
+cancel_all,ngừng toàn bộ lệnh
+cancel_all,ngừng toàn bộ lệnh mua ssi
+cancel_all,ngừng toàn bộ các lệnh mua và bán
+cancel_all,ngừng toàn bộ các lệnh tôi vừa đặt
+cancel_all,ngừng toàn bộ các lệnh đã đặt
+cancel_all,ngừng toàn bộ lệnh của tôi
+cancel_all,ngừng toàn bộ các lệnh đặt mua
+cancel_all,ngừng toàn bộ các lệnh đặt bán
+cancel_all,ngừng toàn bộ lệnh tôi đặt bán và mua
 cancel_all,ngừng toàn bộ các lệnh khẩn trương
-cancel_all,ngừng toàn bộ các lệnh
+cancel_all,ngừng toàn bộ các lệnh mua và bán khẩn trương
+cancel_all,ngừng toàn bộ các lệnh tôi vừa đặt khẩn trương
+cancel_all,ngừng toàn bộ các lệnh đã đặt khẩn trương
+cancel_all,ngừng toàn bộ các lệnh tôi có
 cancel_all,ngừng toàn bộ khẩn trương
-cancel_all,ngừng toàn bộ lệnh 
-cancel_all,ngừng tất cả lệnh 
-cancel_all,ngừng mọi lệnh 
-cancel_all,ngừng hết lệnh 
+cancel_all,ngừng toàn bộ lệnh đầu tư
+cancel_all,ngừng toàn bộ lệnh đầu tư vào mã ssi
+cancel_all,ngừng tất cả lệnh đầu tư
+cancel_all,ngừng mọi lệnh đầu tư
+cancel_all,ngừng hết lệnh đầu tư
 cancel_all,hủy bỏ tất cả lệnh
-cancel_all,hủy bỏ tất cả các lệnh
+cancel_all,hủy bỏ tất cả các lệnh mua và bán
+cancel_all,hủy bỏ tất cả các lệnh tôi vừa đặt
+cancel_all,hủy bỏ tất cả các lệnh đã đặt
+cancel_all,hủy bỏ tất cả lệnh của tôi
+cancel_all,hủy bỏ tất cả các lệnh đặt mua
+cancel_all,hủy bỏ tất cả các lệnh đặt bán
+cancel_all,hủy bỏ tất cả lệnh tôi đặt bán và mua
 cancel_all,hủy bỏ tất cả các lệnh khẩn trương
+cancel_all,hủy bỏ tất cả các lệnh mua và bán khẩn trương
+cancel_all,hủy bỏ tất cả các lệnh tôi vừa đặt khẩn trương
+cancel_all,hủy bỏ tất cả các lệnh đã đặt khẩn trương
+cancel_all,hủy bỏ tất cả các lệnh tôi có
 cancel_all,hủy bỏ tất cả
 cancel_all,hủy bỏ tất cả khẩn trương
+cancel_all,hủy bỏ khẩn trương
 cancel_all,hủy bỏ tất
 cancel_all,hủy bỏ tất khẩn trương
 cancel_all,hủy bỏ tất ngay
 cancel_all,hủy bỏ tất luôn
 cancel_all,hủy bỏ các lệnh khẩn trương
-cancel_all,hủy bỏ các lệnh 
-cancel_all,hủy bỏ đống lệnh
+cancel_all,hủy bỏ các lệnh vừa đặt
+cancel_all,hủy bỏ các lệnh mới đặt
+cancel_all,hủy bỏ các lệnh mua và bán
+cancel_all,hủy bỏ các lệnh mua tôi mới đặt
+cancel_all,hủy bỏ các lệnh bán tôi mới đặt
+cancel_all,hủy bỏ đống lệnh mới đặt
 cancel_all,hủy bỏ hết đống lệnh
-cancel_all,hủy bỏ đống lệnh
-cancel_all,hủy bỏ mọi lện
-cancel_all,hủy bỏ mọi thứ
-cancel_all,hủy bỏ hàng loạt các lệnh
-cancel_all,hủy bỏ hết sạch đống lệnh
-cancel_all,hủy bỏ tất thảy luôn
-cancel_all,hủy bỏ tất thẩy các lệnh
-cancel_all,hủy bỏ toàn bộ
-cancel_all,hủy bỏ toàn bộ các lệnh khẩn trương
-cancel_all,hủy bỏ toàn bộ các lệnh
-cancel_all,hủy bỏ toàn bộ khẩn trương
-cancel_all,hủy bỏ toàn bộ lệnh
+cancel_all,hủy bỏ đống lệnh vừa đặt
 cancel_all,hủy bỏ mọi lệnh
-cancel_all,hủy bỏ hết lệnh 
-cancel_all,hủy bỏ tất cả lệnh  
+cancel_all,hủy bỏ mọi lệnh của tôi
+cancel_all,hủy bỏ mọi lệnh mua và bán của tôi ngay
+cancel_all,hủy bỏ mọi lệnh mua và bán tôi mới đặt
+cancel_all,hủy bỏ mọi thứ tôi vừa đặt
+cancel_all,hủy bỏ hàng loạt các lệnh tôi vừa đặt
+cancel_all,hủy bỏ hết sạch đống lệnh tôi đặt đi
+cancel_all,hủy bỏ tất thảy luôn
+cancel_all,hủy bỏ tất thẩy các lệnh vừa đặt
+cancel_all,hủy bỏ toàn bộ
+cancel_all,hủy bỏ toàn bộ lệnh
+cancel_all,hủy bỏ toàn bộ lệnh mua ssi
+cancel_all,hủy bỏ toàn bộ các lệnh mua và bán
+cancel_all,hủy bỏ toàn bộ các lệnh tôi vừa đặt
+cancel_all,hủy bỏ toàn bộ các lệnh đã đặt
+cancel_all,hủy bỏ toàn bộ lệnh của tôi
+cancel_all,hủy bỏ toàn bộ các lệnh đặt mua
+cancel_all,hủy bỏ toàn bộ các lệnh đặt bán
+cancel_all,hủy bỏ toàn bộ lệnh tôi đặt bán và mua
+cancel_all,hủy bỏ toàn bộ các lệnh khẩn trương
+cancel_all,hủy bỏ toàn bộ các lệnh mua và bán khẩn trương
+cancel_all,hủy bỏ toàn bộ các lệnh tôi vừa đặt khẩn trương
+cancel_all,hủy bỏ toàn bộ các lệnh đã đặt khẩn trương
+cancel_all,hủy bỏ toàn bộ các lệnh tôi có
+cancel_all,hủy bỏ toàn bộ khẩn trương
+cancel_all,hủy bỏ toàn bộ lệnh đầu tư
+cancel_all,hủy bỏ toàn bộ lệnh đầu tư vào mã ssi
+cancel_all,hủy bỏ mọi lệnh đầu tư
+cancel_all,hủy bỏ hết lệnh đầu tư
+cancel_all,hủy bỏ tất cả lệnh đầu tư
 cancel_all,tạm dừng tất cả lệnh
+cancel_all,tạm dừng tất cả các lệnh mua và bán
+cancel_all,tạm dừng tất cả các lệnh tôi vừa đặt
+cancel_all,tạm dừng tất cả các lệnh đã đặt
+cancel_all,tạm dừng tất cả lệnh của tôi
+cancel_all,tạm dừng tất cả các lệnh đặt mua
+cancel_all,tạm dừng tất cả các lệnh đặt bán
+cancel_all,tạm dừng tất cả lệnh tôi đặt bán và mua
 cancel_all,tạm dừng tất cả các lệnh khẩn trương
-cancel_all,tạm dừng tất cả các lệnh
+cancel_all,tạm dừng tất cả các lệnh mua và bán khẩn trương
+cancel_all,tạm dừng tất cả các lệnh tôi vừa đặt khẩn trương
+cancel_all,tạm dừng tất cả các lệnh đã đặt khẩn trương
+cancel_all,tạm dừng tất cả các lệnh tôi có
 cancel_all,tạm dừng tất cả
 cancel_all,tạm dừng tất cả khẩn trương
 cancel_all,tạm dừng khẩn trương
@@ -808,49 +968,103 @@ cancel_all,tạm dừng tất khẩn trương
 cancel_all,tạm dừng tất ngay
 cancel_all,tạm dừng tất luôn
 cancel_all,tạm dừng các lệnh khẩn trương
-cancel_all,tạm dừng các lệnh
+cancel_all,tạm dừng các lệnh vừa đặt
+cancel_all,tạm dừng các lệnh mới đặt
+cancel_all,tạm dừng các lệnh mua và bán
+cancel_all,tạm dừng các lệnh mua tôi mới đặt
+cancel_all,tạm dừng các lệnh bán tôi mới đặt
+cancel_all,tạm dừng đống lệnh mới đặt
 cancel_all,tạm dừng hết đống lệnh
-cancel_all,tạm dừng đống lệnh
+cancel_all,tạm dừng đống lệnh vừa đặt
 cancel_all,tạm dừng mọi lệnh
-cancel_all,tạm dừng mọi thứ
-cancel_all,tạm dừng hàng loạt các lệnh
+cancel_all,tạm dừng mọi lệnh của tôi
+cancel_all,tạm dừng mọi lệnh mua và bán của tôi ngay
+cancel_all,tạm dừng mọi lệnh mua và bán tôi mới đặt
+cancel_all,tạm dừng mọi thứ tôi vừa đặt
+cancel_all,tạm dừng hàng loạt các lệnh tôi vừa đặt
 cancel_all,tạm dừng tất thảy luôn
-cancel_all,tạm dừng tất thẩy các lệnh
+cancel_all,tạm dừng tất thẩy các lệnh vừa đặt
 cancel_all,tạm dừng toàn bộ
-cancel_all,tạm dừng toàn bộ các lệnh khẩn trương
-cancel_all,tạm dừng toàn bộ các lệnh
-cancel_all,tạm dừng toàn bộ khẩn trương
 cancel_all,tạm dừng toàn bộ lệnh
-cancel_all,tạm dừng mọi lệnh
-cancel_all,tạm dừng hết lệnh
-cancel_all,tạm dừng tất cả lệnh
-cancel_all,ngưng tất cả các lệnh
+cancel_all,tạm dừng toàn bộ lệnh mua ssi
+cancel_all,tạm dừng toàn bộ các lệnh mua và bán
+cancel_all,tạm dừng toàn bộ các lệnh tôi vừa đặt
+cancel_all,tạm dừng toàn bộ các lệnh đã đặt
+cancel_all,tạm dừng toàn bộ lệnh của tôi
+cancel_all,tạm dừng toàn bộ các lệnh đặt mua
+cancel_all,tạm dừng toàn bộ các lệnh đặt bán
+cancel_all,tạm dừng toàn bộ lệnh tôi đặt bán và mua
+cancel_all,tạm dừng toàn bộ các lệnh khẩn trương
+cancel_all,tạm dừng toàn bộ các lệnh mua và bán khẩn trương
+cancel_all,tạm dừng toàn bộ các lệnh tôi vừa đặt khẩn trương
+cancel_all,tạm dừng toàn bộ các lệnh đã đặt khẩn trương
+cancel_all,tạm dừng toàn bộ các lệnh tôi có
+cancel_all,tạm dừng toàn bộ khẩn trương
+cancel_all,tạm dừng toàn bộ lệnh đầu tư
+cancel_all,tạm dừng toàn bộ lệnh đầu tư vào mã ssi
+cancel_all,tạm dừng mọi lệnh đầu tư
+cancel_all,tạm dừng hết lệnh đầu tư
+cancel_all,tạm dừng tất cả lệnh đầu tư
 cancel_all,ngưng tất cả lệnh
+cancel_all,ngưng tất cả các lệnh mua và bán
+cancel_all,ngưng tất cả các lệnh tôi vừa đặt
+cancel_all,ngưng tất cả các lệnh đã đặt
+cancel_all,ngưng tất cả lệnh của tôi
+cancel_all,ngưng tất cả các lệnh đặt mua
+cancel_all,ngưng tất cả các lệnh đặt bán
+cancel_all,ngưng tất cả lệnh tôi đặt bán và mua
 cancel_all,ngưng tất cả các lệnh khẩn trương
-cancel_all,ngưng tất cả các lệnh
-cancel_all,ngưng tất cả các lệnh
+cancel_all,ngưng tất cả các lệnh mua và bán khẩn trương
+cancel_all,ngưng tất cả các lệnh tôi vừa đặt khẩn trương
+cancel_all,ngưng tất cả các lệnh đã đặt khẩn trương
+cancel_all,ngưng tất cả các lệnh tôi có
 cancel_all,ngưng tất cả
 cancel_all,ngưng tất cả khẩn trương
 cancel_all,ngưng khẩn trương
 cancel_all,ngưng tất
-cancel_all,ngưng tất lệnh
 cancel_all,ngưng tất khẩn trương
 cancel_all,ngưng tất ngay
 cancel_all,ngưng tất luôn
 cancel_all,ngưng các lệnh khẩn trương
-cancel_all,ngưng các lệnh
+cancel_all,ngưng các lệnh vừa đặt
+cancel_all,ngưng các lệnh mới đặt
+cancel_all,ngưng các lệnh mua và bán
+cancel_all,ngưng các lệnh mua tôi mới đặt
+cancel_all,ngưng các lệnh bán tôi mới đặt
+cancel_all,ngưng đống lệnh mới đặt
 cancel_all,ngưng hết đống lệnh
-cancel_all,ngưng đống lệnh
-cancel_all,ngưng mọi lệnh 
-cancel_all,ngưng mọi thứ
-cancel_all,ngưng hàng loạt các lệnh 
+cancel_all,ngưng đống lệnh vừa đặt
+cancel_all,ngưng mọi lệnh
+cancel_all,ngưng mọi lệnh của tôi
+cancel_all,ngưng mọi lệnh mua và bán của tôi ngay
+cancel_all,ngưng mọi lệnh mua và bán tôi mới đặt
+cancel_all,ngưng mọi thứ tôi vừa đặt
+cancel_all,ngưng hàng loạt các lệnh tôi vừa đặt
 cancel_all,ngưng tất thảy luôn
-cancel_all,ngưng tất thẩy các lệnh
+cancel_all,ngưng tất thẩy các lệnh vừa đặt
 cancel_all,ngưng toàn bộ
 cancel_all,ngưng toàn bộ lệnh
-cancel_all,ngưng mọi lệnh
-cancel_all,ngưng hết lệnh
-cancel_all,ngưng tất cả lệnh
+cancel_all,ngưng toàn bộ lệnh mua ssi
+cancel_all,ngưng toàn bộ các lệnh mua và bán
+cancel_all,ngưng toàn bộ các lệnh tôi vừa đặt
+cancel_all,ngưng toàn bộ các lệnh đã đặt
+cancel_all,ngưng toàn bộ lệnh của tôi
+cancel_all,ngưng toàn bộ các lệnh đặt mua
+cancel_all,ngưng toàn bộ các lệnh đặt bán
+cancel_all,ngưng toàn bộ lệnh tôi đặt bán và mua
+cancel_all,ngưng toàn bộ lệnh đầu tư
+cancel_all,ngưng toàn bộ các lệnh khẩn trương
+cancel_all,ngưng toàn bộ các lệnh đã đặt khẩn trương
+cancel_all,ngưng toàn bộ các lệnh vừa đặt khẩn trương
+cancel_all,ngưng toàn bộ các lệnh tôi có
+cancel_all,ngưng toàn bộ khẩn trương 
+cancel_all,ngưng toàn bộ lệnh đầu tư
+cancel_all,ngưng toàn bộ lệnh đầu tư vào ssi
+cancel_all,ngưng mọi lệnh đầu tư
+cancel_all,ngưng hết lệnh đầu tư
+cancel_all,ngưng tất cả lệnh đầu tư
+cancel,huỷ
+cancel,hủy giúp tôi với
 cancel,bỏ qua
 cancel,bỏ đi
 cancel,về lại chức năng chính
@@ -860,13 +1074,20 @@ cancel,quay lại chức năng chính
 cancel,quay về chức năng chính
 cancel,không đặt nữa
 cancel,không làm nữa
+cancel,hủy bỏ
+cancel,loại bỏ
+cancel,tạm dừng giao dịch
+cancel,tạm dừng lệnh giao dịch
 cancel,tạm dừng
-cancel,tạm dừng lệnh
+cancel,tạm dừng lệnh mua
+cancel,tạm dừng lệnh bán
 cancel,bỏ lệnh
 cancel,bỏ qua lệnh
 cancel,dừng chức năng này đi
 cancel,dừng khớp lệnh đi
 cancel,loại bỏ lệnh
+cancel,ngưng lại
+cancel,ngừng lại
 cancel,về trang chủ
 cancel,trở về trang chủ
 cancel,quay lại trang chủ
@@ -875,52 +1096,250 @@ cancel,trở lại trang chủ
 cancel,tới trang chủ
 cancel,trở về
 cancel,trở lại
+cancel,dừng đặt lệnh
+cancel,bỏ đặt lệnh
+cancel,dừng làm
 cancel,đừng làm
 cancel,quay trở lại
 cancel,quay trở lại trang chủ
 cancel,quay trở lại tính năng trước
 cancel,không khớp lệnh
+cancel,bỏ khớp lệnh
+cancel,hủy khớp lệnh
 cancel,về chức năng chính
 cancel,về chức năng hệ thống
 cancel,tới chức năng chính
 cancel,tới chức năng hệ thống
 cancel,đến chức năng chính
 cancel,đến chức năng hệ thống
-cancel,bỏ qua lệnh
-cancel,bỏ qua cái lệnh
-cancel,bỏ qua khớp lệnh
+cancel,dừng lại đi
+cancel,dừng ngay đi
+cancel,bỏ qua lệnh vừa đặt
+cancel,bỏ qua lệnh bán vừa đặt đi
+cancel,bỏ qua lệnh mua vừa đặt đi
+cancel,ngừng lệnh đặt mua đi
+cancel,ngừng lệnh đặt bán đi
+cancel,ngưng lệnh đặt mua đi
+cancel,ngưng lệnh đặt bán đi
+cancel,hủy lệnh mua
+cancel,hủy lệnh bán
+cancel,ngừng lệnh mua vừa đặt
+cancel,ngừng lệnh bán vừa đặt
+cancel,bỏ lệnh bán tôi mới đặt đi
+cancel,bỏ lệnh mua tôi mới đặt đi
 cancel,về lại ngay
+cancel,tôi muốn ngừng khớp lệnh
+cancel,tôi muốn dừng khớp lệnh mua tôi mới đặt
+cancel,tôi muốn dừng khớp lệnh bán tôi mới đặt
+cancel,tôi muốn ngừng khớp lệnh mua tôi mới đặt
+cancel,tôi muốn ngừng khớp lệnh bán tôi mới đặt
 cancel,hủy lệnh
-cancel,hủy đặt lệnh
-cancel,hủy cái lệnh
-cancel,hủy khớp lệnh
-cancel,bỏ lệnh
-cancel,bỏ đặt lệnh
-cancel,bỏ cái lệnh
-cancel,bỏ khớp lệnh
-cancel,hủy bỏ lệnh
-cancel,hủy bỏ đặt lệnh
-cancel,hủy bỏ cái lệnh
-cancel,hủy bỏ khớp lệnh
-cancel,ngừng khớp lệnh
-cancel,ngừng đặt lệnh 
-cancel,ngừng lại 
-cancel,ngừng lệnh
-cancel,ngừng cái lệnh
-cancel,dừng lệnh
-cancel,dừng đặt lệnh 
-cancel,dừng lại 
-cancel,dừng cái lệnh
-cancel,dừng khớp lệnh
-cancel,ngưng lệnh
-cancel,ngưng đặt lệnh 
-cancel,ngưng lại 
-cancel,ngưng cái lệnh
-cancel,ngưng khớp lệnh
-cancel,tạm dừng lệnh
-cancel,tạm dừng đặt lệnh
-cancel,tạm dừng cái lệnh
-cancel,tạm dừng khớp lệnh
+cancel,dừng khớp lệnh mua ssi
+cancel,hủy khớp lệnh mua ssi
+cancel,hủy bỏ khớp lệnh mua ssi
+cancel,hủy bỏ lệnh mua ssi giá 12.6
+cancel,hủy bỏ lệnh mua 100 ssi của tôi
+cancel,hủy bỏ lệnh mua 100 ssi của tôi hôm qua
+cancel,hủy lệnh đặt mua 100 ssi cho tôi 
+cancel,Tôi nhập nhầm lệnh nên hủy khớp lệnh tôi vừa đặt
+cancel,lệnh tôi đặt sai mức giá, hủy khớp lệnh tôi vừa đặt
+cancel,Tôi không muốn mua SSI nữa nên hủy lệnh mua SSI mà tôi vừa đặt
+cancel,dừng lệnh mua ssi lại vì tôi suy nghĩ nên mua mã abc tốt hơn
+cancel,viết sai chính tả nên hủy lệnh vừa mới đặt cho tôi
+cancel,hủy lệnh tôi mới đặt nhé
+cancel,ngừng lệnh mua
+cancel,ngừng lệnh bán cho tôi
+cancel,hủy bỏ lệnh mua đi
+cancel,hủy bỏ lệnh bán cho tôi
+cancel,hủy lênh tôi mới đặt
+cancel,hủy lệnh tôi vừa đặt 5 phút trước
+cancel,hủy cái lệnh mà tôi mới đặt
+cancel,hủy cái lệnh mà tôi vừa đặt
+cancel,hủy cái lệnh mà tôi vừa mới đặt 5 phút trước
+cancel,hủy lệnh tôi vừa đặt ý
+cancel,hủy lệnh đặt mua ssi
+cancel,hủy lệnh đặt bán ssi
+cancel,hủy cái lệnh mua ssi 
+cancel,hủy cái lệnh bán ssi
+cancel,hủy lệnh múc ssi 
+cancel,hủy lệnh xúc ssi 
+cancel,hủy lệnh bán tháo hàng 
+cancel,hủy lệnh bán tháo ssi của tôi
+cancel,cho tôi hủy lệnh đặt mua ssi vừa mới đặt
+cancel,cho tôi hủy lệnh đặt bán ssi vừa mới đặt
+cancel,cho tôi hủy cái lệnh đặt mua ssi
+cancel,cho tôi hủy cái lênh đặt bán ssi
+cancel,hủy lệnh mua ssi
+cancel,hủy lệnh bán ssi
+cancel,hủy lệnh đầu tư ssi đi
+cancel,hủy lệnh giao dịch tôi mới đặt đi
+cancel,hủy lệnh giao dịch mua ssi 
+cancel,hủy lệnh giao dịch bán ssi 
+cancel,hủy lệnh gom ssi
+cancel,hủy lệnh vừa mới đặt đi cái
+cancel,bỏ lênh tôi mới đặt
+cancel,bỏ lệnh tôi vừa đặt
+cancel,bỏ lệnh tôi đã đặt
+cancel,bỏ lệnh tôi vừa đặt 5 phút trước
+cancel,bỏ cái lệnh mà tôi mới đặt
+cancel,bỏ cái lệnh mà tôi vừa đặt
+cancel,bỏ cái lệnh mà tôi vừa mới đặt 5 phút trước
+cancel,bỏ lệnh tôi vừa đặt ý
+cancel,bỏ lệnh đặt mua ssi
+cancel,bỏ lệnh đặt bán ssi
+cancel,bỏ cái lệnh đặt mua ssi
+cancel,bỏ lệnh múc ssi 
+cancel,bỏ lệnh xúc ssi 
+cancel,bỏ lệnh bán tháo hàng 
+cancel,bỏ lệnh bán tháo ssi của tôi
+cancel,cho tôi bỏ lệnh đặt mua ssi vừa mới đặt
+cancel,cho tôi bỏ lệnh đặt bán ssi vừa mới đặt
+cancel,cho tôi bỏ cái lệnh đặt mua ssi
+cancel,cho tôi bỏ cái lênh đặt bán ssi
+cancel,bỏ lệnh mua ssi
+cancel,bỏ lệnh bán ssi
+cancel,bỏ lệnh đầu tư ssi đi
+cancel,bỏ lệnh giao dịch tôi mới đặt đi
+cancel,bỏ lệnh giao dịch mua ssi 
+cancel,bỏ lệnh giao dịch bán ssi 
+cancel,bỏ lệnh gom ssi
+cancel,bỏ lệnh vừa mới đặt đi cái
+cancel,hủy bỏ lênh tôi mới đặt
+cancel,hủy bỏ lệnh tôi vừa đặt 5 phút trước
+cancel,hủy bỏ cái lệnh mà tôi mới đặt
+cancel,hủy bỏ cái lệnh mà tôi vừa đặt
+cancel,hủy bỏ cái lệnh mà tôi vừa mới đặt 5 phút trước
+cancel,hủy bỏ lệnh tôi vừa đặt ý
+cancel,hủy bỏ lệnh đặt mua ssi
+cancel,hủy bỏ lệnh đặt bán ssi
+cancel,hủy bỏ cái lệnh đặt mua ssi
+cancel,hủy bỏ lệnh múc ssi 
+cancel,hủy bỏ lệnh xúc ssi 
+cancel,hủy bỏ lệnh bán tháo hàng 
+cancel,hủy bỏ lệnh bán tháo ssi của tôi
+cancel,cho tôi hủy bỏ lệnh đặt mua ssi vừa mới đặt
+cancel,cho tôi hủy bỏ lệnh đặt bán ssi vừa mới đặt
+cancel,cho tôi hủy bỏ cái lệnh đặt mua ssi
+cancel,cho tôi hủy bỏ cái lênh đặt bán ssi
+cancel,hủy bỏ lệnh mua ssi
+cancel,hủy bỏ lệnh bán ssi
+cancel,hủy bỏ lệnh đầu tư ssi đi
+cancel,hủy bỏ lệnh giao dịch tôi mới đặt đi
+cancel,hủy bỏ lệnh giao dịch mua ssi 
+cancel,hủy bỏ lệnh giao dịch bán ssi 
+cancel,hủy bỏ lệnh gom ssi
+cancel,hủy bỏ lệnh vừa mới đặt đi cái
+cancel,ngừng lênh tôi mới đặt
+cancel,ngừng lệnh tôi vừa đặt 5 phút trước
+cancel,ngừng cái lệnh mà tôi mới đặt
+cancel,ngừng cái lệnh mà tôi vừa đặt
+cancel,ngừng cái lệnh mà tôi vừa mới đặt 5 phút trước
+cancel,ngừng lệnh tôi vừa đặt ý
+cancel,ngừng lệnh đặt mua
+cancel,ngừng lệnh đặt bán
+cancel,ngừng cái lệnh đặt mua ssi
+cancel,ngừng lệnh múc ssi 
+cancel,ngừng lệnh xúc ssi 
+cancel,ngừng lệnh bán tháo hàng 
+cancel,ngừng lệnh bán tháo ssi của tôi
+cancel,cho tôi ngừng lệnh đặt mua ssi vừa mới đặt
+cancel,cho tôi ngừng lệnh đặt bán ssi vừa mới đặt
+cancel,cho tôi ngừng cái lệnh đặt mua ssi
+cancel,cho tôi ngừng cái lênh đặt bán ssi
+cancel,ngừng lệnh mua ssi
+cancel,ngừng lệnh bán ssi
+cancel,ngừng lệnh đầu tư ssi đi
+cancel,ngừng lệnh giao dịch tôi mới đặt đi
+cancel,ngừng lệnh giao dịch mua ssi 
+cancel,ngừng lệnh giao dịch bán ssi 
+cancel,ngừng lệnh múc ssi
+cancel,ngừng lệnh xúc ssi
+cancel,ngừng lệnh gom ssi
+cancel,ngừng lệnh vừa mới đặt đi cái
+cancel,dừng lênh tôi mới đặt
+cancel,dừng lệnh tôi vừa đặt 5 phút trước
+cancel,dừng cái lệnh mà tôi mới đặt
+cancel,dừng cái lệnh mà tôi vừa đặt
+cancel,dừng cái lệnh mà tôi vừa mới đặt 5 phút trước
+cancel,dừng lệnh tôi vừa đặt ý
+cancel,dừng lệnh đặt mua
+cancel,dừng lệnh đặt bán
+cancel,dừng cái lệnh đặt mua ssi
+cancel,dừng cái lệnh bán ssi
+cancel,dừng lệnh múc ssi 
+cancel,dừng lệnh xúc ssi 
+cancel,dừng lệnh bán tháo hàng 
+cancel,dừng lệnh bán tháo ssi của tôi
+cancel,cho tôi dừng lệnh đặt mua ssi vừa mới đặt
+cancel,cho tôi dừng lệnh đặt bán ssi vừa mới đặt
+cancel,cho tôi dừng cái lệnh đặt mua ssi
+cancel,cho tôi dừng cái lênh đặt bán ssi
+cancel,dừng lệnh mua ssi
+cancel,dừng lệnh bán ssi
+cancel,dừng lệnh đầu tư ssi đi
+cancel,dừng lệnh giao dịch tôi mới đặt đi
+cancel,dừng lệnh giao dịch mua ssi 
+cancel,dừng lệnh giao dịch bán ssi 
+cancel,dừng lệnh múc ssi
+cancel,dừng lệnh xúc ssi
+cancel,dừng lệnh gom ssi
+cancel,dừng lệnh vừa mới đặt đi cái
+cancel,ngưng lênh tôi mới đặt
+cancel,ngưng lệnh tôi vừa đặt 5 phút trước
+cancel,ngưng cái lệnh mà tôi mới đặt
+cancel,ngưng cái lệnh mà tôi vừa đặt
+cancel,ngưng cái lệnh mà tôi vừa mới đặt 5 phút trước
+cancel,ngưng lệnh tôi vừa đặt ý
+cancel,ngưng lệnh đặt mua ssi
+cancel,ngưng lệnh đặt bán ssi
+cancel,ngưng cái lệnh đặt mua ssi
+cancel,ngưng cái lệnh mua ssi
+cancel,ngưng lệnh múc ssi 
+cancel,ngưng lệnh xúc ssi 
+cancel,ngưng lệnh bán tháo hàng 
+cancel,ngưng lệnh bán tháo ssi của tôi
+cancel,cho tôi ngưng lệnh đặt mua ssi vừa mới đặt
+cancel,cho tôi ngưng lệnh đặt bán ssi vừa mới đặt
+cancel,cho tôi ngưng cái lệnh đặt mua ssi
+cancel,cho tôi ngưng cái lênh đặt bán ssi
+cancel,ngưng lệnh mua ssi
+cancel,ngưng lệnh bán ssi
+cancel,ngưng lệnh đầu tư ssi đi
+cancel,ngưng lệnh giao dịch tôi mới đặt đi
+cancel,ngưng lệnh giao dịch mua ssi 
+cancel,ngưng lệnh giao dịch bán ssi 
+cancel,ngưng lệnh múc ssi
+cancel,ngưng lệnh xúc ssi
+cancel,ngưng lệnh gom ssi
+cancel,ngưng lệnh vừa mới đặt đi cái
+cancel,tạm dừng lênh tôi mới đặt
+cancel,tạm dừng lệnh tôi vừa đặt 5 phút trước
+cancel,tạm dừng cái lệnh mà tôi mới đặt
+cancel,tạm dừng cái lệnh mà tôi vừa đặt
+cancel,tạm dừng cái lệnh mà tôi vừa mới đặt 5 phút trước
+cancel,tạm dừng lệnh tôi vừa đặt ý
+cancel,tạm dừng lệnh đặt mua ssi
+cancel,tạm dừng lệnh đặt bán ssi
+cancel,tạm dừng cái lệnh đặt mua ssi
+cancel,tạm dừng cái lệnh đặt bán ssi
+cancel,tạm dừng lệnh múc ssi 
+cancel,tạm dừng lệnh xúc ssi 
+cancel,tạm dừng lệnh bán tháo hàng 
+cancel,tạm dừng lệnh bán tháo ssi của tôi
+cancel,cho tôi tạm dừng lệnh đặt mua ssi vừa mới đặt
+cancel,cho tôi tạm dừng lệnh đặt bán ssi vừa mới đặt
+cancel,cho tôi tạm dừng cái lệnh đặt mua ssi
+cancel,cho tôi tạm dừng cái lênh đặt bán ssi
+cancel,tạm dừng lệnh mua ssi
+cancel,tạm dừng lệnh bán ssi
+cancel,tạm dừng lệnh đầu tư ssi đi
+cancel,tạm dừng lệnh giao dịch tôi mới đặt đi
+cancel,tạm dừng lệnh giao dịch mua ssi 
+cancel,tạm dừng lệnh giao dịch bán ssi 
+cancel,tạm dừng lệnh múc ssi
+cancel,tạm dừng lệnh xúc ssi
+cancel,tạm dừng lệnh gom ssi
+cancel,tạm dừng lệnh vừa mới đặt đi cái 
 end,kết thúc chương trình
 end,kết thúc app
 end,kết thúc đi
@@ -1059,6 +1478,12 @@ look,trông được không?
 look,trông ổn không?
 look,nhìn trông thế nào
 look,xem có xinh không?
+market,xin thông tin về thị trường cái nào?
+market,thị trường đang mua bán thế nào?
+market,tình hình mua bán hôm nay thế nào?
+market,giá ssi đang thế nào?
+market,giá ssi đang lên hay xuống
+market,giá ssi có biến động nhiều không
 market,thị trường hôm nay thế nào rồi
 market,thị trường thế nào
 market,thị trường hiện đang thế nào
@@ -1259,6 +1684,9 @@ market,cập nhật thông tin mã chứng khoán SSI hôm nay
 market,cập nhật thông tin giao dịch của cổ phiếu SSI hôm nay
 market,thông tin chung về cổ phiếu SSI
 market,thông tin mã SSI tổng quan
+market,thông tin thị trường 
+market,thông tin chung về thị trường 
+market,thông tin tổng quát thị trường hôm nay
 market,tin tức cổ phiếu SSI hôm nay
 market,tin nhanh về mã SSI
 market,xem giá khớp lệnh của cổ phiếu SSI
@@ -1287,6 +1715,18 @@ market,mã nào thanh khoản đang cao nhất nhỉ?
 market,tình hình ssi thế nào rồi?
 market,biến động thị trường
 market,tình trạng thị trường hiện nay
+market,giá ssi đang lên hay xuống
+market,thị trường đang mua bán thế nào?
+order_status,lệnh tôi mới đặt thế nào rồi
+order_status,lệnh vừa đặt của tôi thế nào rôi?
+order_status,lệnh bán của tôi hợp lệ không?
+order_status,lệnh mua của tôi hợp lệ không?
+order_status,lệnh của tôi hợp lệ không?
+order_status,lệnh đặt mua của tôi thế nào rồi?
+order_status,lệnh đặt mua ssi của tôi thế nào rồi?
+order_status,cái lệnh đặt mua ssi của tôi thế nào rồi?
+order_status,lệnh mua của tôi thế nào rồi?
+order_status,giao dịch mua ssi của tôi thế nào rồi
 order_status,lệnh đặt mua ssi đã được khớp chưa?
 order_status,lệnh mua đã được khớp chưa?
 order_status,lệnh mua mới nhất đã được khớp chưa 
@@ -1328,9 +1768,9 @@ order_status,lệnh về mã SSI đang giao dịch
 order_status,xem lệnh cổ phiếu SSI đang giao dịch
 order_status,lệnh cổ phiếu SSI đang chờ giao dịch
 order_status,xem lệnh mã SSI đang chờ giao dịch
-order_status,lệnh về cổ phiếu SSI bị hủy
-order_status,xem lệnh mã SSI bị hủy
-order_status,lệnh mã SSI không hợp lệ
+order_status,lệnh mua cổ phiếu SSI có bị hủy không
+order_status,xem lệnh mã SSI bị hủy không?
+order_status,lệnh mã SSI có hợp lệ không?
 order_status,xem lệnh về cổ phiếu SSI không hợp lệ
 order_status,xem lệnh về mã SSI đang chờ
 order_status,lệnh mã SSI đang chờ
@@ -1411,6 +1851,8 @@ order_status,xem trạng thái khớp lệnh
 order_status,lệnh mua ssi của tôi đã được khớp chưa?
 order_status,lệnh mua đã được khớp chưa?
 order_status,lệnh bán đã được thực thi chưa?
+order_status,lệnh mua tôi mới đặt hợp lệ chứ?
+order_status,lệnh bán tôi mới đặt hợp lệ chứ?
 ratio_status,trạng thái tài khoản
 ratio_status,trạng thái tài khoản của tôi
 ratio_status,trạng thái tài khoản như nào?
@@ -1464,6 +1906,8 @@ ratio_status,tỷ lệ margin đang thế nào
 ratio_status,tỷ lệ tài khoản của tôi là bao nhiêu
 ratio_status,trạng thái tk có ổn định không?
 cash_balance,kiểm tra số tiền còn lại
+cash_balance,kiểm tra số dư tiền 
+cash_balance,kiểm tra số dư tiền tk đuôi 1
 cash_balance,tôi còn nhiều tiền không?
 cash_balance,tài khoản đuôi 1 của tôi còn bao nhiêu tiền?
 cash_balance,tôi còn bao nhiêu tiền
@@ -1473,7 +1917,7 @@ cash_balance,trạng thái tiền
 cash_balance,tình trạng tiền
 cash_balance,số tiền của tôi
 cash_balance,tiền tôi
-cash_balance,xem tiền
+cash_balance,xem tiềns
 cash_balance,check tiền
 cash_balance,tiền như nào?
 cash_balance,tiền nong
@@ -1516,7 +1960,7 @@ cash_balance,số dư tiền các tài khoản
 cash_balance,thông tin tiền của tài khoản đuôi 1
 cash_balance,trạng thái tiền của tài khoản đuôi 1
 cash_balance,số tiền hiện có
-cash_balance,số dư hiện có
+cash_balance,số dư tiền hiện có
 cash_balance,dữ liệu tiền của tài khoản
 cash_balance,xem thông tin tiền trong tài khoản
 cash_balance,xem tình trạng tiền trong tài khoản
@@ -1663,20 +2107,10 @@ cash_balance,check số tiền dư của tôi trong tài khoản
 cash_balance,check số tiền tôi có trong tài khoản
 cash_balance,check tổng số tiền của tôi
 cash_balance,check tổng số tiền dư tôi có
-cash_balance,check tổng số tiền tôi sở hữu
-cash_balance,check tổng tiền dư tôi nắm giữ
-cash_balance,check số tiền tôi sở hữu
-cash_balance,check dư tiền tôi sở hữu
-cash_balance,check số tiền tôi nắm giữ
-cash_balance,check số dư tiền tôi nắm giữ
-cash_balance,check tổng số tiền dư tôi nắm giữ
-cash_balance,check xem số dư tiền tôi sở hữu trong tài khoản của tôi
-cash_balance,check xem số tiền dư tôi nắm giữ trong tài khoản
+cash_balance,check tổng số tiền tôi còn
+cash_balance,check tổng tiền dư tôi còn
+cash_balance,check số tiền tôi có
+cash_balance,check số dư tiền tôi còn
+cash_balance,check tổng số tiền dư tôi còn
 cash_balance,check xem tài khoản của tôi có bao nhiêu tiền
-cash_balance,check xem tài khoản của tôi còn bao nhiêu tiền còn dư
-cash_balance,check xem tài khoản của tôi sở hữu bao nhiêu tiền còn dư
-cash_balance,check xem tài khoản của tôi nắm giữ bao nhiêu tiền
-cash_balance,check xem tài khoản của tôi có bao nhiêu số dư tiền
-cash_balance,check xem tài khoản của tôi sở hữu bao nhiêu số dư tiền
-cash_balance,check xem tài khoản của tôi sở hữu bao nhiêu tiền 
 cash_balance,check xem tài khoản của tôi còn bao nhiêu tiền dư 
