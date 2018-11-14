@@ -98,10 +98,12 @@ def finTokenizer(text):
     # print("preprocessing done")
     real_word = np.asarray(real_word)
     # print (real_word)
+    tf.reset_default_graph()
     with tf.Session() as sess:
         tf.saved_model.loader.load(sess, ["tag"] ,export_dir = file_to_save_model)
         # Access and create placeholders variables and
         graph = tf.get_default_graph()
+        [n.name for n in graph.as_graph_def().node]
         x = graph.get_tensor_by_name("sentence_one_hot:0")
         y_label = graph.get_tensor_by_name("y_label:0") 
         prediction = graph.get_tensor_by_name("outputs/Softmax:0")

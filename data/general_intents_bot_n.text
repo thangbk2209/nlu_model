@@ -1,0 +1,252 @@
+end,thoát
+end,thoat
+end,chấm dứt
+end,cham dut
+end,tạm biệt
+end,tam biet
+end,bye bye
+end,kết thúc
+end,ket thuc
+end,gặp lại sau
+end,gap lai sau
+end,mai nói chuyện sau
+end,mai noi chuyen sau
+end,mai gặp lại
+end,mai gap lai
+end,hẹn lúc khác nhé
+end,hen luc khac nhe
+end,hẹn gặp sau nhé
+end,hen gap sau nhe
+end,chào tạm biệt
+end,chao tam biet
+end,phải đi đây
+end,phai di day
+cancel,huỷ
+cancel,huy
+cancel,thôi
+cancel,thoi
+cancel,bỏ qua
+cancel,bo qua
+cancel,bỏ đi
+cancel,bo di
+cancel,về lại
+cancel,ve lai
+cancel,chức năng chính
+cancel,chuc nang chinh
+cancel,chức năng hệ thống
+cancel,chuc nang he thong
+cancel,trợ giúp
+cancel,tro giup
+cancel,help
+cancel,làm được gì
+cancel,lam duoc gi
+cancel,làm gì bây giờ
+cancel,lam gi bay gio
+cancel,quay lại
+cancel,quay lai
+cancel,quay về
+cancel,quay ve
+cancel,không đặt nữa
+cancel,khong dat nua
+cancel,không làm nữa
+cancel,khong lam nua
+cash_balance,trạng thái tiền
+cash_balance,trang thai tien
+cash_balance,tình trạng tiền
+cash_balance,tinh trang tien
+cash_balance,tiền
+cash_balance,tien
+cash_balance,xem tiền
+cash_balance,xem tien
+cash_balance,tiền nong
+cash_balance,tien nong
+cash_balance,hầu bao
+cash_balance,hau bao
+cash_balance,tài khoản
+cash_balance,tai khoan
+cash_balance,số dư tiền
+cash_balance,so du tien
+cash_balance,số dư tài khoản tiền
+cash_balance,so du tai khoan tien
+cash_balance,tài khoản đuôi 1 có bao tiền
+cash_balance,tài khoản đuôi 6 có bao nhiêu
+cash_balance,số dư đuôi 1 ra sao
+cash_balance,số dư đuôi 6 ra sao
+cash_balance,bao nhiêu tiền
+cash_balance,bao nhieu tien
+cash_balance,số tiền hiện tại
+cash_balance,so tien hien tai
+cash_balance,tiền thế nào
+cash_balance,tien the nao
+stock_balance,số dư chứng khoán
+stock_balance,so du chung khoan
+stock_balance,danh mục ra sao
+stock_balance,danh muc ra sao
+stock_balance,tài khoản đuôi 1 có bao chứng khoán
+stock_balance,tài khoản đuôi 6 có bao chứng khoán
+stock_balance,danh mục đầu tư
+stock_balance,danh muc dau tu
+stock_balance,có bao nhiêu chứng khoán
+stock_balance,co bao nhieu chung khoan
+stock_balance,tình trạng chứng khoán
+stock_balance,tinh trang chung khoan
+stock_balance,tình trạng danh mục
+stock_balance,tinh trang danh muc
+stock_balance,tình trạng đầu tư
+stock_balance,tinh trang dau tu
+stock_balance,trạng thái chứng khoán
+stock_balance,trang thai chung khoan
+stock_balance,trạng thái danh mục
+stock_balance,trang thai danh muc
+stock_balance,trạng thái đầu tư
+stock_balance,trang thai dau tu
+order_status,trạng thái lệnh
+order_status,trang thai lenh
+order_status,trạng thái lệnh thế nào rồi
+order_status,trang thai lenh the nao roi
+order_status,lệnh đặt thế nào rồi
+order_status,lenh dat the nao roi
+order_status,lệnh của tôi khớp chưa
+order_status,lenh cua toi khop chua
+order_status,tình trạng lệnh
+order_status,tinh trang lenh
+order_status,lệnh ra sao
+order_status,lenh ra sao
+trade,mua mã chứng khoán
+trade,mua ma chung khoan
+trade,mua con
+trade,mua con
+trade,bán con
+trade,ban con
+trade,đặt lệnh mua
+trade,dat lenh mua
+trade,tôi muốn mua mã chứng khoán với khối lượng và giá
+trade,toi muon mua ma chung khoan voi khoi luong va gia
+trade,mua mã giá khối lượng
+trade,mua ma gia khoi luong
+trade,mua vào
+trade,mua vao
+trade,đầu tư vào
+trade,dau tu vao
+trade,mua thêm
+trade,mua them
+trade,gom vào
+trade,gom vao
+trade,gom thêm
+trade,gom them
+trade,bán mã chứng khoán
+trade,ban ma chung khoan
+trade,đặt lệnh bán
+trade,dat lenh ban
+trade,bán ra
+trade,ban ra
+trade,thoát hàng
+trade,thoat hang
+trade,xả ra
+trade,xa ra
+trade,tôi muốn bán mã chứng khoán khối lương và giá
+trade,toi muon ban ma chung khoan khoi luong va gia
+trade,tôi muốn giao dịch
+trade,toi muon giao dich
+trade,mua cổ phiếu giá thị trường
+trade,mua co phieu gia thi truong
+trade,bán cổ phiếu giá thị trường
+trade,ban co phieu gia thi truong
+market,thị trường thế nào
+market,thi truong the nao
+market,lên xuống thế nào
+market,len xuong the nao
+market,thị trường biến động ra sao
+market,thi truong bien dong ra sao
+market,diễn biến ra sao
+market,dien bien ra sao
+market,biến động thế nào
+market,bien dong the nao
+market,tổng quan thị trường
+market,tong quan thi truong
+market,tổng quan thị trường chứng khoán
+market,tong quan thi truong chung khoan
+market,thông tin thị trường
+market,thong tin thi truong
+market,thông tin giao dịch
+market,thong tin giao dich
+market,đang giao dịch thế nào
+market,dang giao dich the nao
+market,hiện đang ra sao
+market,hien dang ra sao
+market,mã chứng khoán
+market,ma chung khoan
+advice,có nên mua bán không
+advice,co nen mua ban khong
+advice,mã được không
+advice,ma duoc khong
+advice,có nên bán
+advice,co nen ban
+advice,khuyến nghị
+advice,khuyen nghi
+advice,khuyên thế nào
+advice,khuyen the nao
+advice,nhận định
+advice,nhan dinh
+advice,mua giá bao nhiêu hợp lý
+advice,mua gia bao nhieu hop ly
+advice,bán giá bao nhiêu hợp lý
+advice,ban gia bao nhieu hop ly
+advice,vào bây giờ có nên không
+advice,vao bay gio co nen khong
+advice,sóng sánh
+advice,song sanh ra sao
+advice,đánh đấm
+advice,danh dam
+advice,tư vấn cho tôi
+advice,tu van cho toi
+advice,tư vấn thị trường
+advice,tu van thi truong
+advice,tư vấn
+advice,tu van
+name,tên là gì
+name,ten la gi
+name,gọi thế nào
+name,goi the nao
+name,xưng hô ra sao
+name,xung ho ra sao
+name,gọi là gì
+name,goi la gi
+name,gọi em ra sao
+name,goi em ra sao
+name,là người hay là máy
+name,la nguoi hay la may
+look,trông thế nào
+look,trong the nao
+look,có xinh không
+look,co xinh khong
+look,có đẹp không
+look,co dep khong
+look,có da có thịt không nhỉ
+look,co da co thit khong nhi
+look,xấu hay đẹp
+look,xau hay dep
+ratio_status,trạng thái tài khoản
+ratio_status,trang thai tai khoan
+ratio_status,tỷ lệ tài khoản
+ratio_status,ty le tai khoan
+ratio_status,trạng thái tk
+ratio_status,trang thai tk
+ratio_status,tỷ lệ tk
+ratio_status,ty le tk
+ratio_status,tài khoản đang có trạng thái thế nào
+ratio_status,tai khoan dang co trang thai the nao
+ratio_status,tài khoản tỷ lệ ra sao
+ratio_status,tai khoan ty le ra sao
+cancel_all,hủy tất cả lệnh
+cancel_all,huy tat ca lenh
+cancel_all,hủy tất
+cancel_all,huy tat
+cancel_all,hủy khẩn trương
+cancel_all,huy khan truong
+cancel_all,hủy toàn bộ
+cancel_all,huy toan bo
+cancel_all,có gì hủy tất
+cancel_all,co gi huy tat
+cancel_all,huỷ hết lệnh
+cancel_all,huy het lenh

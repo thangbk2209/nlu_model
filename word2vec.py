@@ -8,38 +8,40 @@ from tokenizer import *
 import matplotlib.pyplot as plt
 import math
 import pickle as pk
-# sentences = ["tôi muốn mua 100 cổ phiếu ssi giá 12.4."]
-# all_tokens = finTokenizer(sentences[0])
-# print (all_tokens)
-corpus_file = './data/corpus.txt'
 from text_classifier.data_cleaner import DataCleaner
-with open(corpus_file, encoding="utf-8") as f:
-    corpus = f.read().lower()
-    print("----------------------------------CORPUS----")
-sentences = sent_tokenize(corpus)
-number_of_sentences = len(sentences)
-print (len(sentences))
-print ('start preprocessing data')
-# lol
-tokenized_corpus = []
-print ('start tokenize word using FinTokenizer')
+
+# define constant
 number_of_words = 0
 interval = 1500
+corpus_file = './data/corpus.txt'
+version = 1
+tf_file = './term_frequency/tf_ver' + str(version) + '.pkl'
+dict_file = './dictionary/dict_ver' + str(version) + '.dict'
+w2v_file = './word_vector/word2vec_ver' + str(version) + '.model'
+with open(corpus_file, encoding="utf-8") as f:
+    corpus = f.read().lower()
+sentences = sent_tokenize(corpus)
+number_of_sentences = len(sentences)
+
+tokenized_corpus = []
+print ('start tokenize word using FinTokenizer')
+
 number_of_interval = math.ceil (number_of_sentences/interval)
 print (number_of_interval)
-# lol
 for i in range(number_of_interval):
     texts = sentences[i * interval: (i+1)*interval]
-    # print (texts)
     words = tokenize_corpus(texts)
-    # print (words.shape)
     for i in range(len(words)):
         tokenized_corpus.append(words[i])
 tokenized_corpus = np.asarray(tokenized_corpus)
-print (tokenized_corpus[0:10])
+
 DataCleaner = DataCleaner(tokenized_corpus)
 corpus = DataCleaner.clean()
 corpus = np.asarray(corpus)
+
+
+# create dictionary with key is word and value is term frequency
+print ('-------------create evaluate tf----------------')
 my_dictionary = []
 number_times = []
 tf_arr = []
@@ -53,35 +55,26 @@ for sentence in corpus:
             my_dictionary.append(word)
             number_times.append(1)
 
-print (my_dictionary)
 for num in number_times:
     tf_arr.append(num/t)
 tf_arr = np.asarray(tf_arr)
 min_tf = np.min(tf_arr)
-print (min_tf)
-# for i,word in enumerate(my_dictionary):
-#     if(DataCleaner.is_stop_word(word)):
-#         tf_arr[i] = min_tf
 dicts = dict((key, value) for (key, value) in zip(my_dictionary, tf_arr))
-# plt.hist(tf_arr, bins='auto') 
-# plt.show()
-# print (dicts)
-with open('tf_dicts.pkl','wb') as output:
+with open(tf_file,'wb') as output:
     pk.dump(dicts,output,pk.HIGHEST_PROTOCOL)
-# print ('create dictionary')
-# dictionary = corpora.Dictionary(corpus)
+print ('-------------evaluate tf done----------------')
+# using fastext to create dictionary and word representation 
+print ('-------------start using fastect to learn vector representation of word-------------------')
 
-# dictionary.save('texts.dict') # store the dictionary, for future
-# print (len(dictionary.token2id))
-# print ('finish preprocessing data')
-# print ('start training word2vec model using fastText')
-# model = FastText(corpus, size = 50, min_count = 1, window = 2, sg = 1, hs = 0, iter = 10)
-# fname = get_tmpfile("word2vec_ver7.model")
-# model.save(fname)
-# print ('finish train word2vec model')
-# print ('start test word2vec')
-# model = FastText.load(fname)
-# existent_word = "đầu_tiên"
-# # existent_word in model.wv.vocab
-# vec = model.wv[existent_word]
-# print (vec)
+
+dictionary = corpora.Dictionary(corpus)
+
+dictionary.save(dict_file) # store the dictionary, for future
+model = FastText(corpus, size = 50, min_count = 1, window = 2, sg = 1, hs = 0, iter = 10)
+model.save(w2v_file)
+model = FastText.load(w2v_file)
+existent_word = "đầu_tiên"
+print ('we have: ', len(dictionary) ,' words in dictionary')
+print ('test vector with word : đầu tiên---')
+vec = model.wv[existent_word]
+print (vec)

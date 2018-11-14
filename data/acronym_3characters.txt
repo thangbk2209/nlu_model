@@ -61,3 +61,5 @@ vn,việt_nam
 cty,công_ty
 tp,thành_phố
 cp,cổ_phiếu
+ttckps,thị_trường chứng_khoán phái_sinh
+klgd,khối_lượng giao_dịch
