@@ -4,7 +4,7 @@ from pyvi import ViTokenizer, ViPosTagger
 from gensim import corpora, models, similarities
 from gensim.models import FastText
 from gensim.test.utils import get_tmpfile
-from tokenizer import *
+from text_classifier.tokenizer import *
 import matplotlib.pyplot as plt
 import math
 import pickle as pk
@@ -14,7 +14,7 @@ from text_classifier.data_cleaner import DataCleaner
 number_of_words = 0
 interval = 1500
 corpus_file = './data/corpus.txt'
-version = 1
+version = 10
 tf_file = './term_frequency/tf_ver' + str(version) + '.pkl'
 dict_file = './dictionary/dict_ver' + str(version) + '.dict'
 w2v_file = './word_vector/word2vec_ver' + str(version) + '.model'
@@ -70,11 +70,14 @@ print ('-------------start using fastect to learn vector representation of word-
 dictionary = corpora.Dictionary(corpus)
 
 dictionary.save(dict_file) # store the dictionary, for future
-model = FastText(corpus, size = 50, min_count = 1, window = 2, sg = 1, hs = 0, iter = 10)
+model = FastText(corpus, size = 50, min_count = 1, window = 2, sg = 0, hs = 1, iter = 10)
 model.save(w2v_file)
 model = FastText.load(w2v_file)
-existent_word = "đầu_tiên"
-print ('we have: ', len(dictionary) ,' words in dictionary')
+existent_words = ["đi","cổ phiếu", "mua", "xem","nhỉ","nào","ssi","tên"]
+# print ('we have: ', len(dictionary) ,' words in dictionary')
 print ('test vector with word : đầu tiên---')
-vec = model.wv[existent_word]
-print (vec)
+
+# vec = model.wv[existent_word]
+for existent_word in existent_words:    
+    similar_words = model.wv.most_similar(existent_word)
+    print (existent_word,similar_words)

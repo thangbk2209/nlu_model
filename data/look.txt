@@ -1,0 +1,30 @@
+look,trông thế nào
+look,trông có xinh không?
+look,trông có đẹp không?
+look,có xinh không
+look,có đẹp không
+look,có da có thịt không nhỉ
+look,xấu hay đẹp
+look,nhìn xấu hay đẹp?
+look,nhìn thế nào
+look,xinh không
+look,đẹp không
+look,nhìn hay không?
+look,có nhìn được mắt không?
+look,nhìn có hợp mắt không?
+look,trông hợp mắt không?
+look,nhìn ưng không?
+look,trông ưng không?
+look,nhìn ưng chưa?
+look,nhìn ổn không?
+look,trông như nào?
+look,trông đẹp không?
+look,có đẹp hay không?
+look,xinh hay xấu?
+look,trông hay không nhỉ?
+look,đẹp hay xấu
+look,nhìn đẹp không?
+look,trông được không?
+look,trông ổn không?
+look,nhìn trông thế nào
+look,xem có xinh không?

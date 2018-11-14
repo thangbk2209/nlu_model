@@ -198,7 +198,6 @@ chuyển_tự
 chuyển_đạt
 chành_chạnh
 chí_chết
-chính
 chính_bản
 chính_giữa
 chính_là
@@ -262,7 +261,6 @@ chợt
 chợt_nghe
 chợt_nhìn
 chủn
-chứ
 chứ_ai
 chứ_còn
 chứ_gì
@@ -286,7 +284,6 @@ cuộc
 càng_càng
 càng_hay
 cá_nhân
-các
 các_cậu
 cách
 cách_bức
@@ -328,7 +325,6 @@ có_điều
 có_điều_kiện
 có_đáng
 có_đâu
-có_được
 cóc_khô
 cô_mình
 cô_quả
@@ -441,6 +437,7 @@ dễ_đâu
 dở_chừng
 dữ
 dữ_cách
+đê
 đêm
 em
 em_em
@@ -461,9 +458,7 @@ gây_cho
 gây_giống
 gây_ra
 gây_thêm
-gì
 gì_gì
-gì_đó
 giúp
 gần
 gần_bên
@@ -555,7 +550,6 @@ loại_từ
 luôn
 luôn_cả
 luôn_tay
-là
 là_cùng
 là_là
 là_nhiều
@@ -637,10 +631,8 @@ lần_lần
 lần_sang
 lần_theo
 lần_tìm
-lớn
 lớn_lên
 lớn_nhỏ
-lời
 lời_chú
 lời_nói
 mang
@@ -659,7 +651,6 @@ mình
 mạnh
 mất
 mất_còn
-mọi
 mọi_giờ
 mọi_khi
 mọi_lúc
@@ -752,7 +743,6 @@ ngôi_thứ
 ngõ_hầu
 ngăn_ngắt
 ngươi
-người
 người_hỏi
 người_khác
 người_khách
@@ -788,7 +778,6 @@ nhà_tôi
 nhà_việc
 nhân_dịp
 nhìn_theo
-nhìn_thấy
 nhìn_xuống
 nhón_nhén
 như_ai
@@ -833,7 +822,6 @@ nhằm_lúc
 nhằm_vào
 nhằm_để
 nhỉ
-nhỏ
 nhỏ_người
 nhớ
 nhớ_bập_bõm
@@ -956,8 +944,6 @@ phải_người
 phải_như
 phải_rồi
 phải_tay
-phần
-phần_lớn
 phần_nhiều
 phần_nào
 phần_sau
@@ -1086,7 +1072,6 @@ sắp_đặt
 sẽ
 sẽ_biết
 sẽ_hay
-số
 số_cho_biết
 số_cụ_thể
 số_loại
@@ -1179,11 +1164,9 @@ thường_xuất_hiện
 thường_đến
 thảo_hèn
 thảo_nào
-thấp
 thấp_cơ
 thấp_thỏm
 thấp_xuống
-thấy
 thấy_tháng
 thẩy
 thậm
@@ -1303,7 +1286,6 @@ tuổi
 tuổi_cả
 tuổi_tôi
 tà_tà
-tên
 tên_chính
 tên_cái
 tên_họ
@@ -1476,12 +1458,10 @@ với_lại
 với_nhau
 vở
 vụt
-vừa
 vừa_khi
 vừa_lúc
 vừa_mới
 vừa_rồi
-vừa_vừa
 xa
 xa_cách
 xa_gần
@@ -1574,6 +1554,7 @@ xệp
 ăn_về
 đang_tay
 đang_thì
+đi
 điều
 điều_gì
 điều_kiện
@@ -1736,6 +1717,23 @@ xệp
 ừ_ào
 ừ_ừ
 ử
+nhé
+nha
+nhớ
+hôm_nay
+hôm_qua
+ngày_mai
+kia
+này
+con
+của
+ra_sao
+cái
+bot
+phát
+cô
+cậu
+cho
 """.split('\n'))
     """
     This function check a word is stop word or not!!!
@@ -1789,24 +1787,25 @@ xệp
             for j in range(len(self.data[i])):
                 if (self.data[i][j] in special_character):
                     continue
-                # elif(self.is_stop_word(self.data[i][j])):
-                #     continue
+                elif(self.is_stop_word(self.data[i][j])):
+                    continue
                 elif(self.hasNumbers(self.data[i][j])):
                     fixed_sentence.append(number_replace)
                     continue
+                elif(self.data[i][j] in symbol_arr):
+                    fixed_sentence.append('ssi')
                 elif(self.data[i][j] in acronym3_arr):
                     words = fullword3_arr[acronym3_arr.index(self.data[i][j])].split(' ')
                     # lol
                     for word in words:
                         fixed_sentence.append(word)
                     continue
-                elif(self.data[i][j] in symbol_arr):
-                    fixed_sentence.append('ssi')
+                
                 else:
                     fixed_sentence.append(self.data[i][j])
             # print(fixed_sentence)
             all_sentence.append(fixed_sentence)
-        all_sentence = np.array(all_sentence)
+        # all_sentence = np.array(all_sentence)
         return all_sentence
     
     """

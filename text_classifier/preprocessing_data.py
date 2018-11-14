@@ -25,7 +25,7 @@ class PreprocessingDataClassifier:
         model = FastText.load(self.wv_file)
         texts = []
         intents_data = [] # danh sách intents trong bộ dữ liệu
-        intents_official = ['end', 'trade', 'cash_balance', 'advice', 'order_status', 'stock_balance', 'market', 'cancel']
+        intents_official = ['end', 'trade', 'cash_balance', 'advice', 'order_status', 'stock_balance', 'market', 'cancel','ratio_status','look','name','cancel_all']
         sentences = {}
         with open(self.file_data_classifier, encoding="utf8") as input:
             for line in input :
@@ -50,6 +50,7 @@ class PreprocessingDataClassifier:
         
         x_train = []
         y_train = []
+        x_train = np.asarray(x_train)
         all_sentences = []
         for index,intent in enumerate(intents_filter):
             intent2int[intent] = np.int16(index)
@@ -58,19 +59,32 @@ class PreprocessingDataClassifier:
         data_cleaner = DataCleaner(all_sentences_word)
         all_sentences_word = data_cleaner.clean()
         for i, all_words in enumerate(all_sentences_word):
+            print (all_words)
             data_x_raw = []
             for word in all_words:
                 print ("word",word)
                 data_x_raw.append(model.wv[word])
-            for k in range(self.input_size - len(data_x_raw)):
-                padding = np.zeros(self.embedding_dim,dtype = np.int8)
-                data_x_raw.append(padding)
-            data_x_original = data_x_raw
+            # for k in range(self.input_size - len(data_x_raw)):
+            #     padding = np.zeros(self.embedding_dim)
+            #     data_x_raw.append(padding)
+            data_x_original = np.asarray(data_x_raw)
+            print (data_x_original.shape)
+            data_x_original = np.average(data_x_original,axis = 0)
             label = to_one_hot(intent2int[intents[i]], intents_size)
-
-            x_train.append(data_x_original)
-            y_train.append(label)
+            print (data_x_original.shape)
+            print (x_train.shape)
+            print (x_train)
+            # lol
+            if (x_train.shape[0] == 0):
+                x_train = np.append(x_train,data_x_original)
+                x_train = np.array([x_train])
+                y_train.append(label)
+            else:
+                data_x_original = np.asarray([data_x_original])
+                x_train = np.append(x_train,data_x_original,axis = 0)
+                y_train.append(label)
             all_sentences.append(all_words)
+        print (x_train.shape)
         data_classifier_size = len(x_train)
         with open('../data/train.txt') as input:
             line = input.readline()
@@ -87,6 +101,11 @@ class PreprocessingDataClassifier:
             train_x.append(x_train[i])
             train_y.append(y_train[i])
         train_x = np.asarray(train_x)
+        # this code average vector before train by ANN
+        print (train_x.shape)
+        # train_x = np.average(train_x,axis = 1)
+        # print (train_x.shape)
+        # lol
         train_y = np.asarray(train_y)
         for i in range(data_classifier_size):
             
@@ -95,6 +114,10 @@ class PreprocessingDataClassifier:
                 test_x.append(x_train[i])
                 test_y.append(y_train[i])
         test_x = np.asarray(test_x)
+        print (test_x.shape)
+        # # test_x = np.average(test_x,axis = 1)
+        # print (test_x.shape)
+        # lol
         test_y = np.asarray(test_y)
         
         return train_x, train_y, test_x, test_y, int2intent, test_label, all_sentences, texts

@@ -18,17 +18,21 @@ def read_trained_data(file_trained_data):
 
 input_size = 32
 embedding_dim = 50
-version_wc = 1
-version_classifer = 1
-wv_file = "../word_vector/word2vec_ver" + str(version_wc) + ".model"
+version_wc = 10
+
+version_classifier = 10
+name_class = 'ANN_ver' + str(version_wc) + '.' + str(version_classifier)
+wv_file = "/home/fdm-thang/robochat/nlu_gensim/word_vector/word2vec_ver" + str(version_wc) + ".model"
+# fname = get_tmpfile("word2vec_ver9.model")
 model = FastText.load(wv_file)
-tf_file = '../term_frequency/tf_ver' + str(version_wc) + '.pkl'
-tf_dicts = read_trained_data(tf_file)
+dict_file = "/home/fdm-thang/robochat/nlu_gensim/term_frequency/tf_ver" + str(version_wc) + ".pkl"
+tf_dicts = read_trained_data(dict_file)
 # print (tf_dicts)
 # print (tf_dicts['nên'])
+
 texts = []
 intents_data = []
-intents_official = ['end', 'trade', 'cash_balance', 'advice', 'order_status', 'stock_balance', 'market', 'cancel']
+intents_official = ['end', 'trade', 'cash_balance', 'advice', 'order_status', 'stock_balance', 'market', 'cancel','ratio_status','look','name','cancel_all']
 sentences = {}
 intents_filter = intents_official
 intents = list(intents_data)
@@ -50,10 +54,12 @@ def test(sentence):
         # print (i)
     # all_words = ViPosTagger.postagging(ViTokenizer.tokenize(sentence))[0]
     all_words = finTokenizer(sentence)
-    print (all_words)
+    # print (all_words)
+    # print (all_words)
     # all_sentences_word = tokenize_corpus(all_words)
     data_cleaner = DataCleaner(all_words)
     all_words = data_cleaner.clean()[0]
+    # print (all_words)
     # print (all_words)
     data_x_raw = []
     # print (i)
@@ -62,7 +68,7 @@ def test(sentence):
     num_stop_word = 0
     for word in all_words:
         # print (word)
-        if ( word not in tf_dicts or tf_dicts[word]<=1.3057728216444903e-05 ):
+        if ( word not in tf_dicts ):
             # print (word,tf_dicts[word])
             # print ('check',word)
             num+=1
@@ -77,23 +83,26 @@ def test(sentence):
     # print (len(all_words))
     # print (len(all_words)-num_stop_word)
     if (num >= 0.5*(len(all_words)-num_stop_word)):
-        print ('unknown label')
+        label = 'unknown label'
+        return label
     else:
-        for k in range(input_size - len(data_x_raw)):
-            padding = np.zeros(embedding_dim)
-            data_x_raw.append(padding)
+        # for k in range(input_size - len(data_x_raw)):
+        #     padding = np.zeros(embedding_dim)
+        #     data_x_raw.append(padding)
         data_x_original = [data_x_raw]
         data_x_original = np.asarray(data_x_original)
+        data_x_original = np.average(data_x_original,axis = 1)
         # print (data_x_original.shape)
-        data_x_original = np.reshape(data_x_original,(data_x_original.shape[0],data_x_original.shape[1]*data_x_original.shape[2]))
+        # print (data_x_original.shape)
+        # data_x_original = np.reshape(data_x_original,(data_x_original.shape[0],data_x_original.shape[1]*data_x_original.shape[2]))
         # print (data_x_original.shape)
         # lol
         tf.reset_default_graph()
         with tf.Session() as sess:
             
             #First let's load meta graph and restore weights
-            saver = tf.train.import_meta_graph('results/ANN_ver1.1/ws--embed-50batch_size_cl8.meta')
-            saver.restore(sess,tf.train.latest_checkpoint('results/ANN_ver1.1/'))
+            saver = tf.train.import_meta_graph('results/'+ name_class + '/ws--embed-50batch_size_cl8.meta')
+            saver.restore(sess,tf.train.latest_checkpoint('results/'+ name_class+'/'))
             # Access and create placeholders variables and
             graph = tf.get_default_graph()
             # print ([n.name for n in tf.get_default_graph().as_graph_def().node])
@@ -142,29 +151,60 @@ def test(sentence):
 # bán SSI lỗ quá, dừng ứng dụng cho tôi
 # hôm qua vừa mua 100 cổ phiếu ssi, xem lệnh mua ssi của tôi đã được khớp chưa
 # sentence = "có nên sở hữu ssi lúc này không khi thi trường đang con gấu"
+file = open('err_data.txt','w', encoding="utf8")
+file1 = open('new_data.txt','w', encoding="utf8")
 
-with open('../data/token_test.txt') as input:
     
+with open('/home/fdm-thang/robochat/nlu_gensim/data/testfile.txt') as input:   
     labels = []   
     contents = []
     for line in input :
-        # print (line)
+        print (line)
         temp = line.split(",",1)
         labels.append(temp[0])
         contents.append(temp[1])
-print (len(contents))
-correct = 0 
+# print (len(contents))
+
+all_sentences_words = []
+# arr = []
 # for i,content in enumerate(contents):
-#     label_predict = test(content)
-#     if (label_predict == labels[i]):
-#         print (content,'---',labels[i])
-#         print (label_predict)
-#         correct+=1
-#         print (correct, i)
+#     print (i)
+#     all_words = finTokenizer(content)
+#     # print (all_words)
+#     # print (all_sentences_words)
+#     data_cleaner = DataCleaner(all_words)
+#     all_words = data_cleaner.clean()[0]
+#     # print (all_words)
+#     if(len(all_sentences_words) == 0):
+#         all_sentences_words.append(all_words)
+#         file1.write(labels[i] + ',' + content)
+#         continue
+#     elif (all_words not in all_sentences_words):
+#         all_sentences_words.append(all_words)
+#         file1.write(labels[i] + ',' + content)
+#         continue
 #     else:
-#         print ("wrong", content,'---',labels[i])
-#         print (label_predict)
-#         print (correct, i)
-# print (correct)
-label_predict = test("múc ssi giá 12")
-print (label_predict)
+#         pred_index = all_sentences_words.index(all_words)
+#         all_sentences_words.append(all_words)
+#         arr.append([pred_index+1,i+1,content])
+#         # print (pred_index+1,i+1,content)
+#         err = str(pred_index+1) +'\t' + str(i+1) +'\t' + str(content) + '\n'
+#         file.write(err) 
+# for i in range(len(arr)):
+#     print (arr[i])
+correct = 0 
+for i,content in enumerate(contents):
+    # print (i)
+    label_predict = test(content)
+    if (label_predict == labels[i]):
+        # print (content,'---',labels[i])
+        # print (label_predict)
+        correct+=1
+        # print (correct, i)
+    else:
+        print ("wrong", content,'---',labels[i],label_predict)
+        # print (correct, i)
+print (correct)
+
+# label_predict = test("quay trở về chức năng chính")
+# print (label_predict)

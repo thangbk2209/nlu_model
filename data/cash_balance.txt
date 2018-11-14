@@ -1,0 +1,217 @@
+cash_balance,kiểm tra số tiền còn lại
+cash_balance,tôi còn nhiều tiền không?
+cash_balance,tài khoản đuôi 1 của tôi còn bao nhiêu tiền?
+cash_balance,tôi còn bao nhiêu tiền
+cash_balance,tôi còn nhiêu tiền nữa nhỉ?
+cash_balance,tk của tôi còn nhiêu tiền nữa?
+cash_balance,trạng thái tiền
+cash_balance,tình trạng tiền
+cash_balance,số tiền của tôi
+cash_balance,tiền tôi
+cash_balance,xem tiền
+cash_balance,check tiền
+cash_balance,tiền như nào?
+cash_balance,tiền nong
+cash_balance,số dư tiền
+cash_balance,số dư tài khoản tiền
+cash_balance,tài khoản đuôi 1 có bao tiền
+cash_balance,tài khoản đuôi 6 có bao nhiêu
+cash_balance,số dư tài khoản đuôi 1 ra sao
+cash_balance,số dư tiền tài khoản đuôi 1 là bao nhiêu
+cash_balance,số dư tiền tài khoản đuôi 1 ra sao
+cash_balance,bao nhiêu tiền
+cash_balance,số tiền hiện tại
+cash_balance,tiền thế nào
+cash_balance,xem trạng thái tiền
+cash_balance,số tiền dư
+cash_balance,xem số dư tiền
+cash_balance,xem số tiền dư
+cash_balance,số tiền còn lại
+cash_balance,xem số tiền còn lại
+cash_balance,xem tiền trong tài khoản
+cash_balance,thông tin tiền trong tài khoản
+cash_balance,tình trạng tiền trong tài khoản
+cash_balance,trạng thái tiền trong tài khoản
+cash_balance,thông tin số dư tiền
+cash_balance,thông tin số tiền dư
+cash_balance,trạng thái tiền của tài khoản
+cash_balance,tài khoản đuôi 1 còn lại bao nhiêu tiền
+cash_balance,tài khoản của tôi còn lại bao nhiêu tiền
+cash_balance,tài khoản còn lại bao nhiêu tiền
+cash_balance,số dư tiền còn lại
+cash_balance,dư tiền trong tài khoản
+cash_balance,dư nợ tiền tài khoản
+cash_balance,xem dư nợ tiền tài khoản
+cash_balance,tiền dư bao nhiêu
+cash_balance,số dư tiền bao nhiêu
+cash_balance,tài khoản dư bao nhiêu tiền
+cash_balance,tài khoản tiền dư bao nhiêu
+cash_balance,thông tin tiền của các tài khoản
+cash_balance,số dư tiền các tài khoản
+cash_balance,thông tin tiền của tài khoản đuôi 1
+cash_balance,trạng thái tiền của tài khoản đuôi 1
+cash_balance,số tiền hiện có
+cash_balance,số dư hiện có
+cash_balance,dữ liệu tiền của tài khoản
+cash_balance,xem thông tin tiền trong tài khoản
+cash_balance,xem tình trạng tiền trong tài khoản
+cash_balance,xem trạng thái tiền trong tài khoản
+cash_balance,xem thông tin số dư tiền
+cash_balance,xem thông tin số tiền dư
+cash_balance,xem trạng thái tiền của tài khoản
+cash_balance,xem tiền còn lại
+cash_balance,xem tài khoản còn lại bao nhiêu tiền
+cash_balance,xem số dư tiền còn lại
+cash_balance,xem dư tiền tài khoản
+cash_balance,xem dư nợ tài khoản
+cash_balance,xem số tiền dư bao nhiêu
+cash_balance,xem số dư tiền bao nhiêu
+cash_balance,tài khoản còn bao nhiêu tiền
+cash_balance,xem tài khoản dư bao nhiêu tiền
+cash_balance,xem tài khoản tiền dư bao nhiêu
+cash_balance,xem thông tin tiền của các tài khoản
+cash_balance,xem thông tin tiền của tài khoản đuôi 1
+cash_balance,xem trạng thái tiền của tài khoản đuôi 1
+cash_balance,xem số tiền hiện có
+cash_balance,xem số dư hiện có
+cash_balance,xem tiền của các tài khoản hiện có
+cash_balance,xem dữ liệu tiền của các tài khoản
+cash_balance,xem trạng thái tiền của tôi
+cash_balance,số tiền dư của tôi
+cash_balance,xem số dư tiền của tôi
+cash_balance,xem số tiền dư của tôi
+cash_balance,số tiền còn lại của tôi
+cash_balance,xem số tiền còn lại của tôi
+cash_balance,xem tiền trong tài khoản của tôi
+cash_balance,thông tin tiền trong tài khoản của tôi
+cash_balance,tình trạng tiền trong tài khoản của tôi
+cash_balance,trạng thái tiền trong tài khoản của tôi
+cash_balance,thông tin số dư tiền của tôi
+cash_balance,thông tin số tiền dư của tôi
+cash_balance,trạng thái tiền của tài khoản của tôi
+cash_balance,tài khoản còn dư bao nhiêu tiền
+cash_balance,tài khoản đuôi 3 còn dư bao nhiêu tiền
+cash_balance,số dư tiền còn lại của tôi
+cash_balance,dư tiền trong tài khoản của tôi
+cash_balance,dư nợ tiền tài khoản của tôi
+cash_balance,xem dư nợ tiền tài khoản của tôi
+cash_balance,tiền dư của tôi bao nhiêu
+cash_balance,số dư tiền của tôi bao nhiêu
+cash_balance,tài khoản của tôi dư bao nhiêu tiền
+cash_balance,tài khoản tiền dư của tôi bao nhiêu
+cash_balance,thông tin tiền của các tài khoản của tôi
+cash_balance,số dư tiền các tài khoản của tôi
+cash_balance,thông tin tiền của tài khoản đuôi 1 của tôi
+cash_balance,trạng thái tiền của tài khoản đuôi 1 của tôi
+cash_balance,số tiền hiện có của tôi
+cash_balance,số dư hiện có của tôi
+cash_balance,dữ liệu tiền của tài khoản của tôi
+cash_balance,xem thông tin tiền trong tài khoản của tôi
+cash_balance,xem tình trạng tiền trong tài khoản của tôi
+cash_balance,xem trạng thái tiền trong tài khoản của tôi
+cash_balance,xem thông tin số dư tiền của tôi
+cash_balance,xem thông tin số tiền dư của tôi
+cash_balance,xem trạng thái tiền của tài khoản của tôi
+cash_balance,xem tài khoản còn lại bao nhiêu tiền của tôi
+cash_balance,xem số dư tiền còn lại của tôi
+cash_balance,xem dư tiền tài khoản của tôi
+cash_balance,xem dư nợ tài khoản của tôi
+cash_balance,xem số tiền  của tôi dư  bao nhiêu 
+cash_balance,xem số dư tiền của tôi là bao nhiêu
+cash_balance,xem tài khoản của tôi dư bao nhiêu tiền
+cash_balance,xem tài khoản tiền của tôi dư bao nhiêu
+cash_balance,xem thông tin tiền của các tài khoản của tôi
+cash_balance,xem thông tin tiền của tài khoản đuôi 1 của tôi
+cash_balance,xem trạng thái tiền của tài khoản đuôi 1 của tôi
+cash_balance,xem số tiền hiện có của tôi
+cash_balance,xem số dư hiện có của tôi
+cash_balance,xem tiền của các tài khoản hiện có của tôi
+cash_balance,xem dữ liệu tiền của các tài khoản của tôi
+cash_balance,cho tôi xem trạng thái tiền
+cash_balance,cho tôi xem số dư tiền
+cash_balance,cho tôi xem số tiền dư
+cash_balance,cho tôi xem số tiền còn lại
+cash_balance,cho tôi xem tiền trong tài khoản
+cash_balance,cho tôi xem dư nợ tiền tài khoản
+cash_balance,cho tôi xem thông tin tiền trong tài khoản
+cash_balance,cho tôi xem tình trạng tiền trong tài khoản
+cash_balance,cho tôi xem trạng thái tiền trong tài khoản
+cash_balance,cho tôi xem thông tin số dư tiền
+cash_balance,cho tôi xem thông tin số tiền dư
+cash_balance,cho tôi xem trạng thái tiền của tài khoản
+cash_balance,cho tôi xem tài khoản còn lại bao nhiêu tiền
+cash_balance,cho tôi xem số dư tiền còn lại
+cash_balance,cho tôi xem dư tiền tài khoản
+cash_balance,cho tôi xem dư nợ tài khoản
+cash_balance,cho tôi xem số tiền dư bao nhiêu
+cash_balance,cho tôi xem số dư tiền bao nhiêu
+cash_balance,cho tôi xem tài khoản dư bao nhiêu tiền
+cash_balance,cho tôi xem tài khoản tiền dư bao nhiêu
+cash_balance,cho tôi xem thông tin tiền của các tài khoản
+cash_balance,cho tôi xem thông tin tiền của tài khoản đuôi 1
+cash_balance,cho tôi xem trạng thái tiền của tài khoản đuôi 1
+cash_balance,cho tôi xem số tiền hiện có
+cash_balance,cho tôi xem số dư hiện có
+cash_balance,cho tôi xem tiền của các tài khoản hiện có
+cash_balance,cho tôi xem dữ liệu tiền của các tài khoản
+cash_balance,hiển thị trạng thái tiền
+cash_balance,hiển thị số dư tiền
+cash_balance,hiển thị số tiền dư
+cash_balance,hiển thị số tiền còn lại
+cash_balance,hiển thị tiền trong tài khoản
+cash_balance,hiển thị dư nợ tiền tài khoản
+cash_balance,hiển thị thông tin tiền trong tài khoản
+cash_balance,hiển thị tình trạng tiền trong tài khoản
+cash_balance,hiển thị trạng thái tiền trong tài khoản
+cash_balance,hiển thị thông tin số dư tiền
+cash_balance,hiển thị thông tin số tiền dư
+cash_balance,hiển thị trạng thái tiền của tài khoản
+cash_balance,hiển thị tài khoản còn lại bao nhiêu tiền
+cash_balance,hiển thị số dư tiền còn lại
+cash_balance,hiển thị dư tiền tài khoản
+cash_balance,hiển thị dư nợ tài khoản
+cash_balance,hiển thị số tiền dư bao nhiêu
+cash_balance,hiển thị số dư tiền bao nhiêu
+cash_balance,hiển thị tài khoản dư bao nhiêu tiền
+cash_balance,hiển thị tài khoản tiền dư bao nhiêu
+cash_balance,hiển thị thông tin tiền của các tài khoản
+cash_balance,hiển thị thông tin tiền của tài khoản đuôi 1
+cash_balance,hiển thị trạng thái tiền của tài khoản đuôi 1
+cash_balance,hiển thị số tiền hiện có
+cash_balance,hiển thị số dư hiện có
+cash_balance,hiển thị tiền của các tài khoản hiện có
+cash_balance,hiển thị dữ liệu tiền của các tài khoản
+cash_balance,check số dư tiền trong tài khoản của tôi
+cash_balance,check số dư tiền tôi có
+cash_balance,check số tiền tôi còn
+cash_balance,check xem tôi có bao nhiêu tiền
+cash_balance,check xem tôi tôi dư bao nhiêu tiền
+cash_balance,check xem tôi có dư tiền không
+cash_balance,check xem tôi còn bao nhiêu tiền
+cash_balance,check xem tôi còn dư bao nhiêu tiền
+cash_balance,check xem tôi còn bao nhiêu tiền dư
+cash_balance,check số tiền tôi có
+cash_balance,check số dư tiền tôi còn
+cash_balance,check tiền dư tôi có
+cash_balance,check số dư tiền của tôi
+cash_balance,check số tiền dư của tôi trong tài khoản
+cash_balance,check số tiền tôi có trong tài khoản
+cash_balance,check tổng số tiền của tôi
+cash_balance,check tổng số tiền dư tôi có
+cash_balance,check tổng số tiền tôi sở hữu
+cash_balance,check tổng tiền dư tôi nắm giữ
+cash_balance,check số tiền tôi sở hữu
+cash_balance,check dư tiền tôi sở hữu
+cash_balance,check số tiền tôi nắm giữ
+cash_balance,check số dư tiền tôi nắm giữ
+cash_balance,check tổng số tiền dư tôi nắm giữ
+cash_balance,check xem số dư tiền tôi sở hữu trong tài khoản của tôi
+cash_balance,check xem số tiền dư tôi nắm giữ trong tài khoản
+cash_balance,check xem tài khoản của tôi có bao nhiêu tiền
+cash_balance,check xem tài khoản của tôi còn bao nhiêu tiền còn dư
+cash_balance,check xem tài khoản của tôi sở hữu bao nhiêu tiền còn dư
+cash_balance,check xem tài khoản của tôi nắm giữ bao nhiêu tiền
+cash_balance,check xem tài khoản của tôi có bao nhiêu số dư tiền
+cash_balance,check xem tài khoản của tôi sở hữu bao nhiêu số dư tiền
+cash_balance,check xem tài khoản của tôi sở hữu bao nhiêu tiền 
+cash_balance,check xem tài khoản của tôi còn bao nhiêu tiền dư

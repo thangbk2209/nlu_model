@@ -1,0 +1,1604 @@
+trade,mua mã chứng khoán SSI
+trade,mua ssi
+trade,mua 100 ssi
+trade,mua 100 ssi giá 12.6
+trade,mua 100 cổ phiếu ssi giá 12.6
+trade,bán ssi
+trade,mua
+trade,bán
+trade,đặt lệnh mua
+trade,đặt lệnh bán
+trade,mua mã SSI
+trade,mua vào mã SSI
+trade,bán ra mã SSI
+trade,mua vào SSI
+trade,bán ra SSI
+trade,mua thêm mã SSI
+trade,mua thêm SSI
+trade,tôi muốn mua cổ phiếu bcp
+trade,tôi muốn mua cổ phiếu bcp với giá 12.4
+trade,tôi muốn mua 100 cổ phiếu bcp với giá 12.4
+trade,tôi muốn giao dịch cổ phiếu bcp
+trade,tôi muốn giao dịch cổ phiếu bcp với giá 12.5
+trade,tôi muốn đặt lệnh bán cổ phiếu acb 
+trade,tôi muốn đầu tư vào mã acb
+trade,tôi muốn đầu tư 10 vào mã acb
+trade,mua thêm cổ phiếu ssi
+trade,mua thêm cổ phiếu ssi với giá 12.4
+trade,gom vào cổ phiếu aaa 
+trade,gom vào cổ phiếu aaa với giá 13.2
+trade,xả cổ ssi 
+trade,múc ssi 
+trade,xúc ssi 
+trade,múc ssi với giá 13.2
+trade,xúc ssi với giá 13.2
+trade,đầu tư ssi
+trade,đầu tư 100 ssi
+trade,đầu tư 100 ssi với giá 12.3
+trade,tôi muốn mua cổ ssi 
+trade,tôi muốn mua mã ssi
+trade,mua cho tôi mã chứng khoán SSI 
+trade,mua cổ phiếu SSI
+trade,mua thêm mã cổ phiếu SSI
+trade,bán hết cổ phiếu SSI
+trade,bán hết SSI 
+trade,bán mã cổ phiếu SSI
+trade,bán mã chứng khoán SSI 
+trade,bán cho tôi mã chứng khoán SSI 
+trade,bán mã SSI
+trade,bán mã SSI giá 12.3
+trade,bán 100 mã SSI với giá 12.8
+trade,bán cổ SSI
+trade,gom mã ssi
+trade,gom cổ phiếu ssi
+trade,gom vào mã SSI
+trade,gom thêm mã SSI
+trade,thoát hàng mã SSI
+trade,thoát hàng SSI
+trade,thoát toàn bộ hàng mã SSI
+trade,thoát hàng mã chứng khoán SSI
+trade,thoát hàng mã cổ phiếu SSI
+trade,thoát toàn bộ mã cổ phiếu SSI
+trade,thoát toàn bộ mã chứng khoán SSI
+trade,xả ra SSI
+trade,xả ra mã SSI
+trade,xả ra mã cổ phiếu SSI
+trade,xả ra mã chứng khoán SSI
+trade,xả ra toàn bộ SSI
+trade,xả ra toàn bộ mã SSI
+trade,xả ra toàn bộ mã chứng khoán SSI
+trade,xả ra toàn bộ mã cổ phiếu SSI
+trade,tôi muốn giao dịch mã SSI
+trade,tôi muốn giao dịch mua cổ phiếu SSI 
+trade,tôi muốn giao dịch bán 100 SSI
+trade,tôi muốn giao dịch SSI
+trade,tôi muốn giao dịch mua mã cổ phiếu SSI 
+trade,tôi muốn giao dịch bán mã cổ phiếu SSI
+trade,tôi muốn giao dịch mua mã chứng khoán SSI
+trade,tôi muốn giao dịch bán mã chứng khoán SSI
+trade,đầu tư thêm vào cổ phiếu SSI
+trade,đầu tư vào mã SSI
+trade,lấy thêm cổ phiếu SSI 
+trade,lấy thêm mã cổ phiếu SSI 
+trade,lấy thêm mã SSI
+trade,lấy thêm 100 cổ SSI
+trade,lấy thêm 100 cổ SSI giá 12.3
+trade,tôi muốn đặt lệnh mua cổ phiếu SSI 
+trade,tôi muốn đặt lệnh mua cổ phiếu SSI giá 12.4
+trade,tôi muốn đặt lệnh mua 100 cổ phiếu SSI giá 13.4
+trade,tôi muốn đặt lệnh bán cổ phiếu SSI
+trade,tôi muốn đặt lệnh mua mã cổ phiếu SSI
+trade,tôi muốn đặt lệnh bán mã cổ phiếu SSI
+trade,tôi muốn đặt lệnh mua mã chứng khoán SSI 
+trade,tôi muốn đặt lệnh bán mã chứng khoán SSI
+trade,đặt lệnh bán SSI
+trade,đặt lệnh mua SSI
+trade,đặt bán SSI 
+trade,đặt mua cổ SSI
+trade,tôi cần đặt mua cổ ssi
+trade,tôi cần bán cổ phiếu ssi
+trade,giao dịch mua SSI
+trade,giao dịch bán SSI
+trade,giao dịch bcp
+trade,tôi muốn thực hiện giao dịch SSI
+trade,tôi muốn thực hiện giao dịch mã SSI
+trade,tôi muốn thực hiện giao dịch cổ phiếu SSI
+trade,tôi muốn thực hiện giao dịch mua bán SSI
+trade,tôi muốn tiến hành giao dịch SSI
+trade,tôi muốn tiến hành giao dịch mã SSI
+trade,tôi muốn tiến hành giao dịch cổ phiếu SSI
+trade,tôi muốn tiến hành giao dịch mua bán SSI
+trade,hôm nay thị trường tệ quá, bán hết SSI đi
+trade,hôm nay thị trường xuống nhiều, bán toàn bộ mã SSI cho tôi
+name,tên
+name,cho xin tên bạn
+name,tên là gì
+name,gọi thế nào
+name,xưng hô ra sao
+name,gọi là gì
+name,gọi em ra sao
+name,là người hay là máy
+name,cậu là gì?
+name,cậu là ai?
+name,là gì?
+name,tên cậu là gì?
+name,gọi cậu là gì?
+name,tên thế nào?
+name,tên?
+name,cậu tên là gì?
+name,tên mày là gì?
+name,cậu là cái gì?
+name,bạn là cái gì?
+name,tên gì?
+name,cậu là gì thế?
+name,chương trình này là gì?
+name,tên trương trình
+name,giới thiệu chương trình
+name,đây là gì thế?
+name,đây là gì?
+name,cái này là gì?
+name,cái này làm gì ý nhỉ?
+name,cái này tên gì vậy?
+name,chương chình gì đây?
+name,tên cái này là chi vậy?
+name,chính xác bạn là gì vậy?
+name,phần mềm này là gì thế?
+name,tên phần mềm?
+name,tôi gọi bạn là gì đây?
+name,tôi có thể gọi bạn là gì?
+name,bạn là ai?
+stock_balance,số cổ phiếu còn lại 
+stock_balance,số cổ phiếu trong tài khoản 
+stock_balance,thông tin cổ phiếu trong tài khoản 
+stock_balance,tình trạng cổ phiếu trong tài khoản 
+stock_balance,trạng thái cổ phiếu trong tài khoản 
+stock_balance,thông tin số dư cổ phiếu 
+stock_balance,tài khoản đuôi 1 còn bao nhiêu cổ phiếu 
+stock_balance,số dư cổ phiếu còn lại
+stock_balance,số dư cổ phiếu thế nào rồi?
+stock_balance,dư cổ phiếu thế nào rồi? 
+stock_balance,số dư cổ phiếu của tôi là bao nhiêu 
+stock_balance,tài khoản chứng khoán dư bao nhiêu?
+stock_balance,thông tin chứng khoán của các tài khoản 
+stock_balance,số dư chứng khoán các tài khoản
+stock_balance,số dư cổ phiếu tài khoản đuôi 1
+stock_balance,thông tin cổ phiếu của tài khoản đuôi 5
+stock_balance,tôi còn những loại cổ phiếu nào
+stock_balance,tôi có những loại cổ nào
+stock_balance,tôi còn những loại cổ nào
+stock_balance,tài khoản của tôi còn những cổ phiếu nào
+stock_balance,tài khoản của tôi có những cổ phiếu nào
+stock_balance,có những loại cổ phiếu nào trong tài khoản của tôi
+stock_balance,tài khoản đuôi 1 của tôi có những cổ phiếu gì?
+stock_balance,tài khoản của tôi còn mã ssi không nhỉ?
+stock_balance,tài khoản của tôi có ssi không?
+stock_balance,tài khoản của tôi có những mã nào?
+stock_balance,tôi còn nhiêu cổ phiếu nữa?
+stock_balance,tk của tôi còn nhiêu cổ phiếu nữa?
+stock_balance,số lượng cổ phiếu của từng mã trong tài khoản của tôi
+stock_balance,tôi đang cầm mã nào nhiều nhất?
+stock_balance,tôi đang giữ những mã nào nhỉ?
+stock_balance,tôi đang cầm bao nhiêu mã ssi
+stock_balance,tôi đang cầm bao nhiêu cổ phiếu mã ssi
+stock_balance,tôi đang giữ bao nhiêu cổ phiếu ssi
+stock_balance,tài khoản của tôi có đủ 1000 mã ssi không?
+stock_balance,tài khoản của tôi còn đủ 1000 cổ phiếu ssi không?
+stock_balance,lượng cổ phiếu ssi trong tài khoản của tôi có đủ 1000 không?
+stock_balance,mã nào tôi đang nắm giữ nhiều nhất nhỉ?
+stock_balance,các mã mà tôi đang nắm giữ
+stock_balance,các mã và số lượng mà tôi đang nắm giữ
+stock_balance,tài khoản của tôi còn bao nhiêu cổ phiếu
+stock_balance,tài khoản của tôi còn bao nhiêu cổ phiếu ssi
+stock_balance,số cổ phiếu SSI trong tài khoản
+stock_balance,số cổ phiếu SSI của tôi trong tài khoản
+stock_balance,tổng mã SSI tôi đang có
+stock_balance,tổng cổ phiếu SSI tôi sở hữu
+stock_balance,tôi đang sở hữu bn cổ phiếu SSI
+stock_balance,số lượng mã SSI trong tài khoản đuôi 1
+stock_balance,số lượng mã SSI trong các tài khoản của tôi
+stock_balance,số lượng cổ phiếu SSI trong tài khoản đuôi 1
+stock_balance,tổng số SSI tôi nắm giữ
+stock_balance,SSI tôi có bao nhiêu cổ
+stock_balance,số cổ phiếu SSI của tôi
+stock_balance,số cổ ACB tôi đang nắm giữ là bao nhiêu
+stock_balance,tài khoản của tôi còn bao nhiêu cổ SSI nay
+stock_balance,tôi đang nắm giữ những mã nào nhỉ?
+stock_balance,tài khoản của tôi đang có những mã nào, khối lượng bao nhiêu?
+stock_balance,khối lượng của từng mã trong tài khoản của tôi là bao nhiêu?
+stock_balance,số dư chứng khoán
+stock_balance,mã cố phiếu ssi còn bao nhiêu?
+stock_balance,mã cổ phiếu ssi trong tài khoản của tôi còn bao nhiêu?
+stock_balance,mã ssi còn bao nhiêu?
+stock_balance,tôi còn bao nhiêu cổ phiếu SSI nữa
+stock_balance,lượng SSI còn lại của tôi là bao nhiêu
+stock_balance,số dư chứng khoán SSI
+stock_balance,tài khoản đuôi 1 có bao cổ phiếu SSI
+stock_balance,có bao nhiêu mã cổ phiếu SSI
+stock_balance,tài khoản đuôi 1 còn bao nhiêu cổ phiếu SSI
+stock_balance,tài khoản đuôi 1 có bao nhiêu cổ phiếu SSI
+stock_balance,tài khoản đuôi 1 có bao chứng khoán
+stock_balance,có bao nhiêu chứng khoán
+stock_balance,thông tin số chứng khoán SSI còn dư
+stock_balance,thông tin cổ phiếu SSI còn lại
+stock_balance,thông tin cổ phiếu SSI còn dư
+stock_balance,thông tin số chứng khoán SSI còn lại
+stock_balance,thông tin số dư chứng khoán SSI trong tài khoản của tôi
+stock_balance,số chứng khoán SSI còn dư
+stock_balance,số dư chứng khoán SSI
+stock_balance,số chứng khoán SSI còn dư
+stock_balance,tổng số chứng khoán SSI trong tk đuôi 1
+stock_balance,số chứng khoán SSI còn lại
+stock_balance,tổng số chứng khoán SSI còn lại
+stock_balance,tổng số cổ phiếu SSI còn dư
+stock_balance,tài khoản đuôi 1 của tôi còn bao nhiêu chứng khoán SSI
+stock_balance,tài khoản đuôi 1 của tôi có bao nhiêu cổ phiếu SSI
+stock_balance,tôi còn nhiều ssi không?
+stock_balance,tôi còn bao nhiêu ssi trong tài khoản nữa nhỉ?
+stock_balance,tôi còn bao nhiêu cổ phiếu ssi?
+stock_balance,tôi còn mấy cổ phiếu ssi?
+stock_balance,thông tin cổ phiếu SSI còn dư của tôi
+stock_balance,thông tin số chứng khoán SSI của tôi còn lại
+stock_balance,thông tin số chứng khoán SSI còn lại của tôi 
+stock_balance,số chứng khoán SSI còn dư của tôi
+stock_balance,số dư chứng khoán SSI của tôi
+stock_balance,tổng số chứng khoán SSI của tôi
+stock_balance,số dư cổ phiếu SSI của tôi
+stock_balance,tổng số chứng khoán SSI tôi nắm giữ
+stock_balance,tổng số cổ phiếu acb tôi nắm giữ
+stock_balance,số chứng khoán SSI còn lại của tôi
+stock_balance,tổng số chứng khoán SSI còn lại của tôi
+stock_balance,tổng số chứng khoán SSI còn dư của tôi
+stock_balance,thông tin số chứng khoán SSI trong tài khoản của tôi
+stock_balance,thông tin cổ phiếu SSI trong tài khoản của tôi
+stock_balance,thông tin danh mục cổ phiếu trong tài khoản của tôi
+stock_balance,thông tin danh mục hiện có trong tài khoản
+stock_balance,thông tin cổ phiếu SSI còn lại trong tk
+stock_balance,thông tin cổ phiếu SSI còn dư trong tk
+stock_balance,thông tin số chứng khoán SSI còn lại trong tk
+stock_balance,tổng số chứng khoán SSI trong tài khoản
+stock_balance,tổng số chứng khoán SSI còn dư
+stock_balance,số dư cổ phiếu ssi là bao nhiêu?
+stock_balance,số lượng cổ phiếu ssi trong tài khoản là bao nhiêu?
+stock_balance,danh mục ra sao
+stock_balance,danh mục đầu tư của tôi có bao nhiêu mã SSI
+stock_balance,danh mục đầu tư
+stock_balance,số cổ phiếu SSI trong danh mục
+stock_balance,thông tin danh mục 
+stock_balance,thông tin danh mục đầu tư
+stock_balance,danh mục đầu tư hiện tại
+stock_balance,danh mục đầu tư mã cổ phiếu hiện tại
+stock_balance,danh mục chứng khoán
+stock_balance,danh mục đầu tư hiện có
+stock_balance,danh mục đầu tư cổ phiếu hiện có
+stock_balance,danh mục đầu tư cổ phiếu
+stock_balance,danh mục đầu tư mã
+stock_balance,danh mục cổ phiếu
+stock_balance,danh mục cổ phiếu hiện có
+stock_balance,thông tin danh mục cổ phiếu
+stock_balance,thông tin danh mục mã chứng khoán hiện có
+stock_balance,danh mục hiện có bao nhiêu cổ phiếu SSI
+stock_balance,danh mục đầu tư hiện nay
+stock_balance,tình trạng chứng khoán trong tài khoản
+stock_balance,tình trạng danh mục
+stock_balance,số SSI tôi sở hữu
+stock_balance,tôi còn dư bao nhiêu chứng khoán SSI
+stock_balance,tình trạng danh mục mã cổ phiếu
+stock_balance,tình trạng đầu tư cổ phiếu SSI  
+stock_balance,danh mục của tôi có bao nhiêu mã SSI
+stock_balance,tình trạng số dư cổ phiếu SSI 
+stock_balance,tình trạng cổ phiếu SSI còn lại
+stock_balance,tình trạng chứng khoán SSI trong tài khoản
+stock_balance,tình trạng đầu tư mã SSI
+stock_balance,trạng thái chứng khoán
+stock_balance,trạng thái đầu tư 
+stock_balance,trạng thái đầu tư mã ssi
+stock_balance,trạng thái danh mục
+stock_balance,trạng thái đầu tư cổ phiếu SSI
+stock_balance,trạng thái cổ phiếu SSI còn lại
+stock_balance,thông tin số dư cổ phiếu của tôi 
+stock_balance,số cổ phiếu hiện có của tôi 
+stock_balance,số dư cổ phiếu hiện tại của tôi 
+stock_balance,số dư cổ phiếu 
+stock_balance,số cổ phiếu còn lại trong tài khoản
+stock_balance,tài khoản còn nhiều cổ chứ
+stock_balance,tôi đang sở hữu bao nhiêu cổ
+stock_balance,số cổ tôi có trong tài khoản
+stock_balance,có còn nhiều cổ trong tài khoản không
+stock_balance,tôi còn bao nhiêu cổ trong tài khoản
+stock_balance,tôi đang nắm giữ bao nhiêu cổ
+stock_balance,trong tài khoản còn bao nhiêu cổ
+stock_balance,số cổ trong tài khoản
+stock_balance,số cổ trong tài khoản đuôi 1 là bao nhiêu
+stock_balance,số cổ trong tài khoản của tôi là bao nhiêu
+stock_balance,số cổ còn lại trong tài khoản của tôi
+stock_balance,có bao nhiêu cổ trong tài khoản
+stock_balance,số cổ tôi đang nắm giữ
+stock_balance,tôi sở hữu bao nhiêu cổ
+stock_balance,tôi nắm giữ bao nhiêu cổ
+stock_balance,còn bao nhiêu cổ trong tài khoản của tôi
+stock_balance,lượng SSI tôi có
+stock_balance,lượng SSI tôi còn
+stock_balance,SSI trong tài khoản của tôi
+stock_balance,tôi có bao nhiêu SSI
+stock_balance,tôi còn bao nhiêu SSI
+stock_balance,trong tài khoản có bao nhiêu SSI
+stock_balance,trong tài khoản còn bao nhiêu SSI
+stock_balance,tổng số SSI tôi sở hữu
+stock_balance,tôi nắm giữ bao nhiêu SSI
+stock_balance,tôi sở hữu bao nhiêu SSI
+stock_balance,tài khoản đuôi 1 có bao nhiêu SSI
+stock_balance,tài khoản đuôi 1 còn bao nhiêu SSI
+stock_balance,số cổ phiếu tôi có
+stock_balance,tôi có bao nhiêu mã SSI
+stock_balance,tôi có bao nhiêu cổ phiếu SSI
+stock_balance,tôi còn bao nhiêu mã SSI
+stock_balance,số SSI tôi có
+stock_balance, số SSI tôi còn
+stock_balance,số mã SSI tôi có trong tài khoản
+stock_balance,số mã SSI tôi còn
+stock_balance,tổng số cổ phiếu
+stock_balance,tổng số mã chứng khoán tôi có
+stock_balance,tổng chứng khoán tôi sở hữu
+stock_balance,số SSI tôi nắm giữ
+stock_balance,số SSI tôi sở hữu trong tài khoản của tôi
+stock_balance,số SSI tôi nắm giữ trong tài khoản
+stock_balance,tài khoản có bao nhiêu SSI
+stock_balance,tài khoản còn bao nhiêu SSI
+stock_balance,tài khoản có bao nhiêu mã SSI
+stock_balance,tài khoản còn bao nhiêu mã SSI
+stock_balance,tài khoản có bao nhiêu cổ phiếu SSI
+stock_balance,tài khoản còn bao nhiêu cổ phiếu SSI
+stock_balance,tài khoản sở hữu bao nhiêu cổ phiếu SSI
+stock_balance,tài khoản nắm giữ bao nhiêu cổ phiếu SSI
+stock_balance,số lượng ssi trong tk là bao nhiêu?
+advice,với thị trường này, có nên mua ssi không?
+advice,nhận định mã cổ phiếu SSI
+advice,nhận định giá cổ phiếu SSI
+advice,nhận định mã chứng khoán SSI
+advice,nhận định giá mã chứng khoán SSI
+advice,tôi nên mua ssi với giá bao nhiêu
+advice,tôi có nên mua ssi
+advice,tôi có nên mua cổ phiếu ssi không?
+advice,tôi có nên bán cổ phiếu acb không?
+advice, có nên bán nốt chỗ ssi còn lại không
+advice,có nên mua ssi không
+advice,liệu có nên mua ssi không
+advice,có nên mua cổ phiếu ssi
+advice,liệu có nên mua cổ phiếu ssi
+advice,không biết là có nên mua ssi không nhỉ
+advice,không biết là mua ssi có hợp lý không
+advice,tôi có nên chi tiền để mua 1000 cổ phiếu ssi không?
+advice,tôi có nên đầu tư để mua cổ phiếu acb không?
+advice,mua thế nào với mã SSI
+advice,bán thế nào với SSI
+advice,nên bán tất cả SSI chứ
+advice,nên đầu tư SSI lúc này không
+advice,nên giao dịch SSI thời điểm này chứ
+advice,bán SSI được không?
+advice,với giá nào thì nên bán SSI
+advice,với giá nào thì bán SSI
+advice,với thị trường này, có nên mua SSI không?
+advice,với thị trường này, có nên mua cổ phiếu SSI
+advice,cho tôi xin ý kiến về thị trường hôm nay
+advice,ý kiến của bạn về thị trường hôm nay
+advice,bạn nghĩ thị trường hôm nay sẽ thế nào
+advice,bạn nghĩ mã SSI hôm nay thế nào
+advice,bạn nghĩ mã SSI hôm nay sẽ tăng hay giảm
+advice,mua cổ phiếu SSI có nên không
+advice,bán cổ phiếu SSI có nên không
+advice,liệu có nên mua ssi hôm nay không nhỉ?
+advice,liệu có nên bán ssi hôm nay không?
+advice,bạn nhìn nhận thị trường hôm nay sẽ thế nào?
+advice,có nên mua SSI hôm nay không
+advice,có nên bán SSI không
+advice,bán SSI liệu có ổn không nhỉ
+advice,có nên mua bán mã SSI không
+advice,mã SSI được không
+advice,mua mã bcp nên không?
+advice,mua acb nên không?
+advice,mua cổ ssi nên không?
+advice,mã SSI ok không
+advice,mã ssi liệu có ổn không?
+advice,mã ssi liệu có ok không?
+advice,có nên bán mã SSI
+advice,khuyến nghị về cổ phiếu SSI
+advice,khuyên thế nào về SSI
+advice,nhận định mã SSI
+advice,có đáng để đầu tư cho SSI không
+advice,giờ mua vào SSI ổn chứ
+advice,mua vừa vừa bcp thì hợp lý hơn nhỉ 
+advice, mua nhiều bcp lúc này có phù hợp không?
+advice,SSI có tiềm năng để đầu tư không
+advice,tiềm năng đầu tư của SSI
+advice,mua SSI giá bao nhiêu thì hợp lý
+advice,bán SSI giá bao nhiêu thì hợp lý
+advice,vào mã SSI bây giờ có nên không
+advice,có nên mua vào SSI không
+advice,có nên bán ra SSI không
+advice,có nên mua SSI không
+advice,nên bán hay nắm giữ mã SSI
+advice,nên bán hay giữ cổ phiếu SSI
+advice,bán hay giữ cổ phiếu SSI đây
+advice,nên giữ SSI hay ACB nhỉ?
+advice,nên bán SSI hay bán ACB
+advice,có nên bán SSI hoặc ACB không?
+advice,nên mua hay bán cổ phiếu SSI
+advice,mua hay bán SSI đây
+advice,nên mua vào hay bán ra mã SSI
+advice,đề xuất thế nào về cổ phiếu SSI
+advice,khuyến nghị thế nào về mã SSI
+advice,đề xuất thế nào về cổ phiếu SSI
+advice,khuyến nghị thế nào về mã SSI
+advice,đề xuất thế nào về cổ phiếu SSI
+advice,bạn đề xuất thế nào về mã SSI
+advice,bạn có đề xuất gì về mã SSI
+advice,đề xuất về mã SSI
+advice,khuyến nghị mã SSI
+advice,nhận định cổ phiếu SSI
+advice,khuyến nghị ra sao về SSI
+advice,đề xuất ra sao về mã SSI
+advice,nhận định mã SSI ra sao
+advice,nên giữ lại hay bán ra cổ phiếu SSI
+advice,nên nắm giữ cổ phiếu SSI lúc này không
+advice,nên lướt sóng mã SSI trong giai đoạn này không
+advice,khuyến nghị cổ phiếu SSI cho giai đoạn này
+advice,giai đoạn này mua bán thế nào mã SSI
+advice,giai đoạn này nên nắm giữ ssi hay acb
+advice,giai đoạn này có nên nắm giữ cổ phiếu SSI
+advice,giai đoạn này nên nắm giữ hay bán ra cổ phiếu SSI
+advice,nên hay không nên mua SSI
+advice,với cổ phiếu SSI nên mua giá bao nhiêu
+advice,với mã chứng khoán SSI nên mua giá bao nhiêu
+advice,với tiền trong tài khoản nên mua lượng cổ phiếu SSI bao nhiêu
+advice,nên bán giá bao nhiêu với cổ phiếu SSI
+advice,nên mua giá bao nhiêu với cổ phiếu SSI
+advice,nên bán giá bao nhiêu với mã chứng khoán SSI
+advice,nên mua giá bao nhiêu với mã chứng khoán SSI
+advice,nên mua SSI theo giá thị trường không
+advice,nên bán SSI theo giá thị trường không
+advice,nên làm gì với cổ phiếu SSI hiện nay
+advice,thị trường lên xuống thất thường nên mua vào hay bán ra cổ phiếu SSI
+advice,bạn nghĩ cổ phiếu SSI hôm nay thế nào?
+advice,ý kiến của bạn về cổ phiếu SSI hôm nay?
+advice,bạn nghĩ thế nào về mã SSI hôm nay?
+advice,rủi ro khi đầu tư vào SSI
+advice,nếu thị trường đang xuống, có đáng để mua vào SSI
+advice,tôi có nên nắm giữ SSI không
+advice,tôi có nên nắm giữ mã SSI không
+advice,tôi có nên nắm giữ cổ phiếu SSI không
+advice,có nhiều rủi ro khi đầu tư vào SSI không
+advice,có rủi ro không khi đầu tư vào SSI không
+advice,rủi ro nào khi đầu tư vào SSI
+advice,đầu tư vào SSI thì rủi ro có cao không
+advice,nếu đầu tư vào SSI thì mức độ rủi ro thế nào
+advice,nếu đầu tư vào SSI thì mức độ rủi ro có cao không
+advice,có đáng để đầu tư SSI lúc này
+advice,với biến động của thị trường, có đáng đầu tư vào SSI
+advice,có đáng để sở hữu SSI lúc này không
+advice,có đáng để nắm giữ SSI không
+advice,có đáng để nắm giữ cổ phiếu SSI không
+advice,có đáng để nắm giữ mã SSI không
+advice,có nên nắm giữ SSI lúc này không
+advice,tôi nên nắm giữ SSI không
+advice,tôi nên nắm giữ mã SSI không
+advice,tôi nên nắm giữ cổ phiếu SSI không
+advice,nên nắm giữ cổ phiếu SSI chứ
+advice,có nên nắm giữ mã SSI lúc này
+advice,có nên nắm giữ cổ phiếu SSI lúc này
+advice,nên múc SSI lúc này không
+advice,có nên múc SSI vào lúc này không
+advice,có nên múc SSI không
+advice,tôi nên múc mã SSI không
+advice,nên múc cổ phiếu SSI lúc này chứ
+advice,nên múc SSI
+advice,nên nắm giữ SSI không
+advice,nên sở hữu SSI không
+advice,nên mua vào SSI không
+advice,nên bán SSI vào thời điểm này không
+advice,tôi có nên năm giữ SSI
+advice,tôi có nên mua vào SSI
+advice,tôi có nên giữ lại SSI
+advice,nên mua bán SSI lúc này không
+advice,với tình hình thị trường như này nên làm gì với SSI
+advice,nên mua hay bán SSI
+advice,nên mua SSI thế nào
+advice,có đáng để mua SSI không
+advice,có đáng để mua bán SSI không
+advice,SSI có khả năng sinh lời không
+advice,tiềm năng của SSI
+advice,SSI có tiềm năng để mua bán không
+advice,SSI có tiềm năng để sở hữu không
+advice,SSI có tiềm năng để giao dịch không
+advice,nên hay không sở hữu SSI
+advice,có đáng để đầu tư vào SSI
+advice,đầu tư SSI vào lúc này có đáng không
+advice,đầu tư SSI có tiềm năng không
+advice,đầu tư SSI có khả năng sinh lời không
+advice,đầu tư SSI có khả năng sinh lời chứ
+advice,đáng để đầu tư vào SSI không nhỉ
+advice,có đáng để đầu tư vào SSI không
+advice,xin khuyến nghị về mã ssi với
+advice,xin khuyến nghị về thị trường hôm nay với 
+advice,xin khuyến nghị thị trường 
+advice,xin khuyến nghị thị trường hôm nay 
+advice,xin nhận định về thị trường hôm nay với 
+advice,xin nhận định về mã ssi 
+advice,xin ý kiến về thị trường 
+advice,bạn nghĩ thế nào về thị trường hôm nay
+advice,lời khuyên về ssi
+advice,cho lời khuyên đê
+advice,cho lời khuyên về thị trường
+advice,khuyến nghị về ssi
+advice,khuyến nghị mua ssi
+advice,khuyến nghị ssi
+advice,khuyến nghị mã ssi
+advice,khuyến nghị cổ phiếu ssi
+advice,cho khuyến nghị ssi
+advice,cho khuyến nghị về ssi
+advice,cho khuyến nghị mã ssi
+advice,cho khuyến nghị cổ phiếu ssi
+advice,nên thế nào với ssi
+advice,khuyến nghị về thị trường
+advice,lời khuyên về thị trường
+advice,với 1 triệu thì nên đầu từ gì nhỉ?
+advice,tư vấn giúp tôi với
+advice,tư vấn cho tôi với nào?
+advice,bạn có thể tư vấn cho tôi không?
+advice,tư vấn cho tôi nên đầu tư mã nào đi
+advice,tư vấn nên làm gì lúc này
+advice, tư vấn cái nhỉ?
+advice,tư vấn giúp phát đê
+advice,tư vấn nên mua ssi không
+advice,tư vấn nên bán mbb không
+advice,tư vấn hộ tôi nên đặt lệnh mua mã chứng khoán nào
+advice,tôi muốn xin tư vấn về đầu tư cổ phiếu
+advice,tôi muốn xin tư vấn về đầu tư chứng khoán
+advice,tôi muốn xin tư vấn về đầu tư trên thị trường
+advice,tư vấn nên đầu tư ssi không
+advice,tư vấn nên đặt lệnh mua acb không
+advice,tư vấn nên đặt lệnh bán mbb không
+advice,tư vấn có nên hay không nắm giữ ssi
+advice,tư vấn cho tôi nên đặt lệnh gì
+advice,tư vấn cho tôi mua cổ phiếu gì bây giờ
+advice,tư vấn hộ tôi có nên mua bán ssi lúc này
+advice, tư vấn gì lúc này?
+advice,bạn sẽ tư vấn thế nào về thị trường
+advice,tư vấn hôm nay thị trường sẽ lên hay xuống
+advice,tư vấn hôm nay giá cả cổ phiếu sẽ thế nào
+advice,tư vấn hôm nay nên đặt lệnh vào mã gì
+advice,cho tôi tư vấn về mã cổ phiếu ssi với
+advice,cho tôi tư vấn đặt lệnh mua ssi
+advice,cho tôi tư vấn đặt lệnh bán ssi đi
+advice,tư vấn cho tôi ngay đi
+advice,tư vấn ngay đi
+advice,tôi cần lời tư vấn
+advice,tôi cần lời tư vấn về mua bán cổ phiếu
+advice,tôi cần lời tư vấn nên đầu tư vào thị trường thế nào
+advice,tư vấn về mã ssi
+advice,tư vấn về thị trường
+advice,tư vấn về đặt lệnh
+advice,tư vấn hộ cái nào
+cancel_all,hủy tất cả lệnh
+cancel_all,hủy tất cả các lệnh mua và bán
+cancel_all,hủy tất cả các lệnh
+cancel_all,hủy tất cả đi
+cancel_all,hủy tất cả lệnh của tôi
+cancel_all,hủy tất cả các lệnh đặt mua
+cancel_all,hủy tất cả các lệnh đặt bán
+cancel_all,hủy tất cả lệnh tôi đặt bán và mua
+cancel_all,hủy tất cả các lệnh khẩn trương
+cancel_all,hủy tất cả các lệnh mua và bán khẩn trương
+cancel_all,hủy tất cả các lệnh tôi có
+cancel_all,hủy tất cả khẩn trương
+cancel_all,hủy khẩn trương
+cancel_all,hủy tất
+cancel_all,hủy tất khẩn trương
+cancel_all,hủy tất ngay
+cancel_all,hủy tất luôn
+cancel_all,hủy các lệnh khẩn trương
+cancel_all,hủy các lệnh
+cancel_all,hủy các lệnh mua và bán
+cancel_all,hủy các lệnh mua
+cancel_all,hủy các lệnh bán
+cancel_all,hủy đống lệnh của tôi đi
+cancel_all,hủy hết đống lệnh
+cancel_all,hủy đống lệnh
+cancel_all,hủy mọi lệnh
+cancel_all,hủy mọi lệnh của tôi
+cancel_all,hủy mọi lệnh mua và bán của tôi ngay
+cancel_all,hủy mọi lệnh mua và bán
+cancel_all,hủy mọi lệnh chờ đi
+cancel_all,hủy mọi thứ
+cancel_all,hủy hàng loạt các lệnh
+cancel_all,hủy tất thảy luôn
+cancel_all,hủy tất thẩy các lệnh
+cancel_all,hủy tất thẩy lệnh đi
+cancel_all,hủy toàn bộ
+cancel_all,hủy toàn bộ lệnh
+cancel_all,hủy toàn bộ lệnh mua ssi
+cancel_all,hủy toàn bộ lệnh mua 
+cancel_all,hủy toàn bộ lệnh mua và bán
+cancel_all,hủy toàn bộ các lệnh mua và bán
+cancel_all,hủy toàn bộ các lệnh
+cancel_all,hủy toàn bộ lệnh của tôi
+cancel_all,hủy toàn bộ các lệnh đặt mua
+cancel_all,hủy toàn bộ các lệnh đặt bán
+cancel_all,hủy toàn bộ lệnh tôi đặt bán và mua
+cancel_all,hủy toàn bộ các lệnh khẩn trương
+cancel_all,hủy toàn bộ các lệnh mua và bán khẩn trương
+cancel_all,hủy toàn bộ các lệnh tôi có
+cancel_all,hủy toàn bộ khẩn trương
+cancel_all,hủy toàn bộ lệnh đầu tư
+cancel_all,hủy mọi lệnh đầu tư
+cancel_all,hủy hết lệnh đầu tư
+cancel_all,hủy tất cả lệnh đầu tư
+cancel_all,có gì hủy tấtS
+cancel_all,có lệnh gì hủy tất
+cancel_all,có lệnh gì hủy sạch đi
+cancel_all,có lệnh gì hủy bỏ tất
+cancel_all,có lệnh gì hủy tất đi
+cancel_all,có lệnh gì bỏ hết đi
+cancel_all,có lệnh mua bán gì hủy sạch đi
+cancel_all,lệnh gì hủy tất
+cancel_all,lệnh của tôi hủy tất
+cancel_all,lệnh hủy tất
+cancel_all,lệnh đặt mua hủy tất
+cancel_all,lệnh đặt bán hủy tất
+cancel_all,lệnh mua bán hủy tất
+cancel_all,lệnh đầu tư hủy tất
+cancel_all,các lệnh hủy đi
+cancel_all,lệnh của tôi hủy hết đi
+cancel_all,huỷ hết lệnh
+cancel_all,hủy hết sạch lệnh đi
+cancel_all,hủy hết sạch lệnh mua bán đi
+cancel_all,hủy mọi loại lệnh
+cancel_all,hủy mọi loại lệnh mua bán
+cancel_all,hủy sạch lệnh cho tôi
+cancel_all,các lệnh hủy hết đi
+cancel_all,hủy sạch mọi lệnh
+cancel_all,hủy hết sạch các loại lệnh của tôi
+cancel_all,mọi lệnh hủy hết đi
+cancel_all,hủy các lệnh không hợp lệ cho tôi
+cancel_all,hủy toàn bộ lệnh đặt mua ssi cho tôi
+cancel_all, hủy hết các lệnh cho tôi
+cancel_all,tôi muốn hủy hết tất cả lệnh
+cancel_all,tôi muốn hủy hết toàn bộ đống lệnh
+cancel_all,tôi muốn hủy hết lệnh
+cancel_all,tôi muốn hủy hết lệnh của tôi
+cancel_all,tôi muốn hủy bỏ hết lệnh
+cancel_all,dừng tất cả lệnh
+cancel_all,dừng tất cả các lệnh mua và bán
+cancel_all,dừng tất cả các lệnh
+cancel_all,dừng tất cả đi
+cancel_all,dừng tất cả lệnh của tôi
+cancel_all,dừng tất cả các lệnh đặt mua
+cancel_all,dừng tất cả các lệnh đặt bán
+cancel_all,dừng tất cả lệnh tôi đặt bán và mua
+cancel_all,dừng tất cả các lệnh mua và bán khẩn trương
+cancel_all,dừng tất cả các lệnh khẩn trương
+cancel_all,dừng tất cả các lệnh tôi có
+cancel_all,dừng tất cả khẩn trương
+cancel_all,dừng khẩn trương
+cancel_all,dừng tất
+cancel_all,dừng tất khẩn trương
+cancel_all,dừng tất đi
+cancel_all,dừng tất ngay
+cancel_all,dừng tất luôn
+cancel_all,dừng các lệnh khẩn trương
+cancel_all,dừng các lệnh
+cancel_all,dừng các lệnh mua và bán
+cancel_all,dừng các lệnh mua
+cancel_all,dừng các lệnh bán
+cancel_all,dừng đống lệnh
+cancel_all,dừng hết đống lệnh
+cancel_all,dừng mọi lệnh của tôi
+cancel_all,dừng mọi lệnh mua và bán
+cancel_all,dừng mọi lệnh chờ đi
+cancel_all,dừng mọi thứ
+cancel_all,dừng hàng loạt các lệnh
+cancel_all,dừng tất thảy luôn
+cancel_all,dừng tất thẩy các lệnh
+cancel_all,dừng toàn bộ
+cancel_all,dừng toàn bộ lệnh mua ssi
+cancel_all,dừng toàn bộ các lệnh mua và bán
+cancel_all,dừng toàn bộ các lệnh
+cancel_all,dừng toàn bộ lệnh
+cancel_all,dừng toàn bộ các lệnh đặt mua
+cancel_all,dừng toàn bộ các lệnh đặt bán
+cancel_all,dừng toàn bộ lệnh tôi đặt bán và mua
+cancel_all,dừng toàn bộ các lệnh khẩn trương
+cancel_all,dừng toàn bộ các lệnh mua và bán khẩn trương
+cancel_all,dừng toàn bộ các lệnh tôi có
+cancel_all,dừng toàn bộ khẩn trương
+cancel_all,dừng toàn bộ loại lệnh đi
+cancel_all,dừng mọi loại lệnh đi
+cancel_all,dừng toàn bộ lệnh đầu tư
+cancel_all,dừng toàn bộ lệnh đầu tư vào ssi
+cancel_all,dừng mọi lệnh đầu tư
+cancel_all,dừng hết lệnh đầu tư
+cancel_all,dừng tất cả lệnh đầu tư
+cancel_all,ngừng tất cả lệnh
+cancel_all,ngừng tất cả các lệnh mua và bán
+cancel_all,ngừng tất cả các lệnh
+cancel_all,ngừng tất cả đi
+cancel_all,ngừng tất cả lệnh của tôi
+cancel_all,ngừng tất cả các lệnh đặt mua
+cancel_all,ngừng tất cả các lệnh đặt bán
+cancel_all,ngừng tất cả lệnh tôi đặt bán và mua
+cancel_all,ngừng tất cả các lệnh mua và bán khẩn trương
+cancel_all,ngừng tất cả các lệnh khẩn trương
+cancel_all,ngừng tất cả các lệnh tôi có
+cancel_all,ngừng tất cả khẩn trương
+cancel_all,ngừng khẩn trương
+cancel_all,ngừng tất
+cancel_all,ngừng tất khẩn trương
+cancel_all,ngừng tất ngay
+cancel_all,ngừng tất luôn
+cancel_all,ngừng các lệnh khẩn trương
+cancel_all,ngừng các lệnh
+cancel_all,ngừng các lệnh mua và bán
+cancel_all,ngừng các lệnh mua
+cancel_all,ngừng các lệnh bán
+cancel_all,ngừng đống lệnh
+cancel_all,ngừng hết đống lệnh
+cancel_all,ngừng mọi lệnh
+cancel_all,ngừng mọi lệnh mua và bán
+cancel_all,ngừng mọi thứ
+cancel_all,ngừng hàng loạt các lệnh
+cancel_all,ngừng tất thảy luôn
+cancel_all,ngừng tất thẩy các lệnh
+cancel_all,ngừng toàn bộ
+cancel_all,ngừng toàn bộ lệnh
+cancel_all,ngừng toàn bộ lệnh mua ssi
+cancel_all,ngừng toàn bộ các lệnh mua và bán
+cancel_all,ngừng toàn bộ các lệnh
+cancel_all,ngừng toàn bộ các lệnh đặt mua
+cancel_all,ngừng toàn bộ các lệnh đặt bán
+cancel_all,ngừng toàn bộ lệnh tôi đặt bán và mua
+cancel_all,ngừng toàn bộ các lệnh mua và bán khẩn trương
+cancel_all,ngừng toàn bộ các lệnh khẩn trương
+cancel_all,ngừng toàn bộ các lệnh tôi có
+cancel_all,ngừng toàn bộ khẩn trương
+cancel_all,ngừng toàn bộ lệnh đầu tư
+cancel_all,ngừng toàn bộ lệnh đầu tư vào mã ssi
+cancel_all,ngừng tất cả lệnh đầu tư
+cancel_all,ngừng mọi lệnh đầu tư
+cancel_all,ngừng hết lệnh đầu tư
+cancel_all,hủy bỏ tất cả lệnh
+cancel_all,hủy bỏ tất cả các lệnh mua và bán
+cancel_all,hủy bỏ tất cả các lệnh
+cancel_all,hủy bỏ tất cả lệnh của tôi
+cancel_all,hủy bỏ tất cả các lệnh đặt mua
+cancel_all,hủy bỏ tất cả các lệnh đặt bán
+cancel_all,hủy bỏ tất cả lệnh tôi đặt bán và mua
+cancel_all,hủy bỏ tất cả các lệnh mua và bán khẩn trương
+cancel_all,hủy bỏ tất cả các lệnh khẩn trương
+cancel_all,hủy bỏ tất cả các lệnh tôi có
+cancel_all,hủy bỏ tất cả
+cancel_all,hủy bỏ tất cả khẩn trương
+cancel_all,hủy bỏ khẩn trương
+cancel_all,hủy bỏ tất
+cancel_all,hủy bỏ tất khẩn trương
+cancel_all,hủy bỏ tất ngay
+cancel_all,hủy bỏ tất luôn
+cancel_all,hủy bỏ các lệnh khẩn trương
+cancel_all,hủy bỏ các lệnh
+cancel_all,hủy bỏ các lệnh mua và bán
+cancel_all,hủy bỏ các lệnh mua 
+cancel_all,hủy bỏ các lệnh bán 
+cancel_all,hủy bỏ đống lệnh
+cancel_all,hủy bỏ hết đống lệnh
+cancel_all,hủy bỏ mọi lệnh
+cancel_all,hủy bỏ mọi lệnh mua và bán
+cancel_all,hủy bỏ mọi thứ
+cancel_all,hủy bỏ hàng loạt các lệnh
+cancel_all,hủy bỏ hết sạch đống lệnh đi
+cancel_all,hủy bỏ tất thảy luôn
+cancel_all,hủy bỏ tất thẩy các lệnh
+cancel_all,hủy bỏ toàn bộ
+cancel_all,hủy bỏ toàn bộ lệnh mua ssi
+cancel_all,hủy bỏ toàn bộ các lệnh mua và bán
+cancel_all,hủy bỏ toàn bộ các lệnh
+cancel_all,hủy bỏ toàn bộ lệnh
+cancel_all,hủy bỏ toàn bộ các lệnh đặt mua
+cancel_all,hủy bỏ toàn bộ các lệnh đặt bán
+cancel_all,hủy bỏ toàn bộ lệnh tôi đặt bán và mua
+cancel_all,hủy bỏ toàn bộ các lệnh khẩn trương
+cancel_all,hủy bỏ toàn bộ các lệnh mua và bán khẩn trương
+cancel_all,hủy bỏ toàn bộ các lệnh tôi có
+cancel_all,hủy bỏ toàn bộ khẩn trương
+cancel_all,hủy bỏ toàn bộ lệnh đầu tư
+cancel_all,hủy bỏ toàn bộ lệnh đầu tư vào mã ssi
+cancel_all,hủy bỏ mọi lệnh đầu tư
+cancel_all,hủy bỏ hết lệnh đầu tư
+cancel_all,hủy bỏ tất cả lệnh đầu tư
+cancel_all,tạm dừng tất cả lệnh
+cancel_all,tạm dừng tất cả các lệnh mua và bán
+cancel_all,tạm dừng tất cả các lệnh
+cancel_all,tạm dừng tất cả các lệnh đặt mua
+cancel_all,tạm dừng tất cả các lệnh đặt bán
+cancel_all,tạm dừng tất cả lệnh tôi đặt bán và mua
+cancel_all,tạm dừng tất cả các lệnh mua và bán khẩn trương
+cancel_all,tạm dừng tất cả các lệnh khẩn trương
+cancel_all,tạm dừng tất cả các lệnh tôi có
+cancel_all,tạm dừng tất cả
+cancel_all,tạm dừng tất cả khẩn trương
+cancel_all,tạm dừng khẩn trương
+cancel_all,tạm dừng tất
+cancel_all,tạm dừng tất khẩn trương
+cancel_all,tạm dừng tất ngay
+cancel_all,tạm dừng tất luôn
+cancel_all,tạm dừng các lệnh khẩn trương
+cancel_all,tạm dừng các lệnh
+cancel_all,tạm dừng các lệnh mua và bán
+cancel_all,tạm dừng các lệnh mua
+cancel_all,tạm dừng các lệnh bán
+cancel_all,tạm dừng đống lệnh
+cancel_all,tạm dừng hết đống lệnh
+cancel_all,tạm dừng mọi lệnh
+cancel_all,tạm dừng mọi lệnh của tôi
+cancel_all,tạm dừng mọi lệnh mua và bán của tôi ngay
+cancel_all,tạm dừng mọi lệnh mua và bán
+cancel_all,tạm dừng mọi thứ
+cancel_all,tạm dừng hàng loạt các lệnh
+cancel_all,tạm dừng tất thảy luôn
+cancel_all,tạm dừng tất thẩy các lệnh
+cancel_all,tạm dừng toàn bộ
+cancel_all,tạm dừng toàn bộ lệnh
+cancel_all,tạm dừng toàn bộ lệnh mua ssi
+cancel_all,tạm dừng toàn bộ các lệnh mua và bán
+cancel_all,tạm dừng toàn bộ các lệnh
+cancel_all,tạm dừng toàn bộ các lệnh đặt mua
+cancel_all,tạm dừng toàn bộ các lệnh đặt bán
+cancel_all,tạm dừng toàn bộ lệnh tôi đặt bán và mua
+cancel_all,tạm dừng toàn bộ các lệnh mua và bán khẩn trương
+cancel_all,tạm dừng toàn bộ các lệnh khẩn trương
+cancel_all,tạm dừng toàn bộ các lệnh tôi có
+cancel_all,tạm dừng toàn bộ khẩn trương
+cancel_all,tạm dừng toàn bộ lệnh đầu tư
+cancel_all,tạm dừng toàn bộ lệnh đầu tư vào mã ssi
+cancel_all,tạm dừng mọi lệnh đầu tư
+cancel_all,tạm dừng hết lệnh đầu tư
+cancel_all,tạm dừng tất cả lệnh đầu tư
+cancel_all,ngưng tất cả lệnh
+cancel_all,ngưng tất cả các lệnh mua và bán
+cancel_all,ngưng tất cả các lệnh
+cancel_all,ngưng tất cả lệnh của tôi
+cancel_all,ngưng tất cả các lệnh đặt mua
+cancel_all,ngưng tất cả các lệnh đặt bán
+cancel_all,ngưng tất cả lệnh tôi đặt bán và mua
+cancel_all,ngưng tất cả các lệnh mua và bán khẩn trương
+cancel_all,ngưng tất cả các lệnh khẩn trương
+cancel_all,ngưng tất cả các lệnh tôi có
+cancel_all,ngưng tất cả
+cancel_all,ngưng tất cả khẩn trương
+cancel_all,ngưng khẩn trương
+cancel_all,ngưng tất
+cancel_all,ngưng tất khẩn trương
+cancel_all,ngưng tất ngay
+cancel_all,ngưng tất luôn
+cancel_all,ngưng các lệnh khẩn trương
+cancel_all,ngưng các lệnh
+cancel_all,ngưng các lệnh mua và bán
+cancel_all,ngưng các lệnh mua
+cancel_all,ngưng các lệnh bán
+cancel_all,ngưng đống lệnh
+cancel_all,ngưng hết đống lệnh
+cancel_all,ngưng mọi lệnh
+cancel_all,ngưng mọi lệnh mua và bán của tôi ngay
+cancel_all,ngưng mọi lệnh mua và bán
+cancel_all,ngưng mọi thứ
+cancel_all,ngưng hàng loạt các lệnh
+cancel_all,ngưng tất thảy luôn
+cancel_all,ngưng tất thẩy các lệnh
+cancel_all,ngưng toàn bộ
+cancel_all,ngưng toàn bộ lệnh
+cancel_all,ngưng toàn bộ lệnh mua ssi
+cancel_all,ngưng toàn bộ các lệnh mua và bán
+cancel_all,ngưng toàn bộ các lệnh
+cancel_all,ngưng toàn bộ các lệnh đặt mua
+cancel_all,ngưng toàn bộ các lệnh đặt bán
+cancel_all,ngưng toàn bộ lệnh tôi đặt bán và mua
+cancel_all,ngưng toàn bộ các lệnh khẩn trương
+cancel_all,ngưng toàn bộ các lệnh tôi có
+cancel_all,ngưng toàn bộ khẩn trương 
+cancel_all,ngưng toàn bộ lệnh đầu tư
+cancel_all,ngưng toàn bộ lệnh đầu tư vào ssi
+cancel_all,ngưng mọi lệnh đầu tư
+cancel_all,ngưng hết lệnh đầu tư
+cancel_all,ngưng tất cả lệnh đầu tư
+cancel,huỷ
+cancel,hủy giúp tôi với
+cancel,bỏ qua
+cancel,bỏ đi
+cancel,về lại chức năng chính
+cancel,chức năng hệ thống
+cancel,danh sách chức năng hệ thống
+cancel,quay lại chức năng chính
+cancel,quay về chức năng chính
+cancel,không đặt nữa
+cancel,không làm nữa
+cancel,hủy bỏ
+cancel,loại bỏ
+cancel,tạm dừng giao dịch
+cancel,tạm dừng lệnh giao dịch
+cancel,tạm dừng
+cancel,tạm dừng lệnh mua
+cancel,tạm dừng lệnh bán
+cancel,bỏ qua lệnh
+cancel,dừng chức năng này đi
+cancel,dừng khớp lệnh đi
+cancel,loại bỏ lệnh
+cancel,ngưng lại
+cancel,ngừng lại
+cancel,về trang chủ
+cancel,trở về trang chủ
+cancel,quay lại trang chủ
+cancel,quay về trang chủ
+cancel,trở lại trang chủ
+cancel,tới trang chủ
+cancel,trở về
+cancel,trở lại
+cancel,dừng đặt lệnh
+cancel,bỏ đặt lệnh
+cancel,dừng làm
+cancel,đừng làm
+cancel,quay trở lại
+cancel,quay trở lại trang chủ
+cancel,quay trở lại tính năng trước
+cancel,không khớp lệnh
+cancel,bỏ khớp lệnh
+cancel,hủy khớp lệnh
+cancel,về chức năng chính
+cancel,về chức năng hệ thống
+cancel,tới chức năng chính
+cancel,tới chức năng hệ thống
+cancel,đến chức năng chính
+cancel,đến chức năng hệ thống
+cancel,dừng lại đi
+cancel,dừng ngay đi
+cancel,bỏ qua lệnh bán đi
+cancel,bỏ qua lệnh mua đi
+cancel,ngưng lệnh đặt mua
+cancel,ngưng lệnh đặt bán
+cancel,hủy lệnh mua
+cancel,hủy lệnh bán
+cancel,ngừng lệnh bán
+cancel,bỏ lệnh bán
+cancel,bỏ lệnh mua
+cancel,về lại ngay
+cancel,tôi muốn ngừng khớp lệnh
+cancel,tôi muốn dừng khớp lệnh mua
+cancel,tôi muốn dừng khớp lệnh bán
+cancel,tôi muốn ngừng khớp lệnh mua
+cancel,tôi muốn ngừng khớp lệnh bán
+cancel,dừng khớp lệnh mua ssi
+cancel,hủy khớp lệnh mua ssi
+cancel,hủy bỏ khớp lệnh mua ssi
+cancel,hủy bỏ lệnh mua ssi
+cancel,hủy bỏ lệnh mua 100 ssi của tôi
+cancel,hủy bỏ lệnh mua 100 ssi của tôi hôm qua
+cancel,hủy lệnh đặt mua 100 ssi cho tôi 
+cancel,hủy lệnh nhé
+cancel,ngừng lệnh mua
+cancel,ngừng lệnh bán cho tôi
+cancel,hủy bỏ lệnh mua đi
+cancel,hủy bỏ lệnh bán cho tôi
+cancel,hủy lệnh
+cancel,hủy cái lệnh
+cancel,hủy lệnh đặt mua ssi
+cancel,hủy lệnh đặt bán ssi
+cancel,hủy cái lệnh mua ssi 
+cancel,hủy cái lệnh bán ssi
+cancel,hủy lệnh múc ssi 
+cancel,hủy lệnh xúc ssi 
+cancel,hủy lệnh bán tháo hàng 
+cancel,hủy lệnh bán tháo ssi của tôi
+cancel,cho tôi hủy lệnh đặt mua ssi
+cancel,cho tôi hủy lệnh đặt bán ssi
+cancel,cho tôi hủy cái lệnh đặt mua ssi
+cancel,cho tôi hủy cái lênh đặt bán ssi
+cancel,hủy lệnh mua ssi
+cancel,hủy lệnh bán ssi
+cancel,hủy lệnh đầu tư ssi đi
+cancel,hủy lệnh giao dịch
+cancel,hủy lệnh giao dịch mua ssi 
+cancel,hủy lệnh giao dịch bán ssi 
+cancel,hủy lệnh gom ssi
+cancel,hủy lệnh đi cái
+cancel,bỏ lệnh
+cancel,bỏ cái lệnh
+cancel,bỏ lệnh đặt mua ssi
+cancel,bỏ lệnh đặt bán ssi
+cancel,bỏ cái lệnh đặt mua ssi
+cancel,bỏ lệnh múc ssi 
+cancel,bỏ lệnh xúc ssi 
+cancel,bỏ lệnh bán tháo hàng 
+cancel,bỏ lệnh bán tháo ssi của tôi
+cancel,cho tôi bỏ lệnh đặt mua ssi
+cancel,cho tôi bỏ lệnh đặt bán ssi
+cancel,cho tôi bỏ cái lệnh đặt mua ssi
+cancel,cho tôi bỏ cái lênh đặt bán ssi
+cancel,bỏ lệnh mua ssi
+cancel,bỏ lệnh bán ssi
+cancel,bỏ lệnh đầu tư ssi đi
+cancel,bỏ lệnh giao dịch
+cancel,bỏ lệnh giao dịch mua ssi 
+cancel,bỏ lệnh giao dịch bán ssi 
+cancel,bỏ lệnh gom ssi
+cancel,hủy bỏ lênh
+cancel,hủy bỏ cái lệnh
+cancel,hủy bỏ lệnh đặt mua ssi
+cancel,hủy bỏ lệnh đặt bán ssi
+cancel,hủy bỏ cái lệnh đặt mua ssi
+cancel,hủy bỏ lệnh múc ssi 
+cancel,hủy bỏ lệnh xúc ssi 
+cancel,hủy bỏ lệnh bán tháo hàng 
+cancel,hủy bỏ lệnh bán tháo ssi
+cancel,cho tôi hủy bỏ lệnh đặt mua ssi
+cancel,cho tôi hủy bỏ lệnh đặt bán ssi
+cancel,cho tôi hủy bỏ cái lệnh đặt mua ssi
+cancel,cho tôi hủy bỏ cái lênh đặt bán ssi
+cancel,hủy bỏ lệnh mua ssi
+cancel,hủy bỏ lệnh bán ssi
+cancel,hủy bỏ lệnh đầu tư ssi đi
+cancel,hủy bỏ lệnh giao dịch
+cancel,hủy bỏ lệnh giao dịch mua ssi 
+cancel,hủy bỏ lệnh giao dịch bán ssi 
+cancel,hủy bỏ lệnh gom ssi
+cancel,hủy bỏ lệnh đi cái
+cancel,ngừng lệnh
+cancel,ngừng cái lệnh
+cancel,ngừng lệnh đặt mua
+cancel,ngừng lệnh đặt bán
+cancel,ngừng cái lệnh đặt mua ssi
+cancel,ngừng lệnh múc ssi 
+cancel,ngừng lệnh xúc ssi 
+cancel,ngừng lệnh bán tháo hàng 
+cancel,ngừng lệnh bán tháo ssi của tôi
+cancel,ngừng lệnh đặt mua ssi
+cancel,ngừng lệnh đặt bán ssi
+cancel,ngừng cái lênh đặt bán ssi
+cancel,ngừng lệnh mua ssi
+cancel,ngừng lệnh bán ssi
+cancel,ngừng lệnh đầu tư ssi đi
+cancel,ngừng lệnh giao dịch
+cancel,ngừng lệnh giao dịch mua ssi 
+cancel,ngừng lệnh giao dịch bán ssi 
+cancel,ngừng lệnh gom ssi
+cancel,ngừng lệnh đi cái
+cancel,dừng lênh
+cancel,dừng cái lệnh
+cancel,dừng lệnh đặt mua
+cancel,dừng lệnh đặt bán
+cancel,dừng cái lệnh đặt mua ssi
+cancel,dừng cái lệnh bán ssi
+cancel,dừng lệnh múc ssi 
+cancel,dừng lệnh xúc ssi 
+cancel,dừng lệnh bán tháo hàng 
+cancel,dừng lệnh bán tháo ssi của tôi
+cancel,cho tôi dừng lệnh đặt mua ssi
+cancel,cho tôi dừng lệnh đặt bán ssi
+cancel,cho tôi dừng cái lệnh đặt mua ssi
+cancel,cho tôi dừng cái lênh đặt bán ssi
+cancel,dừng lệnh mua ssi
+cancel,dừng lệnh bán ssi
+cancel,dừng lệnh đầu tư ssi đi
+cancel,dừng lệnh giao dịch đi
+cancel,dừng lệnh giao dịch mua ssi 
+cancel,dừng lệnh giao dịch bán ssi 
+cancel,dừng lệnh gom ssi
+cancel,dừng lệnh đi cái
+cancel,ngưng lênh
+cancel,ngưng cái lệnh
+cancel,ngưng lệnh đặt mua ssi
+cancel,ngưng lệnh đặt bán ssi
+cancel,ngưng cái lệnh đặt mua ssi
+cancel,ngưng cái lệnh mua ssi
+cancel,ngưng lệnh múc ssi 
+cancel,ngưng lệnh xúc ssi 
+cancel,ngưng lệnh bán tháo hàng 
+cancel,ngưng lệnh bán tháo ssi của tôi
+cancel,cho tôi ngưng lệnh đặt mua ssi
+cancel,cho tôi ngưng lệnh đặt bán ssi
+cancel,cho tôi ngưng cái lệnh đặt mua ssi
+cancel,cho tôi ngưng cái lênh đặt bán ssi
+cancel,ngưng lệnh mua ssi
+cancel,ngưng lệnh bán ssi
+cancel,ngưng lệnh đầu tư ssi đi
+cancel,ngưng lệnh giao dịch đi
+cancel,ngưng lệnh giao dịch mua ssi 
+cancel,ngưng lệnh giao dịch bán ssi 
+cancel,ngưng lệnh gom ssi
+cancel,ngưng lệnh đi cái
+cancel,tạm dừng lênh
+cancel,tạm dừng cái lệnh
+cancel,tạm dừng lệnh đặt mua ssi
+cancel,tạm dừng lệnh đặt bán ssi
+cancel,tạm dừng cái lệnh đặt mua ssi
+cancel,tạm dừng cái lệnh đặt bán ssi
+cancel,tạm dừng lệnh múc ssi 
+cancel,tạm dừng lệnh xúc ssi 
+cancel,tạm dừng lệnh bán tháo hàng 
+cancel,tạm dừng lệnh bán tháo ssi của tôi
+cancel,cho tôi tạm dừng lệnh đặt mua ssi
+cancel,cho tôi tạm dừng lệnh đặt bán ssi
+cancel,cho tôi tạm dừng cái lệnh đặt mua ssi
+cancel,cho tôi tạm dừng cái lênh đặt bán ssi
+cancel,tạm dừng lệnh mua ssi
+cancel,tạm dừng lệnh bán ssi
+cancel,tạm dừng lệnh đầu tư ssi đi
+cancel,tạm dừng lệnh giao dịch đi
+cancel,tạm dừng lệnh giao dịch mua ssi 
+cancel,tạm dừng lệnh giao dịch bán ssi 
+cancel,tạm dừng lệnh gom ssi
+cancel,tạm dừng lệnh đi cái 
+end,kết thúc chương trình
+end,kết thúc app
+end,kết thúc đi
+end,chấm dứt ngayce
+end,chấm dứt đi
+end,chấm dứt chương trình ngay
+end,chấm dứt app
+end,trở lại sau
+end,trở lại sau nhé
+end,đi đây
+end,chào
+end,thế nhé
+end,tắt app
+end,tắt app nhé
+end,tắt ứng dụng
+end,tắt chương trình
+end,tạm biệt nhé
+end,chào tạm biệt nhé
+end,dừng chương trình
+end,dừng app
+end,dừng ứng dụng
+end,thoát
+end,tạm biệt
+end,bye bye
+end,gặp lại sau
+end,gặp lại sau nhé
+end,mai nói chuyện sau
+end,mai nói chuyện sau nhé
+end,mai gặp lại
+end,mai gặp lại nhé
+end,hẹn lúc khác nhé
+end,hẹn gặp sau nhé
+end,chào tạm biệt
+end,thoát chương trình
+end,thoát app
+end,thoát khỏi chương trình
+end,bye
+end,đóng
+end,đóng app
+end,đóng chương trình
+end,quay lại sau
+end,tắt
+end,tắt app điện
+end,chào nhé
+end,dừng chương trình ngay đi nhé
+end,ngưng chương trình nhé
+end,tắt phần mềm ngay
+end,dừng phần mềm đi
+end,chấm dứt phần mềm
+end,kết thúc phần mềm đi
+end,kết thúc phần mềm cho tôi
+end,ngừng sử dụng chương trình 
+end,ngừng chương trình 
+end,ngừng phần mềm 
+end,ngừng sử dụng phần mềm
+ratio_status,trạng thái tài khoản
+ratio_status,trạng thái tài khoản của tôi
+ratio_status,trạng thái tài khoản thế nào?
+ratio_status,trạng thái tài khoản hiện thế nào nhỉ?
+ratio_status,trạng thái tài khoản đang thế nào?
+ratio_status,tài khoản của tôi đang có trạng thái thế nào
+ratio_status,trạng thái của tài khoản
+ratio_status,tình trạng tk của tôi đang thế nào?
+ratio_status,tài khoản của tôi đang có tình trạng thế nào vậy?
+ratio_status,tình trạng tk của tôi đang ở ngưỡng nào?
+ratio_status,tình trạng tài khoản của tôi đang trong ngưỡng nào?
+ratio_status,tk của tôi đang trong tình trạng nào?
+ratio_status,tình trạng của tk của tôi có báo động không?
+ratio_status,tình trạng tk có trong ngưỡng báo động không?
+ratio_status,tk đang ngưỡng báo động?
+ratio_status,tk có đang bị báo động
+ratio_status,tài khoản có đang bị báo động không?
+ratio_status,tài khoản của tôi có đủ an toàn?
+ratio_status,tk của tôi có đủ an toàn không?
+ratio_status,tỷ lệ tài khoản
+ratio_status,trạng thái tk đang thế nào?
+ratio_status,tỷ lệ tài khoản đang thế nào nhỉ?
+ratio_status, trạng thái của tài khoản của tôi
+ratio_status,tỷ lệ tài khoản của tôi
+ratio_status,tài khoản đang có trạng thái thế nào
+ratio_status,trạng thái của tk bây giờ
+ratio_status,tài khoản tỷ lệ ra sao
+ratio_status,tỷ lệ tài khoản thế nào nhỉ
+ratio_status,tỷ lệ của tài khoản thế nào nhỉ?
+ratio_status,tỷ lệ margin
+ratio_status,tỷ lệ margin thế nào
+ratio_status,tài khoản đang trong trạng thái an toàn chứ
+ratio_status,tài khoản an toàn chứ
+ratio_status,tài khoản vẫn trong trạng thái an toàn?
+ratio_status,tài khoản có đang ngưỡng báo động?
+ratio_status,tình trạng tk có đáng báo động không?
+ratio_status,margin tk?
+ratio_status,tỷ lệ margin hiện tại 
+ratio_status,tài khoản có margin thế nào nhỉ?
+ratio_status,tài khoản có tình trạng báo động không?
+ratio_status,tỷ lệ margin đang thế nào
+ratio_status,tỷ lệ tài khoản là bao nhiêu
+ratio_status,trạng thái tk có ổn định không?
+look,trông có xinh không?
+look,trông có đẹp không?
+look,có xinh không
+look,có đẹp không
+look,có da có thịt không nhỉ
+look,xấu hay đẹp
+look,nhìn xấu hay đẹp?
+look,nhìn thế nào
+look,xinh không
+look,đẹp không
+look,nhìn hay không?
+look,có nhìn được mắt không?
+look,nhìn có hợp mắt không?
+look,trông hợp mắt không?
+look,nhìn ưng không?
+look,trông ưng không?
+look,nhìn ưng chưa?
+look,nhìn ổn không?
+look,trông thế nào?
+look,trông đẹp không?
+look,có đẹp hay không?
+look,xinh hay xấu?
+look,trông hay không nhỉ?
+look,đẹp hay xấu
+look,nhìn đẹp không?
+look,trông được không?
+look,trông ổn không?
+look,nhìn trông thế nào
+look,có xinh không?
+market,thông tin về thị trường cái nào?
+market,tình hình mua bán hôm nay thế nào?
+market,giá ssi đang thế nào?
+market,giá ssi có biến động nhiều không
+market,thị trường hôm nay thế nào rồi
+market,thị trường thế nào
+market,thị trường hiện đang thế nào
+market,tình hình thị trường thế nào rồi
+market,lên xuống thế nào
+market,thị trường lên xuống thế nào
+market,thị trường biến động ra sao
+market,diễn biến thị trường ra sao
+market,tình hình diễn biến mã ssi thế nào
+market,thị trường biến động thế nào
+market,tình hình biến động mã ssi hôm nay
+market,biến động thế nào
+market,tổng quan thị trường
+market,tổng quan thị trường chứng khoán
+market,thị trường đang giao dịch thế nào
+market,tình hình giao dịch thế nào rồi
+market,tình hình giao dịch tích cực chứ?
+market,tình hình giao dịch có tiêu cực không?
+market,đang giao dịch thế nào
+market,số lượng mã ssi đang giao dịch có nhiều không?
+market,thanh khoản hôm nay cao chứ
+market,thanh khoản mã ssi có đột biến không
+market,thanh khoản hôm nay cao hay thấp
+market,thanh khoản hôm nay có sụt giảm không
+market,thanh khoản hôm nay tăng nhiều không?
+market,thanh khoản hôm nay giảm nhiều hay ít
+market,thanh khoản hôm nay thế nào rồi?
+market,tình hình thanh khoản thế nào rồi?
+market,thanh khoản thấp lắm à?
+market,thanh khoản có cao không?
+market,thanh khoản ssi có cao không?
+market,thanh khoản có đột biến không?
+market,thanh khoản hiện đang thế nào?
+market,thanh khoản ssi hiện đang thế nào?
+market,thị trường hiện đang ra sao
+market,mã ssi hiện đang ra sao
+market,mã ssi hiện đang thế nào
+market,giá cổ phiếu SSI thế nào?
+market,mã SSI hôm nay có ổn không?
+market,mã SSI hôm nay có biến động nhiều không?
+market,mã SSI hôm nay thế nào?
+market,mã SSI hôm nay tốt không?
+market,mã chứng khoán SSI hôm nay thế nào?
+market,SSI hôm nay thế nào nhỉ?
+market,mã chứng khoán SSI hiện ra sao
+market,cổ phiếu SSI hôm nay thế nào
+market,mã chứng khoán SSI biến động ra sao
+market,hôm nay SSI biến động nhiều không
+market,hôm nay chứng khoán SSI biến động thế nào
+market,tình hình cổ phiếu SSI hôm nay
+market,tình hình biến động mã SSI
+market,tình hình biến động cổ phiếu SSI hôm nay
+market,diễn biến mã SSI
+market,diễn biến mã chứng khoán SSI hôm nay
+market,diễn biến mã SSI hôm nay
+market,tổng quan mã cổ phiếu SSI hôm nay
+market,khối lượng giao dịch cổ phiếu SSI hôm nay
+market,giá đóng cửa hôm qua mã SSI
+market,về mã chứng khoán SSI
+market,thông tin mã SSI
+market,thông tin mã SSI hôm nay
+market,thông tin giao dịch mã chứng khoán SSI hôm nay
+market,thông tin chung về mã SSI
+market,toàn cảnh về mã cổ phiếu SSI
+market,toàn cảnh mã chứng khoán SSI hôm nay
+market,bao quát mã SSI
+market,giá trị cổ phiếu SSI
+market,báo cáo kết quả mã cổ phiếu SSI
+market,báo cáo kết quả mã chứng khoán SSI
+market,SSI tuần này xanh hay đỏ
+market,tin tức mã chứng khoán SSI hôm nay
+market,tin nhanh cổ phiếu SSI
+market,thông tin giá khớp lệnh của chứng khoán SSI 
+market,biến động cổ phiếu SSI
+market,diễn biến chứng khoán SSI
+market,kết quả giao dịch mã chứng khoán SSI hiện tại
+market,thông tin chứng khoán SSI
+market,thông tin mã cổ phiếu SSI
+market,thông tin giao dịch mã SSI
+market,tổng quan mã SSI hôm nay
+market,khối lượng giao dịch của cổ phiếu SSI hôm nay
+market,giá mở cửa hôm nay của mã chứng khoán SSI
+market,giá đóng cửa hôm qua của mã chứng khoán SSI
+market,giá hiện tại của mã cổ phiếu SSI
+market,giá hiện tại của mã chứng khoán SSI
+market,lịch sử giá cổ phiếu SSI
+market,biến động lên xuống của mã SSI
+market,lịch sử giao dịch mã chứng khoán SSI
+market,cổ phiếu SSI hôm nay
+market,tình hình mã chứng khoán SSI hôm nay
+market,thông tin cổ phiếu SSI hôm nay
+market,thông tin giao dịch chứng khoán SSI hôm nay
+market,thông tin mã chứng khoán SSI tổng quan
+market,toàn cảnh cổ phiếu SSI
+market,toàn cảnh mã cổ phiếu SSI hôm nay
+market,bao quát về cổ phiếu SSI
+market,giá cổ phiếu SSI
+market,báo cáo kết quả của cổ phiếu SSI
+market,báo cáo kết quả của mã chứng khoán SSI
+market,tin tức về cổ phiếu SSI hôm nay
+market,tin nhanh cổ phiếu SSI
+market,tin nhanh mã chứng khoán SSI
+market,thông tin giá khớp lệnh của chứng khoán SSI 
+market,cổ phiếu SSI thế nào
+market,mã SSI biến động ra sao
+market,tổng quan mã chứng khoán SSI thị trường
+market,tổng quan mã chứng khoán SSI
+market,thông tin cổ phiếu SSI
+market,thông tin giao dịch về cổ phiếu SSI
+market,cổ phiếu SSI đang giao dịch thế nào
+market,mã cổ phiếu SSI hiện ra sao
+market,cổ phiếu SSI biến động ra sao
+market,biến động mã SSI
+market,biến động cổ phiếu SSI hôm nay
+market,biến động mã chứng khoán SSI ra sao
+market,hôm nay mã SSI biến động thế nào
+market,hôm nay cổ phiếu SSI biến động ra sao
+market,tình hình cổ phiếu SSI
+market,tình hình biến động cổ phiếu SSI
+market,tình hình biến động mã chứng khoán SSI hôm nay
+market,diễn biến mã cổ phiếu SSI
+market,diễn biến hôm nay của cổ phiếu SSI
+market,diễn biến hôm nay của mã SSI
+market,diễn biến giao dịch mã SSI hôm nay
+market,mã ssi diễn biến thế nào rồi
+market,tình hình diễn biến mã ssi thế nào rồi
+market,kết quả giao dịch cổ phiếu SSI
+market,kết quả giao dịch chứng khoán SSI hiện tại
+market,thông tin giao dịch của cổ phiếu SSI
+market,thông tin giao dịch mã SSI hôm nay
+market,tổng quan về cổ phiếu SSI hôm nay
+market,khối lượng giao dịch của mã chứng khoán SSI hôm nay
+market,giá đóng cửa hôm qua của cổ phiếu SSI
+market,lịch sử giá của cổ phiếu SSI
+market,biến động lên xuống của mã chứng khoán SSI
+market,lịch sử giao dịch mã cổ phiếu SSI
+market,mã cổ phiếu SSI
+market,tình hình mã SSI
+market,thông tin về cổ phiếu SSI
+market,thông tin giao dịch của mã SSI
+market,mã SSI hôm nay
+market,tình hình mã cổ phiếu SSI hôm nay
+market,thông tin mã chứng khoán SSI hôm nay
+market,thông tin giao dịch của cổ phiếu SSI hôm nay
+market,thông tin chung về cổ phiếu SSI
+market,thông tin mã SSI tổng quan
+market,thông tin thị trường 
+market,thông tin chung về thị trường 
+market,thông tin tổng quát thị trường hôm nay
+market,tin tức cổ phiếu SSI hôm nay
+market,tin nhanh về mã SSI
+market,giá khớp lệnh của cổ phiếu SSI
+market,giá khớp lệnh của mã chứng khoán SSI
+market,giá mở cửa mã acb
+market,giá mở cửa ssi
+market,sáng nay giá mở cửa SSI bao nhiêu nhỉ
+market,cho tôi thông tin về SSI
+market,SSI lên xuống thế nào
+market,thông tin về SSI
+market,mã SSI thế nào rồi
+market,tình trạng SSI trên thị trường
+market,thông tin SSI
+market,biến động SSI
+market,tình trạng SSI
+market,tình hình SSI
+market,giá aaa đang thế nào?
+market,giá ssi ra sao rồi?
+market,có mã nào biến động mạnh không?
+market,mã nào đang tăng mạnh nhất nhỉ?
+market,mã nào thanh khoản đang cao nhất nhỉ?
+market,tình hình ssi thế nào rồi?
+market,biến động thị trường
+market,tình trạng thị trường hiện nay
+market,giá ssi đang lên hay xuống
+market,thị trường đang mua bán thế nào?
+order_status,lệnh thế nào rồi
+order_status,lệnh bán hợp lệ không?
+order_status,lệnh mua hợp lệ không?
+order_status,lệnh hợp lệ không?
+order_status,lệnh đặt mua thế nào rồi?
+order_status,lệnh đặt mua ssi thế nào rồi?
+order_status,cái lệnh đặt mua ssi thế nào rồi?
+order_status,cái lệnh đặt mua 100 ssi thế nào rồi?
+order_status,cái lệnh đặt bán ssi thế nào rồi?
+order_status,cái lệnh đặt bán 100 ssi thế nào rồi?
+order_status,lệnh đặt bán ssi đã được khớp chưa
+order_status,lệnh đặt bán ssi khớp chưa?
+order_status,cái lệnh đặt mua ssi đã được khớp chưa?
+order_status,cái lệnh đặt bán ssi đã được khớp chưa
+order_status,cái lệnh đặt bán ssi khớp chưa?
+order_status,lệnh mua thế nào rồi?
+order_status,giao dịch mua thế nào rồi?
+order_status,giao dịch mua ssi thế nào rồi
+order_status,lệnh đặt mua ssi đã được khớp chưa?
+order_status,lệnh mua đã được thực thi chưa 
+order_status,lệnh có đang được thực thi không?
+order_status,lệnh mua có được thực thi không?
+order_status,có lệnh nào không được khớp không?
+order_status,lệnh mua có hợp lệ không?
+order_status,đã khớp lệnh bán mã SSI chưa
+order_status,tình trạng chờ xử lý giao dịch của tôi
+order_status,tình trạng giao dịch thế nào
+order_status,lệnh bán cổ phiếu SSI ra sao
+order_status,trạng thái lệnh mua cổ phiếu SSI
+order_status,trạng thái lệnh mua mã SSI
+order_status,trạng thái lệnh bán mã SSI
+order_status,tình trạng lệnh mua cổ phiếu SSI
+order_status,thông tin lệnh bán mã SSI
+order_status,thông tin lệnh mua cổ phiếu SSI
+order_status,tình trạng khớp lệnh mã SSI
+order_status,thông tin khớp lệnh mã SSI
+order_status,tình trạng khớp lệnh cổ phiếu SSI
+order_status,thông tin khớp lệnh cổ phiếu SSI
+order_status,trạng thái khớp lệnh mã SSI
+order_status,trạng thái khớp lệnh cổ phiếu SSI 
+order_status,hãy cho tôi biết trạng thái giao dịch mã SSI 
+order_status,giao dịch mua SSI đã thực hiện xong chưa
+order_status,lệnh mã SSI đang chờ giao dịch
+order_status,lệnh mua cổ phiếu SSI có bị hủy khôn
+order_status,lệnh mua mã SSI đã được khớp chưa
+order_status,lệnh về cổ phiếu SSI đã giao dịch
+order_status,lệnh mã SSI đã giao dịch
+order_status,tình trạng giao dịch của lệnh mã cổ phiếu SSI
+order_status,tình trạng giao dịch của lệnh cổ phiếu SSI
+order_status,giao dịch khớp lệnh mã SSI
+order_status,kết quả khớp lệnh mã SSI
+order_status,kết quả khớp lệnh cổ phiếu SSI
+order_status,kết quả giao dịch lệnh mã SSI
+order_status,kết quả giao dịch lệnh cổ phiếu SSI
+order_status,kết quả giao dịch lệnh mã SSI của tôi
+order_status,kết quả giao dịch lệnh cổ phiếu SSI của tôi
+order_status,trạng thái lệnh mã SSI
+order_status,trạng thái lệnh cổ phiếu SSI của tôi
+order_status,tình trạng lệnh cổ phiếu SSI
+order_status,thông tin lệnh mã cổ phiếu SSI
+order_status,thông tin lệnh mã cổ phiếu SSI của tôi
+order_status,tình trạng khớp lệnh mã SSI của tôi
+order_status,thông tin khớp lệnh cổ phiếu SSI của tôi
+order_status,trạng thái khớp lệnh mã SSI của tôi
+order_status,lệnh mua cổ phiếu SSI khớp chưa nhỉ
+order_status,Tiền tôi bán cổ phiếu SSI về chưa nhỉ
+order_status,tình trạng khớp lệnh?
+order_status,các lệnh đang trong tình trạng nào?
+order_status,trạng thái khớp lệnh?
+order_status,khớp lệnh thế nào rồi?
+order_status,hiện trạng khớp lệnh?
+order_status,lệnh mua ssi của tôi đã được khớp chưa?
+order_status,lệnh mua đã được khớp chưa?
+order_status,lệnh bán đã được thực thi chưa?
+order_status,lệnh mua hợp lệ chứ?
+order_status,lệnh bán hợp lệ chứ?
+cash_balance,số tiền còn lại
+cash_balance,số dư tiền 
+cash_balance,số dư tiền tk đuôi 1
+cash_balance,tôi còn nhiều tiền không?
+cash_balance,tài khoản đuôi 1 của tôi còn bao nhiêu tiền?
+cash_balance,tôi còn nhiêu tiền nữa nhỉ?
+cash_balance,tk của tôi còn nhiêu tiền nữa?
+cash_balance,trạng thái tiền
+cash_balance,tình trạng tiền
+cash_balance,số tiền
+cash_balance,tiền thế nào?
+cash_balance,tiền nong
+cash_balance,số dư tài khoản tiền
+cash_balance,tài khoản đuôi 1 có bao tiền
+cash_balance,tài khoản đuôi 6 có bao nhiêu
+cash_balance,số dư tài khoản đuôi 1 ra sao
+cash_balance,số dư tiền tài khoản đuôi 1 là bao nhiêu
+cash_balance,số dư tiền tài khoản đuôi 1 ra sao
+cash_balance,bao nhiêu tiền
+cash_balance,số tiền hiện tại
+cash_balance,tiền thế nào
+cash_balance,số tiền dư
+cash_balance,tiền trong tài khoản
+cash_balance,thông tin tiền trong tài khoản
+cash_balance,trạng thái tiền trong tài khoản
+cash_balance,tài khoản đuôi 1 còn lại bao nhiêu tiền
+cash_balance,tài khoản của tôi còn lại bao nhiêu tiền
+cash_balance,dư tiền trong tài khoản
+cash_balance,dư nợ tiền tài khoản
+cash_balance,tiền dư bao nhiêu
+cash_balance,số dư tiền các tài khoản
+cash_balance,số dư tiền hiện có
+cash_balance,dữ liệu tiền của tài khoản
+cash_balance,tài khoản còn bao nhiêu tiền
+cash_balance,trạng thái tiền của tài khoản đuôi 1
+cash_balance,trạng thái tiền của tôi
+cash_balance,số tiền dư của tôi
+cash_balance,tiền trong tài khoản của tôi
+cash_balance,tài khoản còn dư bao nhiêu tiền
+cash_balance,tài khoản đuôi 3 còn dư bao nhiêu tiền
+cash_balance,dư tiền trong tài khoản của tôi
+cash_balance,dư nợ tiền tài khoản của tôi
+cash_balance,tiền dư của tôi bao nhiêu
+cash_balance,tài khoản tiền dư của tôi bao nhiêu
+cash_balance,số dư tiền các tài khoản của tôi
+cash_balance,dữ liệu tiền của tài khoản của tôi
+cash_balance,thông tin tiền trong tài khoản của tôi
+cash_balance,trạng thái tiền trong tài khoản của tôi 
+cash_balance,số dư tiền là bao nhiêu
+cash_balance,tài khoản dư bao nhiêu tiền
+cash_balance,tài khoản còn lại bao nhiêu tiền
+cash_balance,số dư tiền còn lại
+cash_balance,dư tiền tài khoản
+cash_balance,dư nợ tài khoản
+cash_balance,số tiền dư bao nhiêu
+cash_balance,thông tin tiền của các tài khoản
+cash_balance,thông tin tiền của tài khoản đuôi 1
+cash_balance,số tiền hiện có
+cash_balance,số dư hiện có
+cash_balance,tiền của các tài khoản hiện có
+cash_balance,dữ liệu tiền của các tài khoản
+cash_balance,số dư tiền
+cash_balance,số tiền còn lại
+cash_balance,tình trạng tiền trong tài khoản
+cash_balance,thông tin số dư tiền
+cash_balance,trạng thái tiền của tài khoản
+cash_balance,số dư tiền trong tài khoản của tôi
+cash_balance,số dư tiền tôi có
+cash_balance,số tiền tôi còn
+cash_balance,tôi có bao nhiêu tiền
+cash_balance,tôi tôi dư bao nhiêu tiền
+cash_balance,tôi có dư tiền không
+cash_balance,tôi còn bao nhiêu tiền
+cash_balance,tôi còn dư bao nhiêu tiền
+cash_balance,tôi còn bao nhiêu tiền dư
+cash_balance,số tiền tôi có
+cash_balance,số dư tiền tôi còn
+cash_balance,tiền dư tôi có
+cash_balance,số tiền dư của tôi trong tài khoản
+cash_balance,số tiền tôi có trong tài khoản
+cash_balance,tổng số tiền của tôi
+cash_balance,tổng số tiền dư tôi có
+cash_balance,tổng số tiền tôi còn
+cash_balance,tổng tiền dư tôi còn
+cash_balance,tổng số tiền dư tôi còn
+cash_balance,tài khoản của tôi có bao nhiêu tiền
+cash_balance,tài khoản của tôi còn bao nhiêu tiền dư 

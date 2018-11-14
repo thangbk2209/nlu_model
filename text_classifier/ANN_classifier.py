@@ -59,15 +59,15 @@ class Classifier:
         preprocessing_data = PreprocessingDataClassifier(self.embedding_dim, self.input_size, self.wv_file, file_data_classifier)
         print ('----------------------start training -----------------------')
         self.x_train, self.y_train, self.x_test, self.y_test, self.int2intent, self.test_label, self.all_sentences, self.texts = preprocessing_data.preprocessing_data_fastText()
-        self.x_train = np.reshape(self.x_train,(self.x_train.shape[0],self.x_train.shape[1] * self.x_train.shape[2]))
-        self.x_test = np.reshape(self.x_test,(self.x_test.shape[0],self.x_test.shape[1] * self.x_test.shape[2]))
+        # self.x_train = np.reshape(self.x_train,(self.x_train.shape[0],self.x_train.shape[1] * self.x_train.shape[2]))
+        # self.x_test = np.reshape(self.x_test,(self.x_test.shape[0],self.x_test.shape[1] * self.x_test.shape[2]))
 
         # Create graph
         tf.reset_default_graph()
-        x = tf.placeholder(tf.float32, name="x", shape=(None, self.input_size * self.embedding_dim))
-        hidden_value1 = tf.layers.dense(x, 1024, activation = tf.nn.relu, name="hidden1")
+        x = tf.placeholder(tf.float32, name="x", shape=(None, self.embedding_dim))
+        hidden_value1 = tf.layers.dense(x, 128, activation = tf.nn.relu, name="hidden1")
         hidden_value2 = tf.layers.dense(hidden_value1, 32, activation = tf.nn.sigmoid, name="hidden2")
-        prediction = tf.layers.dense(hidden_value1,self.num_classes, activation = tf.nn.softmax, name="prediction")
+        prediction = tf.layers.dense(hidden_value2,self.num_classes, activation = tf.nn.softmax, name="prediction")
         y_label = tf.placeholder(tf.float32, name="y_label", shape=(None, self.num_classes))
         # define the loss function:
         cross_entropy_loss = tf.reduce_mean(-tf.reduce_sum(y_label * tf.log(prediction), reduction_indices=[1]))

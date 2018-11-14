@@ -3,16 +3,16 @@ leng = 0
 train_file = open('train.txt','w')
 test_file = open('test.txt','w')
 
-with open ("./text_classifier_ver8.txt", encoding="utf8") as input:
+with open ("./text_classifier_ver11.txt", encoding="utf8") as input:
     for line in input:
         leng = leng + 1
 print (leng)
-train_size = int(leng * 0.8)
-print (train_size)
-train = np.random.choice(leng,train_size,replace=False)
-train = sorted(list(train))
+test_size = int(leng * 0.01)
+print (test_size)
+test = np.random.choice(leng,test_size,replace=False)
+test = sorted(list(test))
 for i in range(leng):
-    if i in train:
+    if i not in test:
         train_file.write(str(i)+" ")
     else:
         test_file.write(str(i)+" ")

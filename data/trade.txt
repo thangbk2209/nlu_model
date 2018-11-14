@@ -1,0 +1,104 @@
+trade,mua mã chứng khoán SSI
+trade,mua ssi
+trade,bán ssi
+trade,mua
+trade,bán
+trade,đặt lệnh mua
+trade,đặt lệnh bán
+trade,mua mã SSI
+trade,mua vào mã SSI
+trade,bán ra mã SSI
+trade,mua vào SSI
+trade,bán ra SSI
+trade,mua thêm mã SSI
+trade,mua thêm SSI
+trade,tôi muốn mua cp bcp
+trade,tôi muốn giao dịch cp bcp
+trade,tôi muốn đặt lệnh bán cp acb 
+trade,tôi muốn đầu tư vào mã acb
+trade,mua thêm cổ phiếu ssi
+trade,gom vào cp aaa 
+trade,xả cổ ssi 
+trade,múc ssi 
+trade,xúc ssi 
+trade,đầu tư ssi 
+trade,tôi muốn mua cố phiếu ssi
+trade,tôi muốn mua cổ phiếu ssi
+trade,tôi muốn mua cổ ssi 
+trade,tôi muốn mua mã ssi
+trade,tôi muốn mua mã chứng khoán SSI 
+trade,mua cho tôi mã chứng khoán SSI 
+trade,mua cổ phiếu SSI
+trade,mua thêm mã cổ phiếu SSI
+trade,bán hết cổ phiếu SSI
+trade,bán hết SSI 
+trade,bán mã cổ phiếu SSI 
+trade,bán mã cổ phiếu SSI 
+trade,bán mã cổ phiếu SSI
+trade,bán mã chứng khoán SSI 
+trade,bán cho tôi mã chứng khoán SSI 
+trade,bán mã SSI
+trade,bán cổ SSI
+trade,gom mã ssi
+trade,gom cổ phiếu ssi
+trade,gom vào mã SSI
+trade,gom thêm mã SSI
+trade,thoát hàng mã SSI
+trade,thoát hàng SSI
+trade,thoát toàn bộ hàng mã SSI
+trade,thoát hàng mã chứng khoán SSI
+trade,thoát hàng mã cổ phiếu SSI
+trade,thoát toàn bộ mã cổ phiếu SSI
+trade,thoát toàn bộ mã chứng khoán SSI
+trade,xả ra SSI
+trade,xả ra mã SSI
+trade,xả ra mã cổ phiếu SSI
+trade,xả ra mã chứng khoán SSI
+trade,xả ra toàn bộ SSI
+trade,xả ra toàn bộ mã SSI
+trade,xả ra toàn bộ mã chứng khoán SSI
+trade,xả ra toàn bộ mã cổ phiếu SSI
+trade,tôi muốn giao dịch mã SSI
+trade,tôi muốn giao dịch mua cổ phiếu SSI 
+trade,tôi muốn giao dịch bán 100 SSI
+trade,tôi muốn giao dịch SSI
+trade,tôi muốn giao dịch mua mã cổ phiếu SSI 
+trade,tôi muốn giao dịch bán mã cổ phiếu SSI
+trade,tôi muốn giao dịch mua mã chứng khoán SSI
+trade,tôi muốn giao dịch bán mã chứng khoán SSI
+trade,đầu tư thêm vào cổ phiếu SSI
+trade,đầu tư vào mã SSI
+trade,lấy thêm cổ phiếu SSI 
+trade,lấy thêm mã cổ phiếu SSI 
+trade,lấy thêm mã SSI
+trade,lấy thêm 100 cổ SSI
+trade,tôi muốn đặt lệnh mua cổ phiếu SSI 
+trade,tôi muốn đặt lệnh bán cổ phiếu SSI
+trade,tôi muốn đặt lệnh mua SSI
+trade,tôi muốn đặt lệnh bán SSI 
+trade,tôi muốn đặt lệnh mua mã cổ phiếu SSI
+trade,tôi muốn đặt lệnh bán mã cổ phiếu SSI
+trade,tôi muốn đặt lệnh mua mã chứng khoán SSI 
+trade,tôi muốn đặt lệnh bán mã chứng khoán SSI
+trade,tôi muốn đặt lệnh bán mã cổ phiếu SSI
+trade,đặt lệnh bán SSI
+trade,đặt lệnh mua SSI
+trade,đặt bán SSI 
+trade,đặt mua cổ SSI
+trade,tôi cần đặt mua cổ ssi
+trade,tôi cần bán cổ phiếu ssi
+trade,giao dịch mua SSI
+trade,giao dịch bán SSI
+trade,tôi muốn giao dịch bán SSI
+trade,giao dịch bcp
+trade,giao dịch bcp
+trade,tôi muốn thực hiện giao dịch SSI
+trade,tôi muốn thực hiện giao dịch mã SSI
+trade,tôi muốn thực hiện giao dịch cổ phiếu SSI
+trade,tôi muốn thực hiện giao dịch mua bán SSI
+trade,tôi muốn tiến hành giao dịch SSI
+trade,tôi muốn tiến hành giao dịch mã SSI
+trade,tôi muốn tiến hành giao dịch cổ phiếu SSI
+trade,tôi muốn tiến hành giao dịch mua bán SSI
+trade,hôm nay thị trường tệ quá, bán hết SSI đi
+trade,hôm nay thị trường xuống nhiều, bán toàn bộ mã SSI cho tôi
