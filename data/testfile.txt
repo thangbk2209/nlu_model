@@ -68,7 +68,7 @@ cash_balance, tổng tiền tôi có thể rút là bao nhiêu
 advice, cho tôi lời khuyên về việc mua bán ssi lúc này đi
 advice, có phải thị trường đang rơi vào trạng thái điều chỉnh không?
 trade, đặt lệnh mua 100 ssi với giá 20
-stock_order, lệnh mua bán ssi tôi mới đặt hợp lệ chứ
+order_status, lệnh mua bán ssi tôi mới đặt hợp lệ chứ
 end, tôi đi đây nên tắt chương trình đi
 cancel, thực hiện hủy lệnh mua 1000 cp ssi của tôi đi
 stock_balance, kiểm tra các loại cổ phiếu trong tài khoản của tôi
@@ -76,7 +76,7 @@ cash_balance, tài khoản còn bao nhiêu tiền
 advice, cho tôi về lời khuyên về mã ssi
 market, tôi muốn thông tin về cp ssi
 trade, tôi muốn đặt lệnh mua ngay lập tức 1000 ssi theo giá thị trường
-stock_order, kiểm tra tình trạng khớp lệnh của tôi
+order_status, kiểm tra tình trạng khớp lệnh của tôi
 end, tôi muốn kết thúc chương trình
 cancel, tôi vừa nhập nhầm giá nên hủy lệnh vừa nhập đi
 stock_balance, trong tài khoản còn bao nhiêu cổ phiếu?
@@ -84,7 +84,7 @@ cash_balance, trong tài khoản còn bao nhiêu tiền?
 advice, Với 10 triệu có nên đầu tư vào ssi không nhỉ?
 market, thị trường hôm nay có vào vùng đáy không nhỉ?
 trade, muốn mua 1000 ssi giá 10
-stock_order, kiểm tra xem có lệnh nào tôi đặt không được khớp không?
+order_status, kiểm tra xem có lệnh nào tôi đặt không được khớp không?
 end, tôi phải đi đây nên dừng chương trình đi
 cancel_all, tôi muốn hủy bỏ các lệnh tôi vừa đặt lúc nãy
 stock_balance, số cổ phiếu tôi còn sau khi bán ssi là bao nhiêu
@@ -92,7 +92,7 @@ cash_balance, tiền trong tài khoản là bao nhiêu nhỉ?
 advice, tôi có nên đem tiền đầu tư vào mã ssi lúc này hay không?
 market, thấy bán tháo ssi, cho tôi xem thông tin mã ssi hôm nay
 trade, mua cho tôi 1000 ssi giá 10 ngay đi
-stock_order, lệnh bán của tôi vừa đặt đang trong trạng thái nào rồi?
+order_status, lệnh bán của tôi vừa đặt đang trong trạng thái nào rồi?
 end, tôi muốn kết thúc chương trình ngay bây giờ
 end, kết thúc phần mềm đi
 cancel, trở lại chức năng chính đi

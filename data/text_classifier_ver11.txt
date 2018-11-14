@@ -926,7 +926,7 @@ cancel_all,hủy toàn bộ các lệnh tôi vừa đặt khẩn trương
 cancel_all,hủy toàn bộ các lệnh đã đặt khẩn trương
 cancel_all,hủy toàn bộ các lệnh tôi có
 cancel_all,hủy toàn bộ khẩn trương
-cancel-all,hủy toàn bộ lệnh đầu tư
+cancel_all,hủy toàn bộ lệnh đầu tư
 cancel_all,có gì hủy tất
 cancel_all,có lệnh gì hủy tất
 cancel_all,có lệnh gì hủy sạch đi
@@ -1605,7 +1605,6 @@ end,chấm dứt chương trình ngay
 end,chấm dứt app
 end,trở lại sau
 end,trở lại sau nhé
-end,đi đây
 end,chào
 end,thế nhé
 end,tắt app
@@ -1614,7 +1613,6 @@ end,tắt ứng dụng
 end,tắt chương trình
 end,tạm biệt nhé
 end,chào tạm biệt nhé
-end,đi nhé
 end,dừng chương trình
 end,dừng app
 end,dừng ứng dụng
@@ -1773,7 +1771,7 @@ market,hiện đang ra sao
 market,mã ssi hiện đang ra sao
 market,mã ssi hiện đang thế nào
 market,giá cổ phiếu SSI như thế nào?
-market,mã SSI hôm nay có ổn không?
+advice,mã SSI hôm nay có ổn không?
 market,mã SSI hôm nay có biến động nhiều không?
 market,cổ phiếu SSI hôm nay thế nào nhỉ?
 market,mã SSI hôm nay như nào nhỉ?

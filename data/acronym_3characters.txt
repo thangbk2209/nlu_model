@@ -64,3 +64,5 @@ cp,cổ_phiếu
 ttckps,thị_trường chứng_khoán phái_sinh
 klgd,khối_lượng giao_dịch
 kt,kiểm tra
+như nào, thế nào
+như thế nào, thế nào

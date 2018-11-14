@@ -19,7 +19,7 @@ input_size = 32
 embedding_dim = 50
 version_wc = 10
 
-version_classifier = 8
+version_classifier = 10
 name_class = 'ANN_ver' + str(version_wc) + '.' + str(version_classifier)
 wv_file = "/home/fdm-thang/robochat/nlu_gensim/word_vector/word2vec_ver" + str(version_wc) + ".model"
 # fname = get_tmpfile("word2vec_ver9.model")
@@ -154,12 +154,11 @@ file = open('err_data.txt','w', encoding="utf8")
 file1 = open('new_data.txt','w', encoding="utf8")
 
     
-with open('/home/fdm-thang/robochat/nlu_gensim/data/testfile.txt') as input:
-    
+with open('/home/fdm-thang/robochat/nlu_gensim/data/testfile.txt') as input:   
     labels = []   
     contents = []
     for line in input :
-        # print (line)
+        print (line)
         temp = line.split(",",1)
         labels.append(temp[0])
         contents.append(temp[1])

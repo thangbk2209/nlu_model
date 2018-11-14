@@ -1072,7 +1072,6 @@ sắp_đặt
 sẽ
 sẽ_biết
 sẽ_hay
-số
 số_cho_biết
 số_cụ_thể
 số_loại
@@ -1718,6 +1717,23 @@ xệp
 ừ_ào
 ừ_ừ
 ử
+nhé
+nha
+nhớ
+hôm_nay
+hôm_qua
+ngày_mai
+kia
+này
+con
+của
+ra_sao
+cái
+bot
+phát
+cô
+cậu
+cho
 """.split('\n'))
     """
     This function check a word is stop word or not!!!
