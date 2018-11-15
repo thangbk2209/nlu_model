@@ -49,7 +49,7 @@ num_classes = 12
 epoch_classifier = 1500
 
 version_wc = 10
-version_classifier = 13
+version_classifier = 14
 learning_rate = 0.05
 wv_file = "/home/fdm-thang/robochat/nlu_gensim/word_vector/word2vec_ver" + str(version_wc) + ".model"
 file_data_classifier = '../data/text_classifier_ver16.txt'
