@@ -59,7 +59,7 @@ def read_tf_data(file_trained_data):
         tf_dicts = pk.load(input_file)
     return tf_dicts
 def get_vocab():
-    word2int, int2word = read_vocab_data('../vocabulary/word2int_ver12.pkl')
+    word2int, int2word = read_vocab_data('./vocabulary/word2int_ver12.pkl')
     vocab = word2int.keys()
     return vocab
 def check_editdistanceone(word):
@@ -68,10 +68,12 @@ def check_editdistanceone(word):
     for element in vocab:
         if (isEditDistanceOne(word,element) == True):
             results.append(element)
+    results.append(word)
     return results
+
 if __name__ == '__main__':
     start_time = time.time()
     word = 'mem'
     correlated_word = check_editdistanceone(word)
-    print (correlated_word)
+    print (correlated_word.shape)
     print (time.time() - start_time)
